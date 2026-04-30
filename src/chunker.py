@@ -129,7 +129,7 @@ def build_chunks(text):
         content = clean(content)
 
         data.append({
-            "id": std_id,
+            "standard": std_id,
             "content": content
         })
 
