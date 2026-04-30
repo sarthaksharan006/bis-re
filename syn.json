@@ -1,0 +1,127 @@
+[
+  {
+    "id": "SYN-01",
+    "query": "We are producing cement for general construction use and need compliance details for standard ordinary Portland cement of lower strength category.",
+    "expected_standards": ["IS 269: 1989"]
+  },
+  {
+    "id": "SYN-02",
+    "query": "Our supplier provides natural sand and gravel aggregates for reinforced concrete. Which BIS standard governs their quality and grading?",
+    "expected_standards": ["IS 383: 1970"]
+  },
+  {
+    "id": "SYN-03",
+    "query": "Looking for specifications applicable to prestressed concrete pipes used in water transport systems.",
+    "expected_standards": ["IS 784: 2001"]
+  },
+  {
+    "id": "SYN-04",
+    "query": "We manufacture lightweight concrete blocks for partition walls and insulation. Which Indian standard should we follow?",
+    "expected_standards": ["IS 2185 (Part 2): 1983"]
+  },
+  {
+    "id": "SYN-05",
+    "query": "Need guidance on cement suitable for marine environments and sulphate-rich soil exposure.",
+    "expected_standards": ["IS 6909: 1990"]
+  },
+  {
+    "id": "SYN-06",
+    "query": "We produce roofing sheets made from asbestos cement in corrugated form. Which BIS specification applies?",
+    "expected_standards": ["IS 459: 1992"]
+  },
+  {
+    "id": "SYN-07",
+    "query": "Our unit manufactures slag-based cement by blending granulated blast furnace slag. What standard applies?",
+    "expected_standards": ["IS 455: 1989"]
+  },
+  {
+    "id": "SYN-08",
+    "query": "I need the specification for cement that incorporates fly ash as a pozzolanic material.",
+    "expected_standards": ["IS 1489 (Part 1): 1991"]
+  },
+  {
+    "id": "SYN-09",
+    "query": "Which BIS standard defines requirements for calcined clay based pozzolana cement?",
+    "expected_standards": ["IS 1489 (Part 2): 1991"]
+  },
+  {
+    "id": "SYN-10",
+    "query": "We are working with masonry mortar mixes and need a cement type specifically meant for masonry use, not structural concrete.",
+    "expected_standards": ["IS 3466: 1988"]
+  },
+  {
+    "id": "SYN-11",
+    "query": "Looking for high early strength cement for cold regions with rapid strength gain.",
+    "expected_standards": ["IS 6452: 1989"]
+  },
+  {
+    "id": "SYN-12",
+    "query": "What standard applies to rapid hardening cement used where early strength development is required?",
+    "expected_standards": ["IS 8041: 1990"]
+  },
+  {
+    "id": "SYN-13",
+    "query": "We manufacture decorative white cement for architectural finishes. Which standard governs it?",
+    "expected_standards": ["IS 8042: 1989"]
+  },
+  {
+    "id": "SYN-14",
+    "query": "Our cement product is designed to resist moisture absorption during storage. Which specification applies?",
+    "expected_standards": ["IS 8043: 1991"]
+  },
+  {
+    "id": "SYN-15",
+    "query": "We need compliance info for medium strength Portland cement typically used in general construction.",
+    "expected_standards": ["IS 8112: 1989"]
+  },
+  {
+    "id": "SYN-16",
+    "query": "Which standard applies to high strength 53 grade Portland cement used in precast and prestressed applications?",
+    "expected_standards": ["IS 12269: 1987"]
+  },
+  {
+    "id": "SYN-17",
+    "query": "Our construction project requires fine aggregates specifically for masonry mortars. Which BIS standard is relevant?",
+    "expected_standards": ["IS 2116: 1980"]
+  },
+  {
+    "id": "SYN-18",
+    "query": "We are producing artificial lightweight aggregates like fly ash aggregates for masonry blocks. Which standard applies?",
+    "expected_standards": ["IS 9142: 1979"]
+  },
+  {
+    "id": "SYN-19",
+    "query": "Looking for standards governing reinforced concrete pipes used in drainage systems.",
+    "expected_standards": ["IS 458: 2003"]
+  },
+  {
+    "id": "SYN-20",
+    "query": "Which Indian standard covers precast concrete manhole covers and frames used in urban infrastructure?",
+    "expected_standards": ["IS 12592: 2002"]
+  },
+  {
+    "id": "SYN-21",
+    "query": "We are manufacturing precast concrete kerbs for road construction. What BIS specification applies?",
+    "expected_standards": ["IS 5758: 1984"]
+  },
+  {
+    "id": "SYN-22",
+    "query": "Need standard guidelines for reinforced concrete fence posts used in infrastructure projects.",
+    "expected_standards": ["IS 4996: 1984"]
+  },
+  {
+    "id": "SYN-23",
+    "query": "Looking for specification related to concrete blocks used for lintels and sills.",
+    "expected_standards": ["IS 9893: 1981"]
+  },
+  {
+    "id": "SYN-24",
+    "query": "Which BIS standard governs concrete cable covers used in underground installations?",
+    "expected_standards": ["IS 5820: 1970"]
+  },
+  {
+    "id": "SYN-25",
+    "query": "We are designing prefabricated concrete planks and joists for flooring. Which standard is relevant?",
+    "expected_standards": ["IS 13990: 1994"]
+  }
+]

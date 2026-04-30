@@ -42,34 +42,45 @@ def extract_title_and_scope(block):
         flags=re.IGNORECASE
     )
 
+        # ---------------------------
+    # TITLE = before first bullet OR "Scope"
     # ---------------------------
-    # TITLE = before first bullet
-    # ---------------------------
-    bullets = list(re.finditer(r"\b\d+\.\s", text))
 
+    bullets = list(re.finditer(r"\b\d+\.\s", text))
+    scope_match = re.search(r"\bScope\b", text, re.IGNORECASE)
+
+    title_end_candidates = []
+
+    # first bullet position
     if bullets:
-        title = text[:bullets[0].start()]
+        title_end_candidates.append(bullets[0].start())
+
+    # scope position
+    if scope_match:
+        title_end_candidates.append(scope_match.start())
+
+    if title_end_candidates:
+        title_end = min(title_end_candidates)
+        title = text[:title_end]
     else:
+        title_end = len(text)
         title = text
+
+    scope = ""
 
     # ---------------------------
     # FIND SCOPE USING "Scope"
     # ---------------------------
-    scope = ""
-
-    scope_match = re.search(r"\bScope\b", text, re.IGNORECASE)
 
     if scope_match:
         start = scope_match.start()
 
-        # try finding next top-level bullet
         next_bullet = re.search(r"\b\d+\.\s", text[start + 1:])
 
         if next_bullet:
             end = start + 1 + next_bullet.start()
             scope = text[start:end]
         else:
-            # 🔥 FALLBACK: take next ~50 words
             words = text[start:].split()
             scope = " ".join(words[:50])
 
@@ -92,9 +103,13 @@ def extract_title_and_scope(block):
             if end_scope:
                 scope = text[start_1:end_scope]
             else:
-                # 🔥 fallback here too
                 words = text[start_1:].split()
                 scope = " ".join(words[:50])
+
+        else:
+            # 🔥 FINAL FALLBACK (NEW)
+            words = text[title_end:].split()
+            scope = " ".join(words[:50])
 
     # ---------------------------
     # CLEAN TITLE
@@ -103,7 +118,6 @@ def extract_title_and_scope(block):
     title = re.sub(r"\s+", " ", title)
 
     return clean(title), clean(scope)
-
 
 def build_chunks(text):
     blocks = text.split("SUMMARY OF")[1:]

@@ -3,7 +3,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-
+print("Running embedder...")
 def load_model(model_name="all-MiniLM-L6-v2"):
     try:
         print("Trying to load model locally...")

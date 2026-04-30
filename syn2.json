@@ -1,0 +1,408 @@
+[
+  {
+    "id": "SYN-001",
+    "query": "Need coarse and fine aggregates from natural sources for structural concrete in a housing project.",
+    "expected_standards": [
+      "IS 383: 1970"
+    ]
+  },
+  {
+    "id": "SYN-002",
+    "query": "Looking for sand suitable for masonry mortar work on brick walls and plaster.",
+    "expected_standards": [
+      "IS 2116: 1980"
+    ]
+  },
+  {
+    "id": "SYN-003",
+    "query": "We are manufacturing lightweight concrete masonry blocks and need the standard for artificial lightweight aggregates.",
+    "expected_standards": [
+      "IS 9142: 1979"
+    ]
+  },
+  {
+    "id": "SYN-004",
+    "query": "Our plant produces 33 grade ordinary Portland cement for general construction.",
+    "expected_standards": [
+      "IS 269: 1989"
+    ]
+  },
+  {
+    "id": "SYN-005",
+    "query": "We want the specification for Portland slag cement used in aggressive environments.",
+    "expected_standards": [
+      "IS 455: 1989"
+    ]
+  },
+  {
+    "id": "SYN-006",
+    "query": "We are blending fly ash based pozzolana cement and need the relevant Indian Standard.",
+    "expected_standards": [
+      "IS 1489 (Part 1): 1991"
+    ]
+  },
+  {
+    "id": "SYN-007",
+    "query": "We are blending calcined clay based pozzolana cement and need the relevant Indian Standard.",
+    "expected_standards": [
+      "IS 1489 (Part 2): 1991"
+    ]
+  },
+  {
+    "id": "SYN-008",
+    "query": "Which standard applies to masonry cement intended for mortar work but not structural concrete?",
+    "expected_standards": [
+      "IS 3466: 1988"
+    ]
+  },
+  {
+    "id": "SYN-009",
+    "query": "We need high alumina cement for structural use in cold regions.",
+    "expected_standards": [
+      "IS 6452: 1989"
+    ]
+  },
+  {
+    "id": "SYN-010",
+    "query": "Which standard covers supersulphated cement for marine works and sulphate-bearing soils?",
+    "expected_standards": [
+      "IS 6909: 1990"
+    ]
+  },
+  {
+    "id": "SYN-011",
+    "query": "We manufacture rapid hardening Portland cement for precast products.",
+    "expected_standards": [
+      "IS 8041: 1990"
+    ]
+  },
+  {
+    "id": "SYN-012",
+    "query": "We need the standard for white Portland cement used in decorative architectural finishes.",
+    "expected_standards": [
+      "IS 8042: 1989"
+    ]
+  },
+  {
+    "id": "SYN-013",
+    "query": "We are sourcing hydrophobic Portland cement for storage in humid conditions.",
+    "expected_standards": [
+      "IS 8043: 1991"
+    ]
+  },
+  {
+    "id": "SYN-014",
+    "query": "We manufacture 43 grade ordinary Portland cement for higher-strength concrete applications.",
+    "expected_standards": [
+      "IS 8112: 1989"
+    ]
+  },
+  {
+    "id": "SYN-015",
+    "query": "We need 53 grade ordinary Portland cement for prestressed and precast work.",
+    "expected_standards": [
+      "IS 12269: 1987"
+    ]
+  },
+  {
+    "id": "SYN-016",
+    "query": "We need sulphate resisting Portland cement for concrete exposed to sulphate attack.",
+    "expected_standards": [
+      "IS 12330: 1988"
+    ]
+  },
+  {
+    "id": "SYN-017",
+    "query": "We manufacture hollow and solid concrete blocks for wall construction.",
+    "expected_standards": [
+      "IS 2185 (Part 1): 1979"
+    ]
+  },
+  {
+    "id": "SYN-018",
+    "query": "We manufacture hollow and solid lightweight concrete blocks and need the applicable specification.",
+    "expected_standards": [
+      "IS 2185 (Part 2): 1983"
+    ]
+  },
+  {
+    "id": "SYN-019",
+    "query": "We manufacture autoclaved cellular aerated concrete blocks for lightweight masonry.",
+    "expected_standards": [
+      "IS 2185 (Part 3): 1984"
+    ]
+  },
+  {
+    "id": "SYN-020",
+    "query": "We need the standard for reinforced concrete fence posts.",
+    "expected_standards": [
+      "IS 4996: 1984"
+    ]
+  },
+  {
+    "id": "SYN-021",
+    "query": "We produce precast concrete coping blocks for boundary walls and parapets.",
+    "expected_standards": [
+      "IS 5751: 1984"
+    ]
+  },
+  {
+    "id": "SYN-022",
+    "query": "We are making precast concrete kerbs for roads and pavements.",
+    "expected_standards": [
+      "IS 5758: 1984"
+    ]
+  },
+  {
+    "id": "SYN-023",
+    "query": "We need the standard for precast concrete cable covers.",
+    "expected_standards": [
+      "IS 5820: 1970"
+    ]
+  },
+  {
+    "id": "SYN-024",
+    "query": "We produce autoclaved reinforced cellular concrete wall slabs for prefabricated construction.",
+    "expected_standards": [
+      "IS 6072: 1971"
+    ]
+  },
+  {
+    "id": "SYN-025",
+    "query": "We produce autoclaved reinforced cellular concrete floor and roof slabs.",
+    "expected_standards": [
+      "IS 6073: 1971"
+    ]
+  },
+  {
+    "id": "SYN-026",
+    "query": "We manufacture precast reinforced concrete door and window frames.",
+    "expected_standards": [
+      "IS 6523: 1983"
+    ]
+  },
+  {
+    "id": "SYN-027",
+    "query": "We need precast concrete blocks for lintels and sills in masonry openings.",
+    "expected_standards": [
+      "IS 9893: 1981"
+    ]
+  },
+  {
+    "id": "SYN-028",
+    "query": "We need the standard for corrugated coir wood wool cement roofing sheets.",
+    "expected_standards": [
+      "IS 10388: 1982"
+    ]
+  },
+  {
+    "id": "SYN-029",
+    "query": "We make precast concrete stone masonry blocks for faced wall construction.",
+    "expected_standards": [
+      "IS 12440: 1988"
+    ]
+  },
+  {
+    "id": "SYN-030",
+    "query": "We are supplying precast concrete manhole covers and frames for drainage infrastructure.",
+    "expected_standards": [
+      "IS 12592: 2002"
+    ]
+  },
+  {
+    "id": "SYN-031",
+    "query": "We manufacture precast ferrocement water tanks with a capacity of a few thousand litres.",
+    "expected_standards": [
+      "IS 13356: 1992"
+    ]
+  },
+  {
+    "id": "SYN-032",
+    "query": "We manufacture precast reinforced concrete planks and joists for flooring and roofing.",
+    "expected_standards": [
+      "IS 13990: 1994"
+    ]
+  },
+  {
+    "id": "SYN-033",
+    "query": "We make prefabricated bricks panels with partially precast joists for floor and roof systems.",
+    "expected_standards": [
+      "IS 14143: 1994"
+    ]
+  },
+  {
+    "id": "SYN-034",
+    "query": "We are developing precast reinforced concrete channel units for roof and floor construction.",
+    "expected_standards": [
+      "IS 14201: 1994"
+    ]
+  },
+  {
+    "id": "SYN-035",
+    "query": "We need the specification for precast L-panel units used in roofing.",
+    "expected_standards": [
+      "IS 14241: 1995"
+    ]
+  },
+  {
+    "id": "SYN-036",
+    "query": "Looking for corrugated and semi-corrugated asbestos cement sheets used on industrial sheds.",
+    "expected_standards": [
+      "IS 459: 1992"
+    ]
+  },
+  {
+    "id": "SYN-037",
+    "query": "We manufacture asbestos cement pressure pipes and joints for water conveyance.",
+    "expected_standards": [
+      "IS 1592: 2003"
+    ]
+  },
+  {
+    "id": "SYN-038",
+    "query": "We need asbestos cement building pipes and pipe fittings for construction services.",
+    "expected_standards": [
+      "IS 1626 (Part 1): 1994"
+    ]
+  },
+  {
+    "id": "SYN-039",
+    "query": "We need asbestos cement gutters and gutter fittings for roof drainage.",
+    "expected_standards": [
+      "IS 1626 (Part 2): 1994"
+    ]
+  },
+  {
+    "id": "SYN-040",
+    "query": "We need asbestos cement roofing accessories such as ridge pieces and fittings.",
+    "expected_standards": [
+      "IS 1626 (Part 3): 1994"
+    ]
+  },
+  {
+    "id": "SYN-041",
+    "query": "We are making asbestos cement flat sheets for cladding and partition use.",
+    "expected_standards": [
+      "IS 2096: 1992"
+    ]
+  },
+  {
+    "id": "SYN-042",
+    "query": "We are manufacturing asbestos cement building boards for interior and exterior panels.",
+    "expected_standards": [
+      "IS 2098: 1997"
+    ]
+  },
+  {
+    "id": "SYN-043",
+    "query": "We need the standard for asbestos cement pipes and fittings used in sewerage and drainage.",
+    "expected_standards": [
+      "IS 6908: 1991"
+    ]
+  },
+  {
+    "id": "SYN-044",
+    "query": "We make asbestos cement cable conduits and troughs for electrical installations.",
+    "expected_standards": [
+      "IS 8870: 1978"
+    ]
+  },
+  {
+    "id": "SYN-045",
+    "query": "We are producing light-duty asbestos cement pressure pipes.",
+    "expected_standards": [
+      "IS 9627: 1980"
+    ]
+  },
+  {
+    "id": "SYN-046",
+    "query": "We need silica asbestos cement flat sheets for industrial roofing applications.",
+    "expected_standards": [
+      "IS 13000: 1990"
+    ]
+  },
+  {
+    "id": "SYN-047",
+    "query": "We manufacture shallow corrugated asbestos cement sheets for roofing.",
+    "expected_standards": [
+      "IS 13008: 1990"
+    ]
+  },
+  {
+    "id": "SYN-048",
+    "query": "We need precast concrete pipes with or without reinforcement for water and drainage work.",
+    "expected_standards": [
+      "IS 458: 2003"
+    ]
+  },
+  {
+    "id": "SYN-049",
+    "query": "We need prestressed concrete pipes including fittings for infrastructure projects.",
+    "expected_standards": [
+      "IS 784: 2001"
+    ]
+  },
+  {
+    "id": "SYN-050",
+    "query": "We manufacture steel cylinder pipes with concrete lining and coating.",
+    "expected_standards": [
+      "IS 1916: 1989"
+    ]
+  },
+  {
+    "id": "SYN-051",
+    "query": "We need concrete porous pipes for under-drainage in agricultural fields.",
+    "expected_standards": [
+      "IS 4350: 1967"
+    ]
+  },
+  {
+    "id": "SYN-052",
+    "query": "We need perforated concrete pipes for special drainage applications.",
+    "expected_standards": [
+      "IS 7319: 1974"
+    ]
+  },
+  {
+    "id": "SYN-053",
+    "query": "We need specials for steel cylinder reinforced concrete pipes.",
+    "expected_standards": [
+      "IS 7322: 1985"
+    ]
+  },
+  {
+    "id": "SYN-054",
+    "query": "We are sealing expansion joints in concrete pavements and structures with hot applied compounds.",
+    "expected_standards": [
+      "IS 1834: 1984"
+    ]
+  },
+  {
+    "id": "SYN-055",
+    "query": "We need preformed fillers for expansion joints in concrete pavements using bitumen impregnated fibre.",
+    "expected_standards": [
+      "IS 1838 (Part 1): 1983"
+    ]
+  },
+  {
+    "id": "SYN-056",
+    "query": "We need preformed fillers for expansion joints in concrete pavements using CNSL aldehyde resin and coconut pith.",
+    "expected_standards": [
+      "IS 1838 (Part 2): 1984"
+    ]
+  },
+  {
+    "id": "SYN-057",
+    "query": "We need a one part gun-grade polysulphide-based joint sealant.",
+    "expected_standards": [
+      "IS 11433 (Part 1): 1985"
+    ]
+  },
+  {
+    "id": "SYN-058",
+    "query": "We need a two part polysulphide-based sealant for joints in concrete structures.",
+    "expected_standards": [
+      "IS 12118 (Part 1): 1987"
+    ]
+  }
+]
