@@ -22,4 +22,4 @@ if __name__ == "__main__":
     with open("data/raw_text.txt", "w", encoding="utf-8") as f:
         f.write(text)
 
-    print("Saved improved text to raw_text_v2.txt")
+    print("Saved improved text to raw_text.txt")
