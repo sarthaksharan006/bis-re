@@ -2,9 +2,9 @@ import faiss
 import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
+print("Running retriever...")
 
-
-def load_model(model_name="all-MiniLM-L6-v2"):
+def load_model(model_name="BAAI/bge-base-en-v1.5"):
     try:
         print("Trying to load model locally...")
         model = SentenceTransformer(model_name, local_files_only=True)
@@ -41,4 +41,6 @@ def retrieve(query, k=5):
     # remove duplicates
     results = list(dict.fromkeys(results))
 
-    return results[:k]
+    return results[:k] 
+    
+print("Retrieval done...")
