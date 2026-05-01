@@ -6,15 +6,15 @@ from sentence_transformers import SentenceTransformer
 print("Running embedder...")
 def load_model(model_name="BAAI/bge-base-en-v1.5"):
     try:
-        print("Trying to load model locally...")
+        print("Trying to find model locally...")
         model = SentenceTransformer(model_name, local_files_only=True)
-        print("Loaded model from local cache")
+        print("Loaded model from local cache.")
         return model
 
     except Exception as e:
         print("Model not found locally. Downloading...")
         model = SentenceTransformer(model_name)
-        print("Model downloaded and cached")
+        print("Model downloaded and cached.")
         return model
     
 model = load_model()
@@ -23,7 +23,14 @@ model = load_model()
 with open("data/chunks.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-texts = [item["content"] for item in data]
+# Combine the category and content so the vector captures both.
+texts = []
+for item in data:
+    content = item.get("content", "")
+    category = item.get("category", "")
+    # concatenate both columns; if category exists, prepend it
+    combined = f"{category} {content}".strip() if category else content
+    texts.append(combined)
 
 print("Encoding embeddings...")
 embeddings = model.encode(texts, show_progress_bar=True)
@@ -38,4 +45,4 @@ index.add(embeddings)
 # save index + metadata
 faiss.write_index(index, "data/index.faiss")
 
-print("Embeddings + index saved")
+print("Embeddings and index saved")

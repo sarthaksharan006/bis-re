@@ -2,13 +2,13 @@ import json
 
 
 def filter_short_chunks(chunks, word_threshold):
-    filtered_chunks = []
-    for entry in chunks:
-        content = entry.get("content", "")
-        word_count = len(content.split())
-        if word_count < word_threshold:
-            filtered_chunks.append(entry)
-    return filtered_chunks
+    # Keep chunks with short content.
+    return [entry for entry in chunks if len(entry.get("content", "").split()) < word_threshold]
+
+
+def filter_no_category(chunks):
+    # Keep chunks that have no category yet.
+    return [entry for entry in chunks if "category" not in entry or not entry.get("category")]
 
 
 if __name__ == "__main__":
@@ -16,10 +16,18 @@ if __name__ == "__main__":
         chunks = json.load(f)
 
     word_threshold = 15
-    filtered_chunks = filter_short_chunks(chunks, word_threshold)
+    short = filter_short_chunks(chunks, word_threshold)
+    no_category = filter_no_category(chunks)
+
+    # Save both filtered groups in one file.
+    out = {
+        "contents": short,
+        "no_category": no_category
+    }
 
     with open("data/filtered_chunks.json", "w", encoding="utf-8") as f:
-        json.dump(filtered_chunks, f, indent=2, ensure_ascii=False)
+        json.dump(out, f, indent=2, ensure_ascii=False)
 
-    print(f"Filtered chunks (< {word_threshold} words): {len(filtered_chunks)}")
-    print("Saved to data/filtered_chunks.json")
+    print(f"Filtered chunks (< {word_threshold} words): {len(short)}")
+    print(f"Chunks without category: {len(no_category)}")
+    print("Saved to data/filtered_chunks.json.\nManual editing needed.")

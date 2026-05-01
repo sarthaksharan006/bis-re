@@ -6,15 +6,15 @@ print("Running retriever...")
 
 def load_model(model_name="BAAI/bge-base-en-v1.5"):
     try:
-        print("Trying to load model locally...")
+        print("Trying to find model locally...")
         model = SentenceTransformer(model_name, local_files_only=True)
-        print("Loaded model from local cache")
+        print("Loaded model from local cache.")
         return model
 
     except Exception as e:
         print("Model not found locally. Downloading...")
         model = SentenceTransformer(model_name)
-        print("Model downloaded and cached")
+        print("Model downloaded and cached.")
         return model
 
 
@@ -27,6 +27,7 @@ with open("data/chunks.json", "r", encoding="utf-8") as f:
 
 
 def retrieve(query, k=5):
+    # k = final output size (controlled from inference.py)
     query = query.lower()
 
     q_emb = model.encode([query])
@@ -38,9 +39,9 @@ def retrieve(query, k=5):
     for idx in I[0]:
         results.append(data[idx]["standard"])
 
-    # remove duplicates
+    # Remove duplicates
     results = list(dict.fromkeys(results))
 
     return results[:k] 
     
-print("Retrieving..")
+print("Retrieving...")

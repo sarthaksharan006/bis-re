@@ -1,4 +1,6 @@
+import re
 import fitz
+
 
 def extract_pdf_text_blocks(pdf_path):
     doc = fitz.open(pdf_path)
@@ -16,10 +18,26 @@ def extract_pdf_text_blocks(pdf_path):
     return "\n".join(all_text)
 
 
+def cleanup_text(text):
+    section_heading = re.compile(r"(?im)^\s*SECTION\s+1\b.*$")
+    matches = list(section_heading.finditer(text))
+
+    if len(matches) >= 2:
+        cleaned = text[matches[1].start():]
+    elif len(matches) == 1:
+        cleaned = text[matches[0].start():]
+    else:
+        cleaned = text
+
+    cleaned = cleaned.replace("SP  21 : 2005", "")
+    return cleaned
+
+
 if __name__ == "__main__":
     text = extract_pdf_text_blocks("data/dataset.pdf")
+    text = cleanup_text(text)
 
-    with open("data/raw_text.txt", "w", encoding="utf-8") as f:
+    with open("data/raw.txt", "w", encoding="utf-8") as f:
         f.write(text)
 
-    print("Saved improved text to raw_text.txt")
+    print("Saved text to raw.txt")

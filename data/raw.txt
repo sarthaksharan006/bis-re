@@ -1,364 +1,3 @@
-इंटरनेट
-मानक
-
-Disclosure to Promote the Right To Information
-
-Whereas the Parliament of India has set out to provide a practical regime of right to 
-information for citizens to secure access to information under the control of public authorities, 
-in order to promote transparency and accountability in the working of every public authority, 
-and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
-to the public, particularly disadvantaged communities and those engaged in the pursuit of 
-education and knowledge, the attached public safety standard is made available to promote the 
-timely dissemination of this information in an accurate manner to the public. 
-
-“जान1 का अ+धकार, जी1 का अ+धकार”
-
-“प0रा1 कोछोडन' 5 तरफ”
-
-Jawaharlal Nehru
-“Step Out From the Old to the New”
-
-Mazdoor Kisan Shakti Sangathan
-“The Right to Information, The Right to Live”
-
-SP 21 (2005): Summaries of Indian Standards for Building
-Materials [CED 13: Building Construction Practices
-including Painting, Varnishing and Allied Finishing]
-
-“!ान$ एकन' भारतका+नम-ण”
-
-Satyanarayan Gangaram Pitroda
-“Invent a New India Using Knowledge”
-
-”
-
-“!ानएकऐसाखजाना> जोकभीच0रायानहB जासकताहै”
-
-है”
-ह”
-ह
-
-Bhartṛhari—Nītiśatakam
-“Knowledge is such a treasure which cannot be stolen”
-
- 
-
- 
-
-SP 21 : 2005 
- 
- 
- 
-SUMMARIES OF INDIAN STANDARDS 
-FOR 
-BUILDING MATERIALS 
-(First Revision) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-BUREAU  OF  INDIAN  STANDARDS 
-MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
-NEW DELHI 110002 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SP 21 : 2005 
- 
-FIRST PUBLISHED  MARCH 1985 
-FIRST REVISION  NOVEMBER 2009 
- 
-© BUREAU OF INDIAN STANDARDS 
- 
- 
-UDC 691:006.3/.8 
- 
- 
- 
- 
-PRICE RS. 9270.00 
- 
-PRINTED IN INDIA AT 
-GOVERNMENT OF INDIA PRESS,  
-AND PUBLISHED BY 
-BUREAU OF INDIAN STANDARDS, NEW DELHI 110002 
- 
-
- 
-ii
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COMPOSITION OF THE PANEL FOR REVISION OF SP 21 
- 
-       Representing  
- 
- 
- 
- 
-Members 
-
-In Personal capacity (D-6, Sector-55, Noida-201301) 
-SHRI A. K. SARKAR (Convener) 
-
-Building Materials and Technology Promotion 
-SHRI V. K. SETHI 
-Council, New Delhi 
-
-Central Building Research Institute, Roorkee 
-SHRI B. S. GUPTA 
-
-Central Public Works Department, New Delhi 
-CHIEF ENGINEER (CDO) 
-SUPERINTENDING ENGINEER (CDO) (Alternate) 
-
-BIS Directorate General 
- 
-SHRI J. C. ARORA 
- 
-Director & Head (Civil Engg) 
- 
-[Representing Director General (Ex-officio)] 
-
- 
-Member Secretary 
-SHRI D. BHADRA 
-Scientist ‘B’ (Assistant Director), Civil Engg, BIS 
- 
-
- 
-iii
-
- 
-
- 
-iv
-
-Building Construction Practices including Painting, Varnishing and Allied Finishes, CED 13 
- 
- 
- 
- 
-FOREWORD 
- 
-Users of various Civil Engineering Codes felt the need for explanatory handbooks and other 
-compilations based on Indian Standards. The need was further emphasized in view of the publication 
-of the National Building Code of India in 1970 and its implementation.  The Expert Group set up in 
-1972 by Department of Science and Technology, Government of India carried out in depth studies in 
-various of Civil Engineering and Construction Practices.  During the preparation of the Fifth Five 
-Year Plan in 1975, the Group was assigned the task of producing a Science and Technology Plan for 
-research, development and extension work in the sectors of housing and construction technology.  
-One of the items of this plan was the formulation of design handbooks, explanatory handbooks and 
-design aids based on the National Building Code and various Indian Standards and other activities in 
-the promotion of the National Building Code.  The Expert Group gave high priority to this item and 
-on the recommendation of the Department of Science and Technology, the Planning Commission 
-approved the following two projects which were assigned to the Bureau of Indian Standards 
-(erstwhile Indian Standards Institution): 
- 
-a) Development programme on code implementation for building and civil engineering 
- 
-construction, and 
- 
-b) Typification for industrial buildings 
- 
-A Special Committee for Implementation of Science and Technology Projects (SCIP) consisting of 
-experts connected with different aspects was set up in 1974 to advise the BIS Directorate General in 
-identifying the Handbooks and for guiding the development of the work.  Under the first project, the 
-Committee had identified several subjects for preparing explanatory handbooks/compilations covering 
-appropriate Indian Standards/Codes/Specifications.  One of the compilations suggested was the 
-Handbook on Summaries of Indian Standards for Building Materials, SP 21, first published in 1983 
-for the standards referred in Part 5 of National Building Code of India. 
- 
-Ensuring the quality and effectiveness of building materials used in the construction and storage are as 
-important as the other phases of building activity like planning, designing and constructing the 
-building itself.  Therefore, the Handbook gives a brief summary of the contents of Indian Standards 
-on building materials to indicate such aspects as quality requirements, dimensions, range of 
-properties, limitations on use, etc.  This, however, does not cover the standards relating to paints and 
-other specifications not of direct concern to buildings.  This Handbook assists the professional 
-Engineer/Architect, etc to choose the material for the purpose of their design and estimation.  The 
-general format of the summaries is, scope; range of sizes; important requirements regarding physical, 
-mechanical and other properties; reference to appropriate methods of testing and other related material 
-specifications. 
- 
-It may be noted that the Handbook does not form part of any Indian Standard on the subject and does 
-not have the status of an Indian Standard.  Wherever, if there is any dispute about the interpretation or 
-opinion expressed in this Handbook, the provisions of the latest version of the Standards only shall 
-apply; the provisions of this Handbook should be considered as only supplementary and informative. 
- 
-As many of the Indian Standards referred in the Handbook have been revised and many new 
-Standards have been formulated since its first publication, it was decided to revise this Handbook.  
-This revised version, while basically retaining the structure of 1983 version, explicitly provides for: 
- 
- 
-
- 
-v
-
-a) The summaries of all the latest available Indian Standards on Building Materials including 
-those formulated after the first publication of Handbook (this takes into account all the 
-standards published till 31 December 2004) 
- 
-b) More user friendly version by suitable rearrangements of standards within the chapter. 
- 
-The Handbook is based on the draft prepared by Shri K. Raghavendran, Former Deputy Director 
-General, Bureau of Indian Standards.  The Draft Handbook scrutinized within BIS, was circulated for 
-review to Shri A.K. Sarkar, Former Chairman-cum-Managing Director, National Building 
-Construction Company, Building Materials and Technology Promotion Council, New Delhi, Central 
-Building Research Institute, Roorkee and Central Public Works Department, New Delhi and views 
-expressed by them were taken into consideration while finalizing the Handbook. 
- 
-
- 
-
- 
-vi
-
-CONTENTS 
-Page 
-SECTION 1...................CEMENT AND CONCRETE ………………………………………. 1-81 
-SECTION 2...................BUILDING LIMES ……………………………………………….… 1-15 
-SECTION 3...................STONES …………………………………………………………..… 1-12 
-SECTION 4...................WOOD PRODUCTS FOR BUILDING …………………………….. 1-22 
-SECTION 5...................GYPSUM BUILDING MATERIALS ……………………………… 1-11 
-SECTION 6...................TIMBER ………………………………………………………….… 
-1-25 
-SECTION 7...................BITUMEN AND TAR PRODUCTS ……………………………..… 1-16 
-SECTION 8...................FLOOR, WALL, ROOF COVERINGS AND FINISHES …………. 1-51 
-SECTION 9...................WATER PROOFING AND DAMP PROOFING MATERIALS ….. 1-14 
-SECTION 10.................SANITARY APPLIANCES AND WATER FITTINGS ….……….. 
-1-235 
-SECTION 11.................BUILDER’S HARDWARE ………………………………………… 1-48 
-SECTION 12.................WOOD PRODUCTS ……………………………………………..… 1-59 
-SECTION 13.................DOORS, WINDOWS AND SHUTTERS ………………………..… 
-1-35 
-SECTION 14.................CONCRETE REINFORCEMENT ……………………….………… 1-19 
-SECTION 15.................STRUCTURAL STEELS …………………………………...........… 1-27 
-SECTION 16.................LIGHT METAL AND THEIR ALLOYS ……………………….…. 1-16 
-SECTION 17.................STRUCTURAL SHAPES ………………………………………..… 
-1-25 
-SECTION 18.................WELDING ELECTRODES AND WIRES ………………………… 1-21 
-SECTION 19.................THREADED FASTENERS AND RIVETS ……………..……….… 1-51 
-SECTION 20.................WIRE ROPES AND WIRE PRODUCTS ………………………….. 1-7 
-SECTION 21.................GLASS ……………………………………………………………… 1-8 
-SECTION 22.................FILLERS, STOPPERS AND PUTTIES ………………………….… 1-6 
-SECTION 23.................THERMAL INSULATION MATERIALS ………………………… 1-26 
-SECTION 24.................PLASTICS ………………………………………………………..… 1-21 
-SECTION 25.................CONDUCTORS AND CABLES …………………………..………. 
-1-11 
-SECTION 26.................WIRING ACCESSORIES ………………………………………..… 1-34 
-SECTION 27.................GENERAL ………………………………………………………..… 1-4 
- 
- 
-
- 
-
- 
-vii
-
- 
-
-SP  21 : 2005
 
 SECTION 1
 
@@ -368,7 +7,7 @@ CEMENT AND CONCRETE
 
 1.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -515,7 +154,7 @@ Precast reinforced concrete door and window frames (first revision)
 
 1.2
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -664,7 +303,7 @@ Specials for steel cylinder reinforced concrete  pipes (first revision)
 
 1.3
 
-SP  21 : 2005
+
 
                                                                                                  Title                                                                                    Page
 
@@ -712,7 +351,7 @@ damp-proofing materials (see section 9)
 
 1.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -895,7 +534,7 @@ o to 10
 
 1.5
 
-SP  21 : 2005
+
 
 3.2 Coarse Aggregates for Mass Concrete – Shall be in sizes specified in the following table.
 
@@ -1038,7 +677,7 @@ for concrete (second revision).
 
 1.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1115,7 +754,7 @@ Part 2 : 1963 Estimation of deleterious materials and organic impurities.
 
 1.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1253,7 +892,7 @@ iii)
 
 1.8
 
-SP  21 : 2005
+
 
 Note — For   methods of tests refer to IS 2185 (Part 2):1983 Concrete masonry units Part 2 Hollow and solid light  weight
 concrete blocks (first revision), IS 2386:1963 Methods of tests for aggregates for concrete, (Part 1) Particle size and shape, (Part
@@ -1268,7 +907,7 @@ masonry units.
 
 1.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1420,7 +1059,7 @@ revision).
 
 1.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1518,7 +1157,7 @@ For detailed information, refer to IS 455:1989. Specification for portland slag 
 
 1.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1659,7 +1298,7 @@ For detailed information , refer to IS 1489 (Part 1) 1991 Specification for port
 
 1.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1786,7 +1425,7 @@ cement Part 2 calcined clay based (third revision).
 
 1.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1846,7 +1485,7 @@ For detailed information, refer to IS 3466:1988 Specification for Masonry Cement
 
 1.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -1921,7 +1560,7 @@ structural use (first revision).
 
 1.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2014,7 +1653,7 @@ For detailed information, refer to IS 6909:1990 Specification for supersulphated
 
 1.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2082,7 +1721,7 @@ cement (second revision).
 
 1.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2155,7 +1794,7 @@ For detailed information, refer to IS 8042:1989 Specification for white Portland
 
 1.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2217,7 +1856,7 @@ For detailed information, refer to IS 8043:1991 Specification for hydrophobic Po
 
 1.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2325,7 +1964,7 @@ cement (first revision).
 
 1.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2436,7 +2075,7 @@ cement.
 
 1.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2579,7 +2218,7 @@ cement.
 
 1.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2687,7 +2326,7 @@ is specified.
 
 1.23
 
-SP  21 : 2005
+
 
 TABLE 1 MINIMUM FACE SHELL AND WEB THICKNESSES
 
@@ -2807,7 +2446,7 @@ units : Part 1 Hollow and solid concrete blocks (second revision).
 
 1.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -2928,7 +2567,7 @@ by at least 0.01.
 
 1.25
 
-SP  21 : 2005
+
 
 TABLE 1 PHYSICAL REQUIREMENTS
 
@@ -2997,7 +2636,7 @@ units : Part 2 Hollow and solid lightweight  concrete blocks (first revision).
 
 1.26
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3128,7 +2767,7 @@ units:  Part 3 Autoclaved cellular (aerated) concrete blocks (first revision).
 
 1.27
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3209,7 +2848,7 @@ posts (first revision).
 
 1.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3278,7 +2917,7 @@ For detailed information, refer to IS 5751:1984  Specification for precast concr
 
 1.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3408,7 +3047,7 @@ Edgings
 
 1.30
 
-SP  21 : 2005
+
 
 6.1.1 If tests are carried out after a longer period, the
 load to be supported shall be increased by the ageing
@@ -3435,7 +3074,7 @@ For  detailed information, refer to IS 5758:1984 Specification for  precast conc
 
 1.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3592,7 +3231,7 @@ For detailed information, refer to IS 5820:1970  Specification for precast  conc
 
 1.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3712,7 +3351,7 @@ concrete wall slabs.
 
 1.33
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3834,7 +3473,7 @@ concrete floor  and roof slabs.
 
 1.34
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -3907,7 +3546,7 @@ door and window frames (first revision).
 
 1.35
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4016,7 +3655,7 @@ sills.
 
 1.36
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4134,7 +3773,7 @@ cement roofing sheets.
 
 1.37
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4248,7 +3887,7 @@ blocks.
 
 1.38
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4371,7 +4010,7 @@ covers and frames.
 
 1.39
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -4470,7 +4109,7 @@ cement ratio should be 0.35 to  0.45.
 
 1.40
 
-SP  21 : 2005
+
 
 external faces of the tanks shall show no sign of leakage
 and sweating and remain apparently dry over the period
@@ -4496,7 +4135,7 @@ tanks up to 10 000 litres capacity.
 
 1.41
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4608,7 +4247,7 @@ with precast reinforced concrete planks and joists.
 
 1.42
 
-SP  21 : 2005
+
 
 I) : 1982, at 200 mm c/c as transverse reinforcement. In
 the absence of detailed design same reinforcement may
@@ -4636,7 +4275,7 @@ planks and joists for roofing and flooring
 
 1.43
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4702,7 +4341,7 @@ Fig. 1 Isometric View of Prefab Brick Panel
 
 1.44
 
-SP  21 : 2005
+
 
 2.4 Tolerances —Tolerances on various dimensions
 of the panel shall be as given below —
@@ -4771,7 +4410,7 @@ and partially precast concrete joist for flooring and roofing.
 
 1.45
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4862,7 +4501,7 @@ Fig. 1  Channel Unit
 
 1.46
 
-SP  21 : 2005
+
 
 3.2.1  Main reinforcement of the channel units shall
 comprise two bars of required diameter as per the de-
@@ -4898,7 +4537,7 @@ channel units for construction of floors and  roofs.
 
 1.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -4961,7 +4600,7 @@ Fig. 1 Details of L-Panels and Channel Units
 
 1.48
 
-SP  21 : 2005
+
 
 3. Reinforcement
 
@@ -5007,7 +4646,7 @@ L-panel for roofing.
 
 1.49
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -5134,7 +4773,7 @@ asbestos cement sheets (third revision).
 
 1.50
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -5267,7 +4906,7 @@ than the values indicated in Table 2.
 
 1.51
 
-SP  21 : 2005
+
 
 Nominal Thickness (mm)
 Tolerance (mm)
@@ -5411,7 +5050,7 @@ are maintained.
 
 1.52
 
-SP  21 : 2005
+
 
 2.3.3.3  Bending
 
@@ -5453,7 +5092,7 @@ recommended by the manufacturer. -
 
 1.53
 
-SP  21 : 2005
+
 
 TABLE 4 CLASIFICATION AND DIMENSIONS OF ASBESTOS CEMENT PRESSURE PIPES
 All dimensions are in millimitres
@@ -5730,7 +5369,7 @@ pipes (fourth revision).
 
 1.54
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -5854,7 +5493,7 @@ seconds.
 
 1.55
 
-SP  21 : 2005
+
 
 4.2.2 Hydraulic bursting test — (optional for pipes
 only) the pipe shall indicate a minimum bursting stress
@@ -5881,7 +5520,7 @@ pipes and pipe fittings, gutters and gutter fittings and roof fittings: Part 1 P
 
 1.56
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -5941,7 +5580,7 @@ gutter fittings (Second Revision).
 
 1.57
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6041,7 +5680,7 @@ building pipes and pipe fittings, gutters and gutter fittings and roof fittings:
 
 1.58
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6163,7 +5802,7 @@ For detailed information, refer to IS 2096:1991.Specifiction for asbestos cement
 
 1.59
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6258,7 +5897,7 @@ For detialed information, refer to IS 2098:1997 Specification for asbestos cemen
 
 1.60
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6361,7 +6000,7 @@ Pipes — See Table 2.
 
 1.61
 
-SP  21 : 2005
+
 
 TABLE 1 CLASSIFICATION OF PIPES
 
@@ -6524,7 +6163,7 @@ fittings for sewerage and drainage (first revision).
 
 1.62
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6658,7 +6297,7 @@ and troughs.
 
 1.63
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6792,7 +6431,7 @@ sure pipes (first revision).
 
 1.64
 
-SP  21 : 2005
+
 
 TABLE 1 DIMENSIONS OF ASBESTOS CEMENT PRESSURE PIPES
 
@@ -6870,7 +6509,7 @@ pipes (light duty).
 
 1.65
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -6984,7 +6623,7 @@ sheets.
 
 1.66
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -7055,7 +6694,7 @@ cement sheets.
 
 1.67
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -7188,7 +6827,7 @@ and without reinforcement) (fourth revision).
 
 1.68
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -7325,7 +6964,7 @@ effective length shall not be more than 3 m.
 
 1.69
 
-SP  21 : 2005
+
 
 4.1 The maximum permissible deviation from the straight
 on internal surfaces of any pipe throughout its length,
@@ -7404,7 +7043,7 @@ For  detailed information, refer  to IS 1784 : 2001 Specification for Prestresse
 
 1.70
 
-SP  21 : 2005
+
 
 SUMMARY
 
@@ -7538,7 +7177,7 @@ concrete lining and coating  (first revision).
 
 1.71
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -7655,7 +7294,7 @@ Butt, rebated or ogee
 
 1.72
 
-SP  21 : 2005
+
 
 TABLE 2  COLLAR  DIMENSIONS
 Nominal Internal                                   Collar  Dimension
@@ -7711,7 +7350,7 @@ under drainage.
 
 1.73
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -7882,7 +7521,7 @@ Method
 
 1.74
 
-SP  21 : 2005
+
 
           TABLE   2 TOLERANCES
 
@@ -7925,7 +7564,7 @@ For detailed information, refer to IS 7319 : 1974 Specification for perforated c
 
 1.75
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8051,7 +7690,7 @@ reinforced Concrete pipes.
 
 1.76
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8149,7 +7788,7 @@ for  joint in concrete (first revision).
 
 1.77
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8244,7 +7883,7 @@ Part 1 Bitumen impregnated fibre (first revision).
 
 1.78
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8302,7 +7941,7 @@ Part 2 CNSL aldehyde resin and coconut  pith.
 
 1.79
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8386,7 +8025,7 @@ polysulphide-based joint sealants: Part 1 General requirements
 
 1.80
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8475,7 +8114,7 @@ BUILDING LIMES
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -8536,7 +8175,7 @@ Pulverized fuel ash-lime bricks (first Revision)
 
 2.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -8741,7 +8380,7 @@ percent, Min.(drybasis)
 
 2.3
 
-SP  21 : 2005
+
 
 TABLE 2 PHYSICAL REQUIRMENTS
 
@@ -8997,7 +8636,7 @@ pits
 
 2.4
 
-SP  21 : 2005
+
 
 5. Packing — The hydrated lime shall be supplied,
 in suitable containers, such as jute bags lined with
@@ -9021,7 +8660,7 @@ For  detailed information, refer to IS 712: 1984 Specification for building lime
 
 2.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9092,7 +8731,7 @@ for use in lime concrete(first revision).
 
 2.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9160,7 +8799,7 @@ coarse aggregate for use in lime concrete (second revision).
 
 2.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9241,7 +8880,7 @@ For detailed information, refer to IS 3115:1992 Specification for lime based blo
 
 2.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 3182 : 1986 BROKEN BRICK (BURNT CLAY)
@@ -9303,7 +8942,7 @@ aggregate for use in lime mortar (second revision).
 
 2.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9441,7 +9080,7 @@ revision)
 
 2.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9529,7 +9168,7 @@ For  detailed information, refer to IS 4139:1989 Specification for calcium silic
 
 2.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9589,7 +9228,7 @@ blocks for paving.
 
 2.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9721,7 +9360,7 @@ mixture.
 
 2.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -9884,7 +9523,7 @@ Height 1 360 mm to 1 440 (1 400 ± 40 mm)
 
 2.14
 
-SP  21 : 2005
+
 
 560 to 640 mm (600 ± 40 mm)
 
@@ -9928,7 +9567,7 @@ STONES
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -9988,7 +9627,7 @@ IS   14223 (Part 1) : 1995 Polished building stones : Part 1 Granite
 
 3.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10113,7 +9752,7 @@ of natural building stones for masonry work (first revision).
 
 3.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10195,7 +9834,7 @@ For detailed information, refer to IS 1128:1974 Specification for limestone (sla
 
 3.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10306,7 +9945,7 @@ tiles.
 
 3.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10368,7 +10007,7 @@ For detailed information, refer to IS 3316:1974 Specifications for structural gr
 
 3.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10450,7 +10089,7 @@ mansonry (first revision).
 
 3.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10542,7 +10181,7 @@ For detailed information, refer to IS 3622:1977 Specifications for sandstone (sl
 
 3.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10653,7 +10292,7 @@ For detailed information, refer to IS 6250:1981 Specification for roofing slate 
 
 3.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10762,7 +10401,7 @@ macadam  (first revision).
 
 3.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10845,7 +10484,7 @@ For detailed information, refer to IS 9394:1979 Specification for stone lintels.
 
 3.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -10964,7 +10603,7 @@ BUILDINGS
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -11080,7 +10719,7 @@ Clay roofing country tiles – half round and flat tiles.
 
 4.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11211,7 +10850,7 @@ For detailed information, refer to IS 1077:1992 Specification for common burnt c
 
 4.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11302,7 +10941,7 @@ bricks (third revision).
 
 4.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11380,7 +11019,7 @@ bricks (third revision).
 
 4.5
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -11440,7 +11079,7 @@ mm
 
 4.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11503,7 +11142,7 @@ For detailed information, refer to IS 3583:1988 Specification for clay paving br
 
 4.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11643,7 +11282,7 @@ walls and partitions (second revision).
 
 4.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11710,7 +11349,7 @@ For  detailed information, refer to IS 4885:1988 Specification for Sewer bricks 
 
 4.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11771,7 +11410,7 @@ For detailed information, refer to IS 5779:1986 Specification for burnt clay sol
 
 4.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -11878,7 +11517,7 @@ of clay bricks (first revision)
 
 4.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12015,7 +11654,7 @@ bricks.
 
 4.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12103,7 +11742,7 @@ For detailed information, refer to IS 7556:1988 Specification for Burnt clay all
 
 4.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12241,7 +11880,7 @@ pattern (third revision).
 
 4.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12346,7 +11985,7 @@ For detailed information, refer to IS 1464:1992 Specification for clay ridge and
 
 4.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12464,7 +12103,7 @@ For details information, refer to IS 1478:1992 Specifications for clay flooring 
 
 4.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12515,7 +12154,7 @@ tiles: Part 1 Machine-made (second revision).
 
 4.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12566,7 +12205,7 @@ tiles: Part 2 Hand-made (second revision).
 
 4.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12640,7 +12279,7 @@ irigation and drainage works (second revision).
 
 4.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12717,7 +12356,7 @@ floors and roofs:Part 1 Filler type (first revision).
 
 4.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -12797,7 +12436,7 @@ floors and roofs: Part 2 Structural type (first revision).
 
 4.21
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -12935,7 +12574,7 @@ MATERIALS
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -12982,7 +12621,7 @@ plaster boards (first revision)
 
 5.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13125,7 +12764,7 @@ Gypsum Baseboard—
 
 5.3
 
-SP  21 : 2005
+
 
 of plaster per sq. m of board of 12 mm thickness
 shall not be less than 9.4 kg.
@@ -13148,7 +12787,7 @@ boards: Part 1 Plain gypsum plaster boards (second revision).
 
 5.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13285,7 +12924,7 @@ and
 
 5.5
 
-SP  21 : 2005
+
 
 6.5 Free Moisture — Shall not exceed 2 percent.
 
@@ -13338,7 +12977,7 @@ boards: Part 3 Reinforced gypsum plaster boards (second revision).
 
 5.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13455,7 +13094,7 @@ percent
 
 5.7
 
-SP  21 : 2005
+
 
 4. Physical Requirements — See Table 2.
 
@@ -13597,7 +13236,7 @@ plaster: Part 1 Excluding premixed light weight plasters .
 
 5.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13702,7 +13341,7 @@ plasters: Part 2 Premixed lightweight plasters .
 
 5.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13805,7 +13444,7 @@ partition blocks  (solid and hollow types) (first revision).
 
 5.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -13872,7 +13511,7 @@ TIMBER
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -13964,7 +13603,7 @@ Wooden sleepers for railway track                                               
 
 6.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -14102,7 +13741,7 @@ Heartwood very refractory to treatment penetration
 
 6.3
 
-SP  21 : 2005
+
 
 4.6 Comparative Strength Coefficients — The
 figure for comparative strength coefficients for   various
@@ -14135,7 +13774,7 @@ timbers and  their zonal distribution (revised).
 
 6.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -14243,7 +13882,7 @@ strentgth coefficient, durability and treatability.
 
 6.5
 
-SP  21 : 2005
+
 
 3.2.1 Group I  —
             Strength  coefficient  : 80 or more
@@ -14355,7 +13994,7 @@ window shutters and frames.
 
 6.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -14463,7 +14102,7 @@ and scantilings) (fourth revision).
 
 6.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -14560,7 +14199,7 @@ of the standard).
 
 6.8
 
-SP  21 : 2005
+
 
 {
 {
@@ -14810,7 +14449,7 @@ Table 2  Classes  of   Wood  Pole
 
 6.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -14907,7 +14546,7 @@ scantlings) (Second Revision).
 
 6.10
 
-SP  21 : 2005
+
 
 SUMMRY OF
 
@@ -15227,7 +14866,7 @@ x = preferred size of the width
 
 6.11
 
-SP  21 : 2005
+
 
 Permissible Defects – Defects to teh extent specified in
 Table 2 of the standard shall be permissible
@@ -15261,7 +14900,7 @@ For detailed information, refer to IS 1331 : 1971 Specification for cut sizes of
 
 6.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -15424,7 +15063,7 @@ For detailed information, refer to IS 2372:2004 Specification for timber for coo
 
 6.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -15521,7 +15160,7 @@ For detailed information, refer to IS 3337: 1978  Specifications for ballies for
 
 6.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -15625,7 +15264,7 @@ Yew Imli and vellapine
 
 6.15
 
-SP  21 : 2005
+
 
 as listed in   Table 1.
 d) Sapwood of all classes of ability after through
@@ -15790,7 +15429,7 @@ For detailed information, refer to IS  3629 : 1981Specification for  structural 
 
 6.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -15892,7 +15531,7 @@ For detailed information refer to IS  3731 : 1985  Specification for teak square
 
 6.17
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -16051,7 +15690,7 @@ Note— Preferred length of timber: 1.5, 2, 2.5 and 3 m.
 
 6.18
 
-SP  21 : 2005
+
 
 TABLE  3 PREFERRED CUT SIZES OF  STRUCTURAL TIMBER FOR PARTITION
  FRAMING  AND COVERING
@@ -16216,7 +15855,7 @@ structural timber (first revision).
 
 6.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -16310,7 +15949,7 @@ For detailed Information, refer to IS  4895 :  1985.Specification for Teak logs 
 
 6.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -16401,7 +16040,7 @@ For detailed Information, refer to IS  5246  : 2000  Specification for coniferou
 
 6.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -16738,7 +16377,7 @@ circumferences  given for the next larger   pole  shall be  used
 
 6.22
 
-SP  21 : 2005
+
 
 4. Preparation of Components of  Jointed
 Poles—The bark of the components shall be
@@ -16803,7 +16442,7 @@ overhead power telecommunication lines.
 
 6.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -16907,7 +16546,7 @@ For detailed information, refer to IS 7308 : 1999 Specification for non-conifero
 
 6.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -17048,7 +16687,7 @@ BITUMEN AND TAR PRODUCTS
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -17110,7 +16749,7 @@ iron or steel pipe lines.
 
 7.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -17316,7 +16955,7 @@ s x
 
 7.3
 
-SP  21 : 2005
+
 
 TABLE 2 REQUIREMENTS  FOR  PAVING  BITUMEN  TYPE  2
 Sl
@@ -17457,7 +17096,7 @@ IS 10512:1983 Methods for determination of wax content in bitumen.
 
 7.4
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -17540,7 +17179,7 @@ For  detailed information, refer to IS 212:1983  Specification for crude coal ta
 
 7.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -17730,7 +17369,7 @@ percent by weight, Max
 
 7.6
 
-SP  21 : 2005
+
 
 TABLE 2 REQUIREMENTS FOR TYPE B ROAD TARS
     Sl.No.    Characteristics
@@ -17906,7 +17545,7 @@ For detailed information, refer to IS 215 : 1995 Specification for road tar (thi
 
 7.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -18021,7 +17660,7 @@ For detailed information, refer to 216 : 1961 Specifications for Coal tar pitch 
 
 7.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -18165,7 +17804,7 @@ preservatives (second revision).
 
 7.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -18329,7 +17968,7 @@ crude (second revision).
 
 7.10
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -18464,7 +18103,7 @@ For   detailed information, refer to IS 702 : 1988  Specifications for industria
 
 7.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -18564,7 +18203,7 @@ the plant or animl life.
 
 7.12
 
-SP  21 : 2005
+
 
 TABLE 1 REQUIREMENTS OF BITUMEN EMULSION
 
@@ -18679,7 +18318,7 @@ roads  and allied application.  (Anionic type)
 
 7.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -18949,7 +18588,7 @@ roads (Cationic type)  (first revision).
 
 7.14
 
-SP  21 : 2005
+
 
      SUMMARY  OF
 
@@ -19083,7 +18722,7 @@ for 15 min  at room  temperature.
 
 7.15
 
-SP  21 : 2005
+
 
 TABLE 2  REQUIREMENTS OF TYPE  A  PRIMER
 TABLE  3 REQUIREMENTS  OF TYPE B PRIMER
@@ -19149,7 +18788,7 @@ AND FINISHES
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -19265,7 +18904,7 @@ PVC  asbestos floor tiles (first revision)
 
 8.2
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -19296,7 +18935,7 @@ Rubber flooring materials for general purposes (second revision)
 
 8.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19421,7 +19060,7 @@ manufacture.
 
 8.4
 
-SP  21 : 2005
+
 
 8.1  Flatness of tile Surface –The amount of concavity
 and convexity shall not exceed 1 mm.
@@ -19464,7 +19103,7 @@ tiles (first revision).
 
 8.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19580,7 +19219,7 @@ For detailed information refer to IS 1542:1992 Specificaion for sand for plaster
 
 8.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19674,7 +19313,7 @@ For detailed information, refer to IS 2116 : 1980 Specificaion for  sand for mas
 
 8.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19774,7 +19413,7 @@ acid resisting tiles (first revision).
 
 8.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19861,7 +19500,7 @@ mortars: Part 2 Silicate type.
 
 8.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -19972,7 +19611,7 @@ mortars: Part 2 Resin type.
 
 8.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -20074,7 +19713,7 @@ mortars: Part 3 Sulphur type.
 
 8.11
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -20173,7 +19812,7 @@ For detailed information, refer to IS 4860 : 1968  Specification for acid resist
 
 8.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -20252,7 +19891,7 @@ and marking.
 
 8.13
 
-SP  21 : 2005
+
 
 TABLE 1 REQUIREMENTS
 
@@ -20408,7 +20047,7 @@ with water absorption of E>10% (Group – B111 )
 
 8.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -20529,7 +20168,7 @@ related to the corresponding work size
 
 8.15
 
-SP  21 : 2005
+
 
 Characteristics
 Surface S of the Product (cm2)
@@ -20659,7 +20298,7 @@ Part 3
 
 8.16
 
-SP  21 : 2005
+
 
 C) Chemical Properties
 i) Resistance to staining of glazed
@@ -20707,7 +20346,7 @@ with water absorption of 6%<E≤    10% (Group-BII b).
 
 8.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 13755 : 1993 DUST– PRESSED CERAMIC TILES
@@ -20815,7 +20454,7 @@ A)         Dimensions and Surface Quality                                       
 
 8.18
 
-SP  21 : 2005
+
 
  Characteristics                                 Surface S of the Product (cm2)
 Test According to
@@ -20944,7 +20583,7 @@ Part 3
 
 8.19
 
-SP  21 : 2005
+
 
 C) Chemical Properties
 i) Resistance to staining of glazed
@@ -20993,7 +20632,7 @@ tion of  3%<E≤  6% (Group—BII a)
 
 8.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -21131,7 +20770,7 @@ Surface S of the Product (cm2)
 
 8.21
 
-SP  21 : 2005
+
 
  Characteristics                                 Surface S of the Product (cm2)
 Test According to
@@ -21263,7 +20902,7 @@ Part 3
 
 8.22
 
-SP  21 : 2005
+
 
 C) Chemical Properties
 i) Resistance to staining of glazed
@@ -21313,7 +20952,7 @@ with water absorption   E<3% (Group— BI)
 
 8.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -21432,7 +21071,7 @@ between the manufacturer and the purchaser.
 
 8.24
 
-SP  21 : 2005
+
 
 3.1.4 Tolerance on shape
 
@@ -21582,7 +21221,7 @@ optional tests as per the requirement of the purchaser.
 
 8.25
 
-SP  21 : 2005
+
 
 6.       Safety Rules
 a)
@@ -21620,7 +21259,7 @@ For detailed information refer to IS 14862 : 2000 Specification for  fibre cemen
 
 8.26
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -21764,7 +21403,7 @@ B and C and Class 7.
 
 8.27
 
-SP  21 : 2005
+
 
 shall apply to nominal dimensions given by
 manufacturer:
@@ -21913,7 +21552,7 @@ h
 
 8.28
 
-SP  21 : 2005
+
 
 Fittings shall have straight and clean edges.  They may
 have lapping joints.  They may be left in their natural
@@ -21968,7 +21607,7 @@ corrugated or asymmetrical section sheets and fittings for roofing and cladding
 
 8.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -22085,7 +21724,7 @@ for Flooring
 
 8.30
 
-SP  21 : 2005
+
 
 TABLE 2 GRADING OF FINE  AGGREGATES
 S.l               Grading
@@ -22202,7 +21841,7 @@ flooring (third revision).
 
 8.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -22350,7 +21989,7 @@ For detailed information refer to IS  5317 : 2002 Bitumen mastic for bridge deck
 
 8.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -22473,7 +22112,7 @@ and electrically conducting grade.
 
 8.33
 
-SP  21 : 2005
+
 
  SUMMARY     OF
 
@@ -22614,7 +22253,7 @@ more than 5 percent by mass.
 
 8.34
 
-SP  21 : 2005
+
 
 TABLE 5  COMPOSITION OF  BITU-
 MEN MASTIC
@@ -22676,7 +22315,7 @@ For detailed information, refer to IS  9510 :1980 Specification for bitumen mast
 
 8.35
 
-SP  21 : 2005
+
 
   SUMMARY  OF
 
@@ -22870,7 +22509,7 @@ Thickness                                            1
 
 8.36
 
-SP  21 : 2005
+
 
 6.  Finish—The sheets shall have true shape, good
 appearance and shall be free from visible defects. The
@@ -22890,7 +22529,7 @@ sheets.
 
 8.37
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -22996,7 +22635,7 @@ for industries handling LPG and other light hydrocarbon products.
 
 8.38
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -23090,7 +22729,7 @@ regain (first revision)
 
 8.39
 
-SP  21 : 2005
+
 
 vi)      Residual                            Shall not exceed 10
 
@@ -23170,7 +22809,7 @@ For   detailed information, refer to  IS  653:1992 Specification for linoleum sh
 
 8.40
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -23287,7 +22926,7 @@ For   detailed information, refer to IS  3461 : 1980 Specification for PVC asbes
 
 8.41
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -23431,7 +23070,7 @@ the supplier.
 
 8.42
 
-SP  21 : 2005
+
 
      xi)
 Ply  adhesion
@@ -23474,7 +23113,7 @@ flooring (second revision).
 
 8.43
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -23607,7 +23246,7 @@ with epoxy resin at normal  ambient temperature above
 
 8.44
 
-SP  21 : 2005
+
 
 TABLE  3 HARDNESS FOR EPOXY RESIN
 
@@ -23781,7 +23420,7 @@ epoxy resin compositions for  floor topping.
 
 8.45
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -23975,7 +23614,7 @@ of length
 
 8.46
 
-SP  21 : 2005
+
 
 4.2 Special Finishes – A clear tissue of fibreglass
 surface mat or polyester mat may be applied to the sheet
@@ -24096,7 +23735,7 @@ made from thermosetting polyster resin (glass fibre reinforced).
 
 8.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -24248,7 +23887,7 @@ of the corresponding values obtained before ageing
 
 8.48
 
-SP  21 : 2005
+
 
 4.6 Compression Set
 
@@ -24349,7 +23988,7 @@ jointing (second revision).
 
 8.49
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -24475,7 +24114,7 @@ regain (first  revision)
 
 8.50
 
-SP  21 : 2005
+
 
 Note:
 For methods of tests refer to Appendices B to F of the standard and  IS 3400. Methods of test for vulcanized  rubbers
@@ -24500,7 +24139,7 @@ MATERIALS
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -24555,7 +24194,7 @@ Glass fibre base coal tar pitch outer wraps
 
 9.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -24662,7 +24301,7 @@ of untreated base shall conform to IS 2818 (Part2) : 1971.*
 
 9.3
 
-SP  21 : 2005
+
 
 TABLE 2   REQUIREMENTS OF BITUMEN FELTS
 
@@ -24761,7 +24400,7 @@ Notes — 1. The tests shall be carried out not earlier than two days from the d
 
 9.4
 
-SP  21 : 2005
+
 
 Note— For test procidures refer to IS 13826 Methods of test for bitumen based felt:
 IS (Part 1) : 1993 Breaking strength test.
@@ -24777,7 +24416,7 @@ proofing and damp-proofing (fourth revision).
 
 9.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -24876,7 +24515,7 @@ water proofing and caulking purposes (second revision).
 
 9.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -24937,7 +24576,7 @@ compounds (second revision).
 
 9.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25041,7 +24680,7 @@ Nil
 
 9.8
 
-SP  21 : 2005
+
 
 4. Composition — See Table 3
 5. Hardness Number —The hardness number of the
@@ -25087,7 +24726,7 @@ water-proofing of roofs (first revision).
 
 9.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25156,7 +24795,7 @@ water-proofing and damp-proofing.
 
 9.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25277,7 +24916,7 @@ and damp – proofing (first revision).
 
 9.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25381,7 +25020,7 @@ felts.
 
 9.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25447,7 +25086,7 @@ For detailed information, refer to IS 12027 : 1987 Specification for silicone-ba
 
 9.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -25535,7 +25174,7 @@ SANITARY APPLIANCES AND WATER FITTINGS
 
 2.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -25676,7 +25315,7 @@ sewage  (first revision)
 
 10.2
 
-SP  21 : 2005
+
 
  Title
 Page
@@ -25804,7 +25443,7 @@ Part 2     Specific requirement  for  450  elbows
 
 10.3
 
-SP  21 : 2005
+
 
                    Title
 Page
@@ -25955,7 +25594,7 @@ Unplasticised  PVC screens and casting pipes for  bore / tubewell   supplyuse
 
 10.4
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -26072,7 +25711,7 @@ General requirements of enamelled cast iron sanitary appliances (second revision
 
 10.5
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -26209,7 +25848,7 @@ supply fittings (fourth revision)
 
 10.6
 
-SP  21 : 2005
+
 
  Title
 Page
@@ -26347,7 +25986,7 @@ Note— IS  638 : 1979 Sheet rubber jointing and rubber insertion jointing (seco
 
 10.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26441,7 +26080,7 @@ for wash-basins and sinks (second revision).
 
 10.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26491,7 +26130,7 @@ For  detailed information, refer to IS 782 : 1978 Specification for caulking lea
 
 10.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26591,7 +26230,7 @@ tanks (first revised).
 
 10.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26665,7 +26304,7 @@ revision).
 
 10.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26701,7 +26340,7 @@ for wash-basins and sinks (first revision).
 
 10.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26727,7 +26366,7 @@ Fig. 1 Bath Tub – Pattern 1
 
 10.13
 
-SP  21 : 2005
+
 
 Fig. 2 Bath Tub – Pattern 2
 
@@ -26735,7 +26374,7 @@ Fig. 2 Bath Tub – Pattern 2
 
 10.14
 
-SP  21 : 2005
+
 
 TABLE 1 DIMENSIONS OF BATH TUBS
 
@@ -26859,7 +26498,7 @@ For detailed information, refer to IS 3489 : 1985 Specification for enamelled st
 
 10.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -26966,7 +26605,7 @@ complete with washer.
 
 10.16
 
-SP  21 : 2005
+
 
 5.
 Dimensions
@@ -26994,7 +26633,7 @@ traps Part 1: ‘P’ and ‘S’ traps.
 
 10.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -27164,7 +26803,7 @@ belowtop edge
 
 10.18
 
-SP  21 : 2005
+
 
 5. Requirements
 
@@ -27221,7 +26860,7 @@ reinforced polyester resin bath tub (first revision).
 
 10.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -27360,7 +26999,7 @@ kitchen  sinks.
 
 10.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -27500,7 +27139,7 @@ wash-basins.
 
 10.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -27535,7 +27174,7 @@ FIG. 1  TYPICAL DETAILS OF CYLINDRICAL VERTICAL TANK
 
 10.22
 
-SP  21 : 2005
+
 
 1.3
 This standard does not cover mobile and
@@ -27751,7 +27390,7 @@ Note— The gross capacity of the tanks  shall be at least 5 percent in excess o
 
 10.23
 
-SP  21 : 2005
+
 
 FIG. 2 RECTANGULAR  LOFT  TANK
 
@@ -27900,7 +27539,7 @@ polyethylene water storage tanks (first revision).
 
 10.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -27994,7 +27633,7 @@ mm for round bowls
 
 10.25
 
-SP  21 : 2005
+
 
 c) with single tap hole of 35 + 2 mm diameter for
 high   outlet mixer tap.The centres of tap holes
@@ -28023,7 +27662,7 @@ domestic purposes.
 
 °
 
-SP  21 : 2005
+
 °
 
 °
@@ -28175,7 +27814,7 @@ used.
 
 10.27
 
-SP  21 : 2005
+
 
 6.2 Hydrostatic Test—Shall withstand  following
 hydrostatic pressure without bursting, cracking or
@@ -28205,7 +27844,7 @@ moulded thermosetting glass fibre reinforced polyester resin (GRP) sectional wat
 
 10.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -28361,7 +28000,7 @@ than the original diameter.
 
 10.29
 
-SP  21 : 2005
+
 
 6.3 Flattening (for tubes not exceeding 100 mm
 Outside Diameter) — Test piece shall not crack.
@@ -28381,7 +28020,7 @@ outside of either bend.
 
 10.30
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -28518,7 +28157,7 @@ general engineering  purposes. (third revision).
 
 10.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -28684,7 +28323,7 @@ and fittings (second revision).
 
 10.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -28815,7 +28454,7 @@ ii) For pipes centrifugally All diameters
 
 10.33
 
-SP  21 : 2005
+
 
       Dimensions
 Nominal Diameter
@@ -28915,7 +28554,7 @@ iron pressure pipes for water, gas and sewage (third revision).
 
 10.34
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -29008,7 +28647,7 @@ pipes for water, gas and sewage (first revision).
 
 10.35
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -29165,7 +28804,7 @@ All diameters
 
 10.36
 
-SP  21 : 2005
+
 
 4.  Mass
 
@@ -29429,7 +29068,7 @@ mm
 
 10.37
 
-SP  21 : 2005
+
 
 6.6 All Crosses, All Sockets –
  Nominal Diameter—80,100, 125, 200, 250, and
@@ -29742,7 +29381,7 @@ Nominal Diameter  80, 100, 125, 150, 200, 250,
 
 10.38
 
-SP  21 : 2005
+
 
 6.9 Bell Mouth Pieces
 
@@ -29826,7 +29465,7 @@ pipes for water, gas and sewage (third revision).
 
 10.39
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -29988,7 +29627,7 @@ Branch Pipe
 
 10.40
 
-SP  21 : 2005
+
 
 3.17
 Bossed Pipes and Connections for  One Pipe
@@ -30145,7 +29784,7 @@ socket soil, waste and ventilating pipes, fittings and accessories (first revisi
 
 10.41
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -30316,7 +29955,7 @@ follows:
 
 10.42
 
-SP  21 : 2005
+
 
    Designations              Upto and
 Tolerances
@@ -30535,7 +30174,7 @@ Reducing on the Run, Reducing Equal to or Increasing on the Branch B1 —
 
 10.43
 
-SP  21 : 2005
+
 
 6.11 Size Designation of Pitcher Teees E1
 
@@ -30669,7 +30308,7 @@ b) Sockets, right and left hand thread M2R-L:
 
 10.44
 
-SP  21 : 2005
+
 
 6. 21 Size Designation of Bushings N4
 
@@ -30932,7 +30571,7 @@ fittings (second revision).
 
 10.45
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -31092,7 +30731,7 @@ Angle of Bend
 
 10.46
 
-SP  21 : 2005
+
 
 4.8 Connectors (C.I. to Stoneware)
 
@@ -31287,7 +30926,7 @@ iron spigot and socket soil, waste and ventilating pipes, fittings and accessori
 
 10.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -31453,7 +31092,7 @@ percent, Max
 
 10.48
 
-SP  21 : 2005
+
 
 TABLE 2 TENSILE STRENGTH AND ELONGATION FOR DIFFERENT
 
@@ -31555,7 +31194,7 @@ mains, water mains and sewers (first revision).
 
 10.49
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -31697,7 +31336,7 @@ Flange thickness, b      (3.00 mm + 0.05 b)
 
 10.50
 
-SP  21 : 2005
+
 
             where
 e  =  standard thickness of the wall in mm, and
@@ -31747,7 +31386,7 @@ cement pressure pipes for water, gas and sewage (second revision).
 
 10.51
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -31945,7 +31584,7 @@ of 6 kgf/cm2 after installation.
 
 10.52
 
-SP  21 : 2005
+
 
 6.
 Tolerances
@@ -32011,7 +31650,7 @@ iron low pressure pipes for water, gas and sewage.
 
 10.53
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -32239,7 +31878,7 @@ Nominal size — 200 to 3000 mm
 
 10.54
 
-SP  21 : 2005
+
 
 Table 7
 1.6/1 Integral grey cast iron flanges
@@ -32315,7 +31954,7 @@ iron flanges for general engineering purposes.
 
 10.55
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -32438,7 +32077,7 @@ double flanged pipes for water, gas and sewage (first revision).
 
 10.56
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -32585,7 +32224,7 @@ flexible joints for water, gas and sewage.
 
 10.57
 
-SP  21 : 2005
+
 
 5. Tests
 
@@ -32732,7 +32371,7 @@ for water, gas and sewage (third revision).
 
 10.58
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -32914,7 +32553,7 @@ for use with asbestos cement pressure pipes (first  revision).
 
 10.59
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -33013,7 +32652,7 @@ pressure pipes for water  gas and sewage.
 
 10.60
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -33211,7 +32850,7 @@ for rubber sealing rings for C I D  joints in asbestos cement piping (first revi
 
 10.61
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS  10299 : 1982 CAST IRON SADDLE PIECES FOR SERVICE
@@ -33340,7 +32979,7 @@ service connection from asbestos cement pressure pipes.
 
 10.62
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -33707,7 +33346,7 @@ B
 
 10.63
 
-SP  21 : 2005
+
 
 5. Tolerances
 
@@ -33871,7 +33510,7 @@ fittings for carrying water, gas and sewage (first revision)
 
 10.64
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -33934,7 +33573,7 @@ asbestos cement pressure pipes (light duty).
 
 10.65
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34033,7 +33672,7 @@ CID  joints for light duty AC pipes–Dimensional requirements.
 
 10.66
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34128,7 +33767,7 @@ and sewage.
 
 10.67
 
-SP  21 : 2005
+
 
 6. Sizes  Nominal Diameter of  the casting —  80, 100,
 125, 150, 200, 250, 300, 350, 400, 450, 500, 600, 700,750,
@@ -34216,7 +33855,7 @@ revision)
 
 10.68
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34350,7 +33989,7 @@ above ground work
 
 10.69
 
-SP  21 : 2005
+
 
 6.1.4 Heat resistance — Shall show no appreciable
 distortion and no appreciable exudation of impregnant.
@@ -34445,7 +34084,7 @@ pipes and fittings for drainage purposes.
 
 10.70
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34540,7 +34179,7 @@ than chemical purposes (third revision).
 
 10.71
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34758,7 +34397,7 @@ Max      Min      Max
 
 10.72
 
-SP  21 : 2005
+
 
 5. Visual Appearance— The internal and external
 surfaces of the pipes shall be smooth, clean, and free
@@ -34806,7 +34445,7 @@ pipes for potable water supplies. (second revision).
 
 10.73
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -34950,7 +34589,7 @@ pressure coefficient given in fig. 1 of the standard.
 
 10.74
 
-SP  21 : 2005
+
 
 5. Dimensions
 
@@ -35140,7 +34779,7 @@ pipes for water supply  (fourth revision).
 
 10.75
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35328,7 +34967,7 @@ with    food  stuffs, pharmaceuticals and drinking  water
 
 10.76
 
-SP  21 : 2005
+
 
 5.3 Effect on Water — Pipes shall not have any
 detrimental effect on composition of water flowing
@@ -35368,7 +35007,7 @@ potable water supplies (third revision).
 
 10.77
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35524,7 +35163,7 @@ than 0.2 percent of visible light falling on it.
 
 10.78
 
-SP  21 : 2005
+
 
 6.3 Effect on Water — Shall not have any detrimental
 effect on composition of water flowing through them.
@@ -35565,7 +35204,7 @@ requirements  (first revision).
 
 10.79
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35666,7 +35305,7 @@ for 45° elbows (first revision).
 
 10.80
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35769,7 +35408,7 @@ revision).
 
 10.81
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35872,7 +35511,7 @@ for   90° tees. (first revision).
 
 10.82
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -35984,7 +35623,7 @@ for 45o tees. (first revision).
 
 10.83
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36089,7 +35728,7 @@ for sockets (first revision).
 
 10.84
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36151,7 +35790,7 @@ for unions (first revision).
 
 10.85
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -36180,7 +35819,7 @@ for caps (first revision).
 
 10.86
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36258,7 +35897,7 @@ requirements.
 
 10.87
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36327,7 +35966,7 @@ for  90° bends (first revision)
 
 10.88
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36397,7 +36036,7 @@ for 90° tees.
 
 10.89
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36459,7 +36098,7 @@ for reducers (first revision).
 
 10.90
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36514,7 +36153,7 @@ requirements for ferrule reducers.
 
 10.91
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -36878,7 +36517,7 @@ for pipe ends.
 
 10.92
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37205,7 +36844,7 @@ requirements for sandwich flanges.
 
 10.93
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37255,7 +36894,7 @@ density polyethylene (HDPE) fittings for potable water supplies : Part  1 Genera
 
 10.94
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37363,7 +37002,7 @@ for 90° tees.
 
 10.95
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37459,7 +37098,7 @@ for 90° bends.
 
 10.96
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37657,7 +37296,7 @@ fittings for potable water supplies:  Part 1 General requirements (first revisio
 
 10.97
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37842,7 +37481,7 @@ Class 4
 
 10.98
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -37913,7 +37552,7 @@ supplies.
 
 10.99
 
-SP  21 : 2005
+
 
 TABLE 1 DIMENSIONS  OF  STRAIGHT  REDUCERS
 
@@ -38246,7 +37885,7 @@ fittings for potable water supplies: Part 3 Specific requirements for straight r
 
 10.100
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -38361,7 +38000,7 @@ fittings   for   potable water supplies:  Part 4  Specific requirements for caps
 
 10.101
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -38515,7 +38154,7 @@ Note — For pipes of  0.25 MPa  pressure class, there are no equal tees for the
 
 10.102
 
-SP  21 : 2005
+
 
 * PVC welded by solvent or welding rod and with fibre glass reinforcement of 40 m width and 3 mm minimum thickness.
 
@@ -38541,7 +38180,7 @@ fittings for  potable water supplies : Part 5  Specific requirements for equal t
 
 10.103
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -38585,7 +38224,7 @@ Yellow
 
 10.104
 
-SP  21 : 2005
+
 
 TABLE 1.  DIMENSIONS  OF  PVC  FLANGED  TAIL  PIECE  WITH  METALLIC  FLANGES
 
@@ -38900,7 +38539,7 @@ metallic flanges  (first revision).
 
 10.105
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -38937,7 +38576,7 @@ FIG. 1 THREADED  ADAPTORS
 
 10.106
 
-SP  21 : 2005
+
 
 TABLE 1 DIMENSIONS  OF  THREADED  ADAPTORS
 
@@ -39073,7 +38712,7 @@ revision).
 
 10.107
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -39288,7 +38927,7 @@ fittings for potable water supplies: Part 8  Specific requirements for 90 o bend
 
 10.108
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -39501,7 +39140,7 @@ fittings for potable water supplies: Part 9  Specific requirements for 60 o bend
 
 10.109
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -39717,7 +39356,7 @@ fittings for potable water supplies Part 10  Specific requirements for 45 o bend
 
 10.110
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -39932,7 +39571,7 @@ fittings for potable water supplies Part 11 Specific requirements for 30 o bends
 
 10.111
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -40146,7 +39785,7 @@ fittings for potable water supplies  Part 12 Specific requirements for 22½ o be
 
 10.112
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -40351,7 +39990,7 @@ fittings for potable water supplies. Part 13 specific requirements for 11¼o ben
 
 10.113
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -40500,7 +40139,7 @@ phenolic and polyester resin systems (first  revision).
 
 10.114
 
-SP  21 : 2005
+
 
 5.2 Lengths — 6 m, 9 m, and 12 m effective lengths with
 a tolerance of ± 25mm.
@@ -40674,7 +40313,7 @@ and savers (first revision)
 
 10.115
 
-SP  21 : 2005
+
 
 Fracture
 Rupture of laminate surface without complete
@@ -40796,7 +40435,7 @@ None
 
 10.116
 
-SP  21 : 2005
+
 
 8. Pipe stiffness — Each length of pipe shall have
 sufficient strength to exhibit the minimum pipe stiffness
@@ -40890,7 +40529,7 @@ For detailed information, refer to IS 12709 : 1994 Specification for glass fibre
 
 10.117
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -41063,7 +40702,7 @@ Max
 
 10.118
 
-SP  21 : 2005
+
 
 TABLE 2 DIMENSIONS  OF  PLAINS  SCREEN  PIPES
 
@@ -41349,7 +40988,7 @@ Max
 
 10.119
 
-SP  21 : 2005
+
 
 TABLE 5  EFFECTIVE  AND  SEGMENTAL
 LENGTHS OF SCREEN  PIPES
@@ -41649,7 +41288,7 @@ l5
 
 10.120
 
-SP  21 : 2005
+
 
 TABLE 7 DIMENSIONS  AND  LAYOUT  OF  SLOTS  ON  SCREEN  PIPE
 
@@ -41898,7 +41537,7 @@ and casing pipes for bore tube well (first revision)
 
 10.121
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -42085,7 +41724,7 @@ Max
 
 10.122
 
-SP  21 : 2005
+
 
  TABLE  2  MINIMUM  WALL  THICKNESS OF
 SOCKETS ON PIPES
@@ -42358,7 +41997,7 @@ cracking or signs of weld line splitting.
 
 10.123
 
-SP  21 : 2005
+
 
 9. Mechanical
 
@@ -42390,7 +42029,7 @@ including ventilation and rain water system.
 
 10.124
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -42519,7 +42158,7 @@ PEEW A-45 - T-003 or PEEWA - 50 - T- 003 or PEEWA -
 
 10.125
 
-SP  21 : 2005
+
 
 5.2. Wall Thickness — Shall be as given in Tables 3,4
 and 5 of the standard.
@@ -42651,7 +42290,7 @@ pipes for sewerage.
 
 10.126
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -42822,7 +42461,7 @@ phenolic and  polyester resinsystems (first revision)
 
 10.127
 
-SP  21 : 2005
+
 
 5.2. Alternatively, the outside diameter of pipes for each
 of the size designation shall be as given in Table 2 subject
@@ -43041,7 +42680,7 @@ Note— For definations of defects see Table 3 of the standard.
 
 10.128
 
-SP  21 : 2005
+
 
 8. Pipe Stiffness — Each length of pipe shall have
 sufficient strength to exhibit the minimum pipe stiffness
@@ -43154,7 +42793,7 @@ potable).
 
 10.129
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -43336,7 +42975,7 @@ including ventilation and rain water system.
 
 10.130
 
-SP  21 : 2005
+
 
           TABLE  2  SOCKET AND  SPIGOT DIMENSIONS FOR SOLVENT CEMENT FITTINGS
 
@@ -43637,7 +43276,7 @@ sowers.
 
 10.131
 
-SP  21 : 2005
+
 
 8. Workmanship — Both the inner and outer surface
 of the fitting shall be cleanly finished, smooth and free
@@ -43811,7 +43450,7 @@ outside buildings including ventilation and rain water system.
 
 10.132
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -43976,7 +43615,7 @@ mm
 
 10.133
 
-SP  21 : 2005
+
 
 TABLE  2 DIMENSIONS  OF STEEL TABLES  MEDIUM
 
@@ -44234,7 +43873,7 @@ mm
 
 10.134
 
-SP  21 : 2005
+
 
  5. Tolerances
 
@@ -44359,7 +43998,7 @@ and other wrought steel fittings Part 1  Steel  tubes (sixth revision).
 
 10.135
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -44464,7 +44103,7 @@ size of outlet— 8, 10, 15, 20, 25, 32, 40, 50, 65, 80, 100.
 
 10.136
 
-SP  21 : 2005
+
 
 6.10   Elbows, equal, 135o — Nominal size of outlet  6
 ,8, 10, 15, 20, 25, 32, 40,  50, 65, 80, 100.
@@ -44609,7 +44248,7 @@ wrought steel fittings Part 2 Mild Steel sockets, tubulars and other wrougth ste
 
 10.137
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -44776,7 +44415,7 @@ Fe 450
 
 10.138
 
-SP  21 : 2005
+
 
 9. Tolerances
 
@@ -44940,7 +44579,7 @@ for water, gas and sewage (168.3 to 2032 mm  outside diameter) (third revision)
 
 10.139
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -45099,7 +44738,7 @@ Note— For masses see Tables 1 to 4 of the standard.
 
 10.140
 
-SP  21 : 2005
+
 
 5. Tolerances
 
@@ -45232,7 +44871,7 @@ For detailed information, refer to IS  4270 : 2001  Specification for  Steel tub
 
 10.141
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -45359,7 +44998,7 @@ For detailed information, refer to IS  5504 : 1997 Specification  Spiral welded 
 
 10.142
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -45579,7 +45218,7 @@ to a maximum of 1.30 percent.
 
 10.143
 
-SP  21 : 2005
+
 
 6.  Physical Tests
 
@@ -45703,7 +45342,7 @@ temperature service.
 
 10.144
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -45826,7 +45465,7 @@ corresponding to each internal diameter specified above.
 
 10.145
 
-SP  21 : 2005
+
 
 6.3 Length and Straightness of barrels for straight and
 taper pipes.
@@ -45867,7 +45506,7 @@ revision).
 
 10.146
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46010,7 +45649,7 @@ Over 38 mm
 
 10.147
 
-SP  21 : 2005
+
 
 4.4.1 Internal diameters of taper pipes, half-section
 straight channel half-section taper channels, bends (one
@@ -46074,7 +45713,7 @@ and fittings (first revision).
 
 10.148
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46196,7 +45835,7 @@ general requirements (second revision)
 
 10.149
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46263,7 +45902,7 @@ Part 2  of kitchen and laboratory sinks (third revision).
 
 10.150
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -46314,7 +45953,7 @@ appliances, Part 3  Specific requirements of urinals, Section 1 Slab urinals (se
 
 10.151
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46360,7 +45999,7 @@ appliances Part 3  Specific requirements of Section 2   Stall urinals (third rev
 10.152
 .
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46403,7 +46042,7 @@ Part 5 Specific requirements of shower trays (second revision).
 
 10.153
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46462,7 +46101,7 @@ requirements of slop sinks (second revision).
 
 10.154
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46527,7 +46166,7 @@ sanitary appliances (second revision).
 
 10.155
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46568,7 +46207,7 @@ coaching stock type (third revision).
 
 10.156
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46636,7 +46275,7 @@ FIG. 1 TYPICAL ILLUSTRATIONS OF SIPHONIC TYPE DUAL – FLUSH CISTERNS
 
 10.157
 
-SP  21 : 2005
+
 
 high-level cisterns and 38 ± 1 mm for low-level cisterns.
 The steel flush pipe shall be not less than 1 mm thick
@@ -46732,7 +46371,7 @@ For detailed information, refer to IS  774 : 2004. Specification for flushing ci
 
 10.158
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -46817,7 +46456,7 @@ Basic and Performance Requirements
 
 10.159
 
-SP  21 : 2005
+
 
 TABLE 1   BASIC AND PERFORMANCE REQUIREMENTS OF MANHOLE
 COVERS AND FRAMES
@@ -46961,7 +46600,7 @@ revision) IS  210 : 1993 Grey iron castings (fourth revision).
 
 10.160
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47047,7 +46686,7 @@ than plastic cisterns)(second revision).
 
 10.161
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47168,7 +46807,7 @@ Thickness of cover at thinnest point
 
 10.162
 
-SP  21 : 2005
+
 
 5.  Tests
 
@@ -47216,7 +46855,7 @@ closets Part 1 Thermoset  seats and covers (fifth revision).
 
 10.163
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47321,7 +46960,7 @@ Thickness of cover at thinnest point
 
 10.164
 
-SP  21 : 2005
+
 
 FIG. 1
 
@@ -47329,7 +46968,7 @@ FIG. 1
 
 10.164 A
 
-SP  21 : 2005
+
 
 4.4 Finish – The surfaces of the seats, covers and
 components shall be smooth, free from blisters and
@@ -47414,7 +47053,7 @@ closets: Part 1  Thermoplastic seats and covers (fifth revision).
 
 10.165
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47504,7 +47143,7 @@ Two only ; none permitted for coloured appliances.
 
 10.166
 
-SP  21 : 2005
+
 
 TABLE 2 BLEMISHES OR DEFECTS PERMITTED IN WASH BASINS,
 LABORATORY
@@ -47600,7 +47239,7 @@ specified dimension or ±2 mm which ever is more.
 
 10.167
 
-SP  21 : 2005
+
 
 6.4 Modules of rupture – Shall not be less than 60 MPa.
 
@@ -47632,7 +47271,7 @@ china): Part 1 General requirements (third revision).
 
 10.168
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47702,7 +47341,7 @@ FIG. 1 PATERN 1 AND PATTERN 2 WATER CLOSETS
 
 10.169
 
-SP  21 : 2005
+
 
 FIG. 2    PATTERN  3 WATER CLOSET WITH  HORIZONTAL P– TRAP
 
@@ -47719,7 +47358,7 @@ For detailed information, refer to IS  2556 (Part 2) : 1994  Specification for v
 
 10.170
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS : 2556 (PART 3)  1994 VITREOUS SANITARY  APLLIANCES
@@ -47755,7 +47394,7 @@ FIG. 1  LONG  PATTERN  SQUATTING  PAN
 
 10.171
 
-SP  21 : 2005
+
 
 2.2 Each pan except the rural pattern shall have  an
 integral flushing rim of the suitable.
@@ -47800,7 +47439,7 @@ Specific requirements of squatting  pan (fourth revision).
 
 10.172
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47868,7 +47507,7 @@ For detailed information, refer to IS  2556 (Part 4) : 1994 Specification for vi
 
 10.173
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47912,7 +47551,7 @@ For detailed information, refer to IS  2556 (Part 5) : 1994  Specification for V
 
 10.174
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -47971,7 +47610,7 @@ FIG. 1 BOWL  PATTERN  URINAL  (FLAT BACK)
 
 10.175
 
-SP  21 : 2005
+
 
 FIG. 2  BOWL  PATTERN  FLAT  BACK  (WITHOUT  FLUSHING RIM)
 
@@ -47983,7 +47622,7 @@ FIG. 3  BOWL  PATTERN  URINAL  (ANGLE BACK) WITHOUT  FLUSH  RIM]
 
 10.176
 
-SP  21 : 2005
+
 
 FIG.  4 BOWL TYPE  FLAT  BACK  URINAL  WITHOUT  RIM
 
@@ -48057,7 +47696,7 @@ Size 2
 
 10.177
 
-SP  21 : 2005
+
 
 FIG. 5 WASTE  OUTLET
 
@@ -48122,7 +47761,7 @@ dimensions.
 
 10.178
 
-SP  21 : 2005
+
 
 2.2 Bowl urinals  shall be provided with adequate means
 of support preferably of the concealed type. Alternatively
@@ -48158,7 +47797,7 @@ For detailed information, refer to IS : 2556 (Part 6) : 1995  Specification for 
 
 10.179
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48215,7 +47854,7 @@ FIG. 1 HALF ROUND CHANNEL
 
 10.180
 
-SP  21 : 2005
+
 
 All dimensions in millimetres.
 
@@ -48233,7 +47872,7 @@ FIG. 3 TRAPS  FOR  SQUTTING PANS – CONTD
 
 10.181
 
-SP  21 : 2005
+
 
      Note — Ovality is permissible within the variation allowed for the dimension.
 
@@ -48253,7 +47892,7 @@ FIG. 4 FLOOR TRAPS
 
 10.182
 
-SP  21 : 2005
+
 
 All dimensions in millimeters.
 
@@ -48270,7 +47909,7 @@ specific requirements of accessories for sanitary appliances. (third revision)
 
 10.183
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48312,7 +47951,7 @@ FIG. 1 SYPHONIC WATER CLOSET – SINGLE OR DOUBLE TRAP PATTERN
 
 10.184
 
-SP  21 : 2005
+
 
 FIG.  2 WASHDOWN  WATER  CLOSET  FOR CLOSE COUPLED SUITE, P OR S TRAP
 
@@ -48322,7 +47961,7 @@ FIG.  3 WASHDOWN  WATER  CLOSET  FOR CLOSE COUPLED  SUITE –CONCEALED  S TRAP
 
 10.185
 
-SP  21 : 2005
+
 
 All dimensions in millimetres.
 
@@ -48429,7 +48068,7 @@ T
 
 10.186
 
-SP  21 : 2005
+
 
 2.2  Shall be of one piece construction with not less
 than two floor fixing holes having a minimum diameter
@@ -48478,7 +48117,7 @@ revision).
 
 10.187
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48514,7 +48153,7 @@ FIG. 1 TYPICAL  ILLUSTRATION OF  BIDET  (WITH  FLUSHING RIM)
 
 10.188
 
-SP  21 : 2005
+
 
 FIG. 2 TYPICAL  ILLUSTRATION OF  BIDET  WITHOUT  FLUSHING RIM
 
@@ -48529,7 +48168,7 @@ For detailed information, Refer to IS  : 2556 (Part 9) : 1995  Specification for
 
 10.189
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48591,7 +48230,7 @@ For detailed information, refer to IS : 2556 (Part 14) : 1995  Specification for
 
 10.190
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48632,7 +48271,7 @@ FIG.  1  UNIVERSAL WATER CLOSET
 
 10.191
 
-SP  21 : 2005
+
 
 4.1 Toilet Paper Test – When repeated four times, the
 pan shall discharge the full charge of the  paper atleast
@@ -48676,7 +48315,7 @@ china), Part 15:  specific equirements of universal water closets  (first revisi
 
 10.192
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48718,7 +48357,7 @@ FIG.  1A  CAST IRON  STEPS  FOR  MANHOLE  (PATTERN 1)
 
 10.193
 
-SP  21 : 2005
+
 
 All dimensions in millimetres.
 
@@ -48732,7 +48371,7 @@ For detailed information, refer  to IS 5455: 1969. Specification for cast iron s
 
 10.194
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48781,7 +48420,7 @@ For  detailed information, refer to IS  5961 : 1970 Specification for cast iron 
 
 10.195
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -48887,7 +48526,7 @@ the standard.
 
 10.196
 
-SP  21 : 2005
+
 
 4.3 Freedom from Self Siphonage — The siphonic
 system shall be capable of being rapidly brought into
@@ -48947,7 +48586,7 @@ urinals (second revision).
 
 10.197
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49026,7 +48665,7 @@ phenolic and polyester resin systems (first revision)
 
 10.198
 
-SP  21 : 2005
+
 
 2.2. Polyster Resin — Unsaturated polyster resin shall
 be isopthalic type
@@ -49095,7 +48734,7 @@ squatting pans (first revision).
 
 10.199
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49206,7 +48845,7 @@ Synthetic rubber
 
 10.200
 
-SP  21 : 2005
+
 
 4.2 Globe Valve –
 a)  Straight type and
@@ -49303,7 +48942,7 @@ water works purposes (Fourth revision).
 
 10.201
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49428,7 +49067,7 @@ valves for water services (third revision).
 
 10.202
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49531,7 +49170,7 @@ purposes.
 
 10.203
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49633,7 +49272,7 @@ For  detailed information, refer to IS 1703: 1999  Specification for water fitti
 
 10.204
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49737,7 +49376,7 @@ For details information, refer to IS  1711 : 1984 Specification for self-closing
 
 10.205
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49807,7 +49446,7 @@ revision)
 
 10.206
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49870,7 +49509,7 @@ For detailed informaton, refer to IS  2692 : 1989 Specification for ferrules for
 
 10.207
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49929,7 +49568,7 @@ revison)
 
 10.208
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -49988,7 +49627,7 @@ wash-basins (first revision).
 
 10.209
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50112,7 +49751,7 @@ For detailed information, refer to IS 4346: 1982 Specification for washers for u
 
 10.210
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50249,7 +49888,7 @@ return) valves for  water  works purposes- Part 1- single door pattern (first re
 
 10.211
 
-SP  21 : 2005
+
 
 7.
 Testing
@@ -50280,7 +49919,7 @@ return) valves for  water  works purposes Part 1- Single door pattern (second re
 
 10.212
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50382,7 +50021,7 @@ valves for waterworks purposes Part 2- Multi-door door pattern.
 
 10.213
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50514,7 +50153,7 @@ g) Plastics
 
 10.214
 
-SP  21 : 2005
+
 
 7.2. Pressure Resistance Characteristic — No
 permanent deformation in the part of the taps and valves
@@ -50553,7 +50192,7 @@ tap assembly and stop valves for water services (first revision)
 
 10.215
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50687,7 +50326,7 @@ shall show no sign of leakage.
 
 10.216
 
-SP  21 : 2005
+
 
 TEST  PRESSURE  (GAUAGE)  AND TEST DURATOIN OF VALVES
 
@@ -50735,7 +50374,7 @@ and check valves for water works purposes (first revision)
 
 10.217
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50868,7 +50507,7 @@ supply system.
 
 10.218
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -50968,7 +50607,7 @@ urinals.
 
 10.219
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51121,7 +50760,7 @@ For detailed information, refer to IS  9762 : 1994  Specification for polyethyle
 
 10.220
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51230,7 +50869,7 @@ Static : 1 MPa (10 bar)
 
 10.221
 
-SP  21 : 2005
+
 
  7. Test
 
@@ -51280,7 +50919,7 @@ stop valves for hot and cold  water services (second revision).
 
 10.222
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51389,7 +51028,7 @@ services.
 
 10.223
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51516,7 +51155,7 @@ operated valves for cold water services.
 
 10.224
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51636,7 +51275,7 @@ Globe valves
 
 10.225
 
-SP  21 : 2005
+
 
                                          TABLE  2   WALL  THICKNESS  AND  OTHER  DIMENSIONS
        Nominal                     Minimum
@@ -51774,7 +51413,7 @@ purposes.
 
 10.226
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -51929,7 +51568,7 @@ Note : For materials of other components, refer to Table
 
 10.227
 
-SP  21 : 2005
+
 
 6.
 Surface Preparation and Painting – After cleaning,
@@ -51979,7 +51618,7 @@ thimble mounted sluice gates.
 
 10.228
 
-SP  21 : 2005
+
 
 SUMMMARY OF
 
@@ -52115,7 +51754,7 @@ Carbon steel
 
 10.229
 
-SP  21 : 2005
+
 
 9.3 Minimum float diameter shall be as indicated Table
 3.
@@ -52224,7 +51863,7 @@ purposes
 
 10.230
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -52389,7 +52028,7 @@ For detailed information, refer to  IS 14846: 2000. Sluice valves for water work
 
 10.231
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -52531,7 +52170,7 @@ Note:  For material details, see Annex. B of the standard.
 
 10.232
 
-SP  21 : 2005
+
 
 7.2
 Loss of  Pressure –  Shall not exceed 0.025 Mpa at
@@ -52701,7 +52340,7 @@ For detailed information, refer to IS  779:1994 Water meters (domestic type) (si
 
 10.233
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -52781,7 +52420,7 @@ For detailed information, refer to IS  2104 : 1981 Specification for water meter
 
 10.234
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -52991,7 +52630,7 @@ BUILDERS HARDWARE
 
 11.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -53154,7 +52793,7 @@ Plastic window stays and fasteners.
 
 11.2
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -53239,7 +52878,7 @@ Door  closers, concealed type (hydraulically operated)
 
 11.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53349,7 +52988,7 @@ revision).
 
 11.4
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -53471,7 +53110,7 @@ Aluminium alloy extruded rods
 
 11.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53546,7 +53185,7 @@ For detailed information, refer  to  IS  205 :1992  Specification for non-ferrou
 
 11.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53633,7 +53272,7 @@ For detailed information, refer to IS 206 : 1992 Specification for tee and strap
 
 11.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53715,7 +53354,7 @@ For detailed information, refer to  IS  208 : 1996 Specification for  door handl
 
 11.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53801,7 +53440,7 @@ padlocks  (third revision).
 
 11.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53869,7 +53508,7 @@ For detailed information, refer to IS  362 : 1991 Specification for parliament h
 
 11.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -53930,7 +53569,7 @@ For detailed information,refer to IS  363 : 1993 Specification for hasps and sta
 
 11.11
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -54014,7 +53653,7 @@ For detailed information,refer to IS 364 : 1993 Specification for fan light catc
 
 11.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54088,7 +53727,7 @@ For detailed information, refer to IS 452 : 1973  Specification for  door  sprin
 
 11.13
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -54161,7 +53800,7 @@ For detailed information, refer to IS 453 : 1993  Specification for double-actin
 
 11.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54259,7 +53898,7 @@ For detailed information, refer to IS 1019 : 1974 Specification for rim latches 
 
 11.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54329,7 +53968,7 @@ For detailed information, refer to IS 1341 : 1992 Specification for steel butt h
 
 11.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54447,7 +54086,7 @@ For detailed information, refer to IS 1823 : 1980 Specification  for floor door 
 
 11.17
 
-SP  21 : 2005
+
 
 SUMARRY OF
 
@@ -54552,7 +54191,7 @@ For detailed information, refer to IS 1837 : 1966 Specification for  fan light  
 
 11.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54636,7 +54275,7 @@ For detailed information, refer to IS 2209 : 1976  Specification for mortice loc
 
 11.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54697,7 +54336,7 @@ For detailed information, refer to IS  2681 : 1993 Specification for non-ferrous
 
 11.20
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -54829,7 +54468,7 @@ revision).
 
 11.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54892,7 +54531,7 @@ For  detailed information, refer  to IS 3818 : 1992 Specification for continuous
 
 11.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -54949,7 +54588,7 @@ For  detailed information, refer to IS 3828 : 1966  Specification for ventilator
 
 11.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55002,7 +54641,7 @@ For detailed information, refer to  IS  3843 : 1995 Specification for  steel bac
 
 11.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55060,7 +54699,7 @@ For detailed information, refer  to  IS 3847 : 1992 Specification for mortice ni
 
 11.25
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55138,7 +54777,7 @@ lavatories  (first revision).
 
 11.26
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -55205,7 +54844,7 @@ For detailed information, refer to IS 4948 : 2002 Specification for welded steel
 
 11.27
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -55259,7 +54898,7 @@ For detailed information, refer to IS   4992 : 1975  Specification for door hand
 
 11.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55363,7 +55002,7 @@ For detailed information, refer to IS  5187 : 1972 Specification for flush bolt 
 
 11.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55408,7 +55047,7 @@ For detailed information, refer to IS  5899 : 1970  Specification for bathroom l
 
 11.30
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55491,7 +55130,7 @@ For detailed information, refer to IS : 5930-1970 Specification for mortice latc
 
 11.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55594,7 +55233,7 @@ heavy doors (second revision).
 
 11.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55654,7 +55293,7 @@ For detailed information, refer to IS   6318 : 1971 Specification for  plastic w
 
 11.33
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55756,7 +55395,7 @@ light doors weighting up to 40 kg (first revision).
 
 11.34
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55829,7 +55468,7 @@ For  detailed information, refer to IS 6607 : 1972 Specification for rebated mor
 
 11.35
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55862,7 +55501,7 @@ For detailed information, refer to IS 7196 : 1974  Specification for hold fast.
 
 11.36
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -55934,7 +55573,7 @@ for  heavy doors.
 
 11.37
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56042,7 +55681,7 @@ For detailed information, refer to  IS  7534:1985 Specification for sliding lock
 
 11.38
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56121,7 +55760,7 @@ For  detailed information, refer to  IS   7540 : 1974 Specification for mortice 
 
 11.39
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56190,7 +55829,7 @@ mechanism (first revision).
 
 11.40
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56253,7 +55892,7 @@ For  detailed information, refer to : IS 9106 :1979  Specification for rising bu
 
 11.41
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56318,7 +55957,7 @@ For detailed information, refer to  IS  9131 : 1979  Specification for  rim lock
 
 11.42
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56369,7 +56008,7 @@ For detailed information, refer to IS 10019 : 1981 Specification for mild steel 
 
 11.43
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -56421,7 +56060,7 @@ For detailed information, refer to  IS 10090 : 1982 Specification  for numerical
 
 11.44
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56479,7 +56118,7 @@ For  detailed information, refer to  IS 10342 : 1982  Specification for  curtain
 
 11.45
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56543,7 +56182,7 @@ For detailed information, refer to  IS 12817:1997 Specification for stainless st
 
 11.46
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56612,7 +56251,7 @@ For   detailed information, refer to  IS  12867 : 1989  Specification for  PVC h
 
 11.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -56696,7 +56335,7 @@ regulated)
 
 11.48
 
-SP  21 : 2005
+
 
 SECTION 12
 
@@ -56706,7 +56345,7 @@ WOOD PRODUCTS
 
 12.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -56846,7 +56485,7 @@ Prelaminated medium  density fibre board.
 
 12.2
 
-SP  21 : 2005
+
 
 Title
  Page
@@ -56901,7 +56540,7 @@ Medium density coirboards for general purposes – Specification
 
 12.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -57071,7 +56710,7 @@ prelamination particle board.
 
 12.4
 
-SP  21 : 2005
+
 
   2.5.1 Size  — Shall be as sizes specified below:
 Length
@@ -57249,7 +56888,7 @@ based panel materials.
 
 12.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -57311,7 +56950,7 @@ For detailed information, refer to IS  849 : 1994 Specification for cold setting
 
 12.6
 
-SP  21 : 2005
+
 
     SUMMARY OF
 
@@ -57467,7 +57106,7 @@ CWR
 
 12.7
 
-SP  21 : 2005
+
 
 4.2 Close-Contact Joints  —  See Table 3.
 
@@ -57534,7 +57173,7 @@ construction work (nonstructural) in wood (first revision).
 
 12.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -57614,7 +57253,7 @@ For detailed information, refer to IS 852 : 1994 Specification for animal glue f
 
 12.9
 
-SP  21 : 2005
+
 
 SUMMARY
 
@@ -57800,7 +57439,7 @@ formaldehyde) for plywood (first revision).
 
 12.10
 
-SP  21 : 2005
+
 
 The thickness shall be measured up to one place
 of decimal.
@@ -57946,7 +57585,7 @@ For detailed Information, refer to IS 303 :1989  Specification for plywood for g
 
 12.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -58066,7 +57705,7 @@ For detailed Information, refer to  IS  1328 : 1996  Specification for veneered 
 
 12.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -58262,7 +57901,7 @@ x
 
 12.13
 
-SP  21 : 2005
+
 
 Gaps and  open joints shall be permitted as  follows
 
@@ -58359,7 +57998,7 @@ For detailed informations, refer to IS 4990 : 1993 Specification for plywood for
 
 12.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -58466,7 +58105,7 @@ For detailed information, refer to IS : 5509-1980. Specification for fire retard
 
 12.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -58612,7 +58251,7 @@ oil mixture (50 : 50)]
 
 12.16
 
-SP  21 : 2005
+
 
 Sl
 Service Conditions
@@ -58778,7 +58417,7 @@ For detailed information, refer to IS 5539 : 1969 Specification for preservative
 
 12.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -58870,7 +58509,7 @@ for decorative faces.
 
 12.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -59014,7 +58653,7 @@ they do not mar  the appearance.
 
 12.19
 
-SP  21 : 2005
+
 
 6.3. Tolerance –The tolerances on the nominal sizes of
 finished panels shall be as given below:
@@ -59158,7 +58797,7 @@ For detailed information, refer to IS 10701:1983 specification for Structural pl
 
 12.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -59267,7 +58906,7 @@ For detailed Information, refer to IS 13957 : 1994.Specification for metal faced
 
 12.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -59383,7 +59022,7 @@ For detailed information, refer to IS 1658 : 1977 Specification for fibre hardbo
 
 12.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -59489,7 +59128,7 @@ blockboard manufacture. A list of species for
 
 12.23
 
-SP  21 : 2005
+
 
 5.4   Mycological Test
 MR Grade block board specimens, when tested
@@ -59538,7 +59177,7 @@ For detailed information, refer to IS 1659 : 2004 Specification for Blockboard (
 
 12.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -59679,7 +59318,7 @@ board shall be straight with a tolerance of  3 mm.
 
 12.25
 
-SP  21 : 2005
+
 
 5.
 Physical, Mechanical Properties —   See Table  1
@@ -59841,7 +59480,7 @@ temperature for 2 h. Specimens are then cooled in water to 27 ±2ºC and then te
 
 12.26
 
-SP  21 : 2005
+
 
 7.
 Preservative Treatment – A suitable preservative
@@ -59878,7 +59517,7 @@ general purposes (first revision).
 
 12.27
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -60017,7 +59656,7 @@ Particle boards shall be of medium density.
 
 12.28
 
-SP  21 : 2005
+
 
 surface absorption.
 
@@ -60045,7 +59684,7 @@ For detailed information, refer to IS  3097 : 1980  Specification for  veneered 
 
 12.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -60153,7 +59792,7 @@ aminoplastic) (first revision.)
 
 12.30
 
-SP  21 : 2005
+
 
 TABLE 1  PHYSICAL REQUIREMENTS OF LOW DENSITY PARTICLES BOARDS
 
@@ -60238,7 +59877,7 @@ For detailed information, refer to IS  3129 : 1985. Specification for  low densi
 
 12.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -60446,7 +60085,7 @@ For detailed information, refer to IS  3308 : 1981  Specification for wood  wool
 
 12.32
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -60586,7 +60225,7 @@ For detailed information, refer to  IS  3348 : 1965 Specification for fibre insu
 
 12.33
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -60699,7 +60338,7 @@ For detailed information, refer to IS 3478 :1966  Specification for high density
 
 12.34
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -60782,7 +60421,7 @@ aminoplastic) (first revision).
 
 12.35
 
-SP  21 : 2005
+
 
 TABLE 1   PHYSICAL AND MECHANICAL REQUIEMENTS OF MEDIUM DENSITY FIBRE BOARDS
 
@@ -60934,7 +60573,7 @@ temperature for 2 hours. Specimens are then cooled in water 27 ± 2ºC and then 
 
 12.36
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -61039,7 +60678,7 @@ materials
 
 12.37
 
-SP  21 : 2005
+
 
 TABLE 1    PHYSICAL AND MECHANICAL PROPERTIES
 
@@ -61123,7 +60762,7 @@ For detailed Information, refer to IS 12823 : 1990 Specification for wood produc
 
 12.38
 
-SP  21 : 2005
+
 
         SUMMARY OF
 
@@ -61262,7 +60901,7 @@ For detailed information, refer to IS 14276 : 1995 Specification for cement bond
 
 12.39
 
-SP  21 : 2005
+
 
     SUMMARY OF
 
@@ -61417,7 +61056,7 @@ d)  Type  IV
 
 12.40
 
-SP  21 : 2005
+
 
 6.5 Resistance to Cigarette Burn — Shall not leave
 any mark or stain on the specimen after cleaning with
@@ -61449,7 +61088,7 @@ For  detailed Information, refer to IS  14587:1998  Specification for prelaminat
 
 12.41
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -61556,7 +61195,7 @@ mainly at 450 to  the load axis. This
 
 12.42
 
-SP  21 : 2005
+
 
 4.
 Dimensions and Tolerances
@@ -61757,7 +61396,7 @@ Rods 50 mm dia and above
 
 12.43
 
-SP  21 : 2005
+
 
 TABLE  3 - MECHANICAL PROPERTIES
 
@@ -61841,7 +61480,7 @@ laminates (compregs) : Part I   For electrical  purposes  (first revision).
 
 12.44
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -62023,7 +61662,7 @@ revision).
 
 12.45
 
-SP  21 : 2005
+
 
 5.
 Physical and Mechanical Properties :
@@ -62169,7 +61808,7 @@ and open joints and the boards shall be free from warp.
 
 12.46
 
-SP  21 : 2005
+
 
 Note – For  method of tests refer to –
 
@@ -62195,7 +61834,7 @@ laminates (compregs) : Part  2   For  chemical  purposes (first revision).
 
 12.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -62309,7 +61948,7 @@ approximately equal in all radial
 
 12.48
 
-SP  21 : 2005
+
 
 Length
 Diameter
@@ -62544,7 +62183,7 @@ sample), kg. m/cm2, Min
 
 12.49
 
-SP  21 : 2005
+
 
 6.
   Workmanship and Finish
@@ -62572,7 +62211,7 @@ laminates (compregs) : Part 3  For general  purposes (first revision).
 
 12.50
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -62689,7 +62328,7 @@ Requirements :
 
 12.51
 
-SP  21 : 2005
+
 
 6.2 Adhesion of Plies—Adhesion of plies shall be
 tested by knife test as described in IS 1734 (Part 5) on
@@ -62768,7 +62407,7 @@ For detailed information, refer to IS 14616 : 1999 Specification for laminated v
 
 12.52
 
-SP  21 : 2005
+
 
   SUMMARY OF
 
@@ -62858,7 +62497,7 @@ For detailed information, refer to IS 13958 : 1994  Specification for Bamboo mat
 
 12.53
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -62984,7 +62623,7 @@ purposes.
 
 12.54
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -63095,7 +62734,7 @@ purposes.
 
 12.55
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -63161,7 +62800,7 @@ For detailed  information, refer to IS 15476: 2004   Specification for bamboo  m
 
 12.56
 
-SP  21 : 2005
+
 
 SUMMARY   OF
 
@@ -63267,7 +62906,7 @@ and mechanical requirements given in Table 1.
 
 12.57
 
-SP  21 : 2005
+
 
 Table 1 Physical Land Mechanical Requirements of Medium Density Coirboard
 
@@ -63446,7 +63085,7 @@ After accelerated water resistance1
 
 12.58
 
-SP  21 : 2005
+
 
 Sl.No.
 Properties
@@ -63519,7 +63158,7 @@ DOORS, WINDOWS AND SHUTTERS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -63623,7 +63262,7 @@ Glass fibre reinforced plastic (GRP) door shutters for internal use
 
 13.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -63791,7 +63430,7 @@ and frames.
 
 13.3
 
-SP  21 : 2005
+
 
 of primer polish or varnish. As specified in IS 2338
 (Part 1)* and IS 2338 (Part 2)+.
@@ -63876,7 +63515,7 @@ Part1 door shutters (fourth revision).
 
 13.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64018,7 +63657,7 @@ purposes (third revision)
 
 13.5
 
-SP  21 : 2005
+
 
 4.3 Tolerances on overall dimensions shall be  ± 3 mm.
 
@@ -64050,7 +63689,7 @@ Part 2  Window and ventilator shutter (third revision)
 
 13.6
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -64164,7 +63803,7 @@ Light test – Shall withstand the prescribed test.
 
 13.7
 
-SP  21 : 2005
+
 
 6.1.5
 Rigidity test – Slats shall have sufficient flexibility
@@ -64192,7 +63831,7 @@ For detailed information, refer to IS   1826 : 1961. Specification for venetian 
 
 13.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64337,7 +63976,7 @@ Nominal thickness
 
 13.9
 
-SP  21 : 2005
+
 
 6.1 Both faces of door shutter shall be sanded to a
 smooth even texture. If required by the purchaser, all
@@ -64366,7 +64005,7 @@ and hollow core type) : Part 1  Plywood face panels (fourth revision).
 
 13.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64452,7 +64091,7 @@ and hollow core type) : Part 2  Particle board and hard board face panels (third
 
 13.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64610,7 +64249,7 @@ double leaved shutters.
 
 13.12
 
-SP  21 : 2005
+
 
 6.
 Workmanship and Finish –  All the four edges of
@@ -64678,7 +64317,7 @@ Part 1  Plywood face panels (sixth revision).
 
 13.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64840,7 +64479,7 @@ type) : Part 2  Particle board and har board face panels (third revision).
 
 13.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -64963,7 +64602,7 @@ c)    Thickness
 
 13.15
 
-SP  21 : 2005
+
 
 4.2 Tolerance
 
@@ -65044,7 +64683,7 @@ For detailed information, refer to IS 4021 : 1995 Timber door, window and ventil
 
 13.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65099,7 +64738,7 @@ For detailed information, refer to  IS  4962 : 1968 Specification for wooden sid
 
 13.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65240,7 +64879,7 @@ shutters (second revision).
 
 13.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65356,7 +64995,7 @@ The following tests shall constitute product acceptance
 
 13.19
 
-SP  21 : 2005
+
 
 7.1.2 Type Tests
 The  following tests shall constitute product approval
@@ -65439,7 +65078,7 @@ specification
 
 13.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65604,7 +65243,7 @@ doors, windows and shutters.
 
 13.21
 
-SP  21 : 2005
+
 
 5.
 Fabrication
@@ -65649,7 +65288,7 @@ For detailed information, refer to IS  1038 : 1983 Specification for steel doors
 
 13.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65791,7 +65430,7 @@ doors, windows and shutters.
 
 13.23
 
-SP  21 : 2005
+
 
 8.  Composite Windows – Shall be desptached
 unassembled, but complete with necessary coupling
@@ -65826,7 +65465,7 @@ For detailed information, refer to IS  1361 : 1978 Specification for steel windo
 
 13.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -65965,7 +65604,7 @@ top and bottom.
 
 13.25
 
-SP  21 : 2005
+
 
 5.4 Composite Units –  Doors shall be coupled to
 windows or side lights by extruded aluminium sections
@@ -66002,7 +65641,7 @@ For detailed information, refer to IS 1948 : 1961  Specification for aluminium d
 
 13.26
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66150,7 +65789,7 @@ pole (chord in case of centre-hung).
 
 13.27
 
-SP  21 : 2005
+
 
 6.3 Bottom-hung and top-hung ventilators shall be
 hung on aluminium alloy hinges. The former shall be
@@ -66183,7 +65822,7 @@ For detailed information, refer to IS 1949 : 1961 Specification for aluminium wi
 
 13.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66240,7 +65879,7 @@ with split end tail to each jamb without fan light, and
 
 13.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66341,7 +65980,7 @@ For detailed information, refer to IS  6248 : 1979 Specification for metal rolli
 
 13.30
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66458,7 +66097,7 @@ For detailed information, refer to IS 7452 : 1990  Hot rolled steel sections for
 
 13.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66515,7 +66154,7 @@ For detailed information, refer to IS 10451 : 1983  Specification for steel slid
 
 13.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66597,7 +66236,7 @@ For detailed information, refer to IS  10521 : 1983  Specification for  collapsi
 
 13.33
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -66747,7 +66386,7 @@ epoxide resin systems (first revision)
 
 13.34
 
-SP  21 : 2005
+
 
 Toelrances — Tolerances on the sizes of door shutters
 
@@ -66882,7 +66521,7 @@ CONCRETE REINFORCEMENT
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -66957,7 +66596,7 @@ concrete
 
 14.2
 
-SP  21 : 2005
+
 
 SUMMARY  OF
 
@@ -67104,7 +66743,7 @@ purposes (third revision).
 
 14.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -67230,7 +66869,7 @@ elongation shall be as given in Table 1.
 
 14.4
 
-SP  21 : 2005
+
 
 TABLE 1 MECHANICAL PROPERTIES OF BARS
    Sl                Type and  Nominal                                                     Ultimate
@@ -67293,7 +66932,7 @@ and hard-drawn steel wire for concrete reinforcement : Part I Mild steel and med
 
 14.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 432 (PARTII) : 1982 MILD STEEL AND MEDIUM TENSILE STEEL
@@ -67357,7 +66996,7 @@ steel wire for concrete reinforcement : Part 2 hard-drawn steel wire  (third rev
 
 14.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -67446,7 +67085,7 @@ reinforcement (second revision).
 
 14.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -67584,7 +67223,7 @@ prestressed concrete : Part I  Cold drawn stress – relieved wire (second  revi
 
 14.8
 
-SP  21 : 2005
+
 
  SUMMARY OF
 
@@ -67703,7 +67342,7 @@ prestressed concrete : Part 2 As drawn wire (first  revision).
 
 14.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -67900,7 +67539,7 @@ the rebend test.
 
 14.10
 
-SP  21 : 2005
+
 
 TABLE 1  MECHANICAL PROPERTIES OF HIGH STRENGTH DEFORMED BARS AND WIRES
 
@@ -67946,7 +67585,7 @@ for concrete reinforcement  (third revision).
 
 14.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68013,7 +67652,7 @@ concrete (first revision).
 
 14.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68120,7 +67759,7 @@ concrete (first revision).
 
 14.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68234,7 +67873,7 @@ Element Wire
 
 14.14
 
-SP  21 : 2005
+
 
 TABLE 2   DIMENSIONS, TOLERANCES AND MASS OF SEVEN WIRE STRANDS
         Class
@@ -68394,7 +68033,7 @@ For  detailed information, refer to IS 6006:1983 Uncoated stress relieved strand
 
 14.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68548,7 +68187,7 @@ one metre length of coil from both ends
 
 14.16
 
-SP  21 : 2005
+
 
 5.
 Sizes and Tolerances
@@ -68594,7 +68233,7 @@ purposes (first revision).
 
 14.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68680,7 +68319,7 @@ For detailed information, refer to IS  13620 : 1993  Fusion bonded epoxy coated 
 
 14.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -68844,7 +68483,7 @@ II
 
 14.19
 
-SP  21 : 2005
+
 
 4.
 Mechanical Properties
@@ -68873,7 +68512,7 @@ STRUCTURAL STEELS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -68957,7 +68596,7 @@ engineering  purposes (first revision) have been covered in Section 14 Concrete 
 
 15.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -69085,7 +68724,7 @@ For detailed information, refer to  IS  1977: 1996 low tensile structural steels
 
 15.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -69229,7 +68868,7 @@ Fe410WC
 
 15.4
 
-SP  21 : 2005
+
 
 accordance with the relevant Indian Standard. Currently
 available Indian Standard are listed in Table 4 of the
@@ -69267,7 +68906,7 @@ revision).
 
 15.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -69444,7 +69083,7 @@ and high strength qualities) (third revision).
 
 15.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -69583,7 +69222,7 @@ Joule
 
 15.7
 
-SP  21 : 2005
+
 
 6.
  Dimensions  –  Shall be in accordance with the
@@ -69613,7 +69252,7 @@ For detailed information, refer  to IS 11587 : 1986 Structural weather resistant
 
 15.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -69756,7 +69395,7 @@ as in the case with cut length.
 
 15.9
 
-SP  21 : 2005
+
 
 7.
 Mass –  See Table 4 of the Standard.
@@ -69931,7 +69570,7 @@ For detailed  information, refer to IS 277 : 2003  Specification for galvanized 
 
 15.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70220,7 +69859,7 @@ and
 
 15.11
 
-SP  21 : 2005
+
 
 4.
 Tolerances
@@ -70274,7 +69913,7 @@ revision).
 
 15.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70448,7 +70087,7 @@ Mechanical and Physical Properties
 
 15.13
 
-SP  21 : 2005
+
 
 4.4.3
  The test  pieces shall be  deemed to have passed
@@ -70549,7 +70188,7 @@ For detailed  information, refer to   IS  513 :1994  Specification for cold roll
 
 15.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70687,7 +70326,7 @@ For  detail  information,  refer to IS 1079 : 1994 Hot rolled carbon steel sheet
 
 15.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70757,7 +70396,7 @@ For detailed information, refer to  IS  3502 : 1994  Specification  for steel ch
 
 15.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70870,7 +70509,7 @@ alloy steel strip for general engineering purposes.
 
 15.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -70992,7 +70631,7 @@ T0 04
 
 15.18
 
-SP  21 : 2005
+
 
 3.4 Mechanical Properties –  See Table 3.
 
@@ -71101,7 +70740,7 @@ For detailed information, refer to IS 12313: 1988  Specification for hot-dip ter
 
 15.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -71242,7 +70881,7 @@ purposes (third revision).
 
 15.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -71368,7 +71007,7 @@ purposes (third revision).
 
 15.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -71474,7 +71113,7 @@ c) Weight
 
 15.22
 
-SP  21 : 2005
+
 
 TABLE 1   SIZES AND PROPERTIES OF STEEL TUBES FOR STRUCTURAL PURPOSES
 
@@ -71760,7 +71399,7 @@ Heavy
 
 15.23
 
-SP  21 : 2005
+
 
 Table 1   SIZES AND PROPERTIES OF STEEL TUBES FOR STRUCTURAL PURPOSES (concluded)
 
@@ -71927,7 +71566,7 @@ revision).
 
 15.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -72177,7 +71816,7 @@ cm2
 
 15.25
 
-SP  21 : 2005
+
 
 standard. the tolerances on twist shall be 2 mm plus 0.5
 mm/m.
@@ -72481,7 +72120,7 @@ a)   Thickness for all sizes        ±10 percent
 
 15.26
 
-SP  21 : 2005
+
 
 Note 2 — The height of the internal weld fin shall not exceed
 60 per cent of the wall thickness.
@@ -72548,7 +72187,7 @@ LIGHT METALS AND THEIR ALLOYS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -72608,7 +72247,7 @@ drawn round tubes  (second revision)
 
 16.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -72731,7 +72370,7 @@ bars, rods  and sections for General enginering purposes (third revision).
 
 16.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -72856,7 +72495,7 @@ plate for general engineering purposes  (third revision).
 
 16.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -72973,7 +72612,7 @@ plates  and hot rolled sheets (first revision).
 
 16.5
 
-SP  21 : 2005
+
 
 Designation
 Typical uses
@@ -73021,7 +72660,7 @@ and strip for general engineering purposes (third revision).
 
 16.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73120,7 +72759,7 @@ tubes for general engineering purpose (third revision).
 
 16.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73226,7 +72865,7 @@ wire for general engineering purpose (third revision).
 
 16.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73310,7 +72949,7 @@ stock for general engineering purposes (second revision).
 
 16.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73397,7 +73036,7 @@ For detailed information, refer to IS 1254 : 1991  Specifications for Corrugated
 
 16.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73516,7 +73155,7 @@ extruded round tube and hollow sections for general engineering purposes (third 
 
 16.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73617,7 +73256,7 @@ For detailed information, refer to IS 2525 : 1982 Specifications for wrought alu
 
 16.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73743,7 +73382,7 @@ aluminium alloys, sheet and strip (first revision).
 
 16.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -73949,7 +73588,7 @@ aluminum alloys, plates and hot-rolled sheets  (first revision).
 
 16.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -74151,7 +73790,7 @@ mm
 
 16.15
 
-SP  21 : 2005
+
 
 TABLE  3    TOLERANCES ON OUTSIDE OR INSIDE DIAMETERS
 OF  DRAWN ROUND TUBE WITH PARALLEL BORE
@@ -74445,7 +74084,7 @@ aluminiu and aluminium  alloy drawn round tubes (second revision).
 
 16.16
 
-SP  21 : 2005
+
 
 SECTION  17
 
@@ -74455,7 +74094,7 @@ STRUCTURAL SHAPES
 
 17.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -74560,7 +74199,7 @@ Note – See  also Section 15 Structural steel and Section 16 Light metal and th
 
 17.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -74629,7 +74268,7 @@ For detailed information, refer to IS 3908  : 1986.  Specifications  for alumini
 
 17.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -74749,7 +74388,7 @@ For  detailed information, refer to IS  3909 : 1986  Specifications for aluminiu
 
 17.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -74846,7 +74485,7 @@ For detailed information, refer to IS  3921 : 1985  Specifications for aluminium
 
 17.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -74934,7 +74573,7 @@ For detailed information, refer  to IS  5384 : 1985  Specifications for aluminiu
 
 17.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -75025,7 +74664,7 @@ For detailed information, refer  to IS  6445 : 1985  Aluminium  tee-section  (fi
 
 17.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -75166,7 +74805,7 @@ electrification.
 
 17.8
 
-SP  21 : 2005
+
 
  4.1.5
  Column heavy weight beams –
@@ -75405,7 +75044,7 @@ Note – (P) stands for provisional section.
 
 17.9
 
-SP  21 : 2005
+
 
 ∠ 120  120 ×  8
    × 10
@@ -75535,7 +75174,7 @@ angle sections (third revision).
 
 17.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -75736,7 +75375,7 @@ Dimensions and Properties –
 
 17.11
 
-SP  21 : 2005
+
 
 4.4 Channels without Lips — Rectangular
 4.4.1 Designations
@@ -75968,7 +75607,7 @@ Designations
 
 17.12
 
-SP  21 : 2005
+
 
   95 × 40 × 20 ×3.15
 
@@ -76203,7 +75842,7 @@ SP  21 : 2005
 
 17.13
 
-SP  21 : 2005
+
 
  4.11 90º Corner – Refer to Table 11 of the standard.
 
@@ -76243,7 +75882,7 @@ For detailed information refer to IS 811:1984 Specifications for cold formed lig
 
 17.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -76402,7 +76041,7 @@ revision)
 
 17.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -76733,7 +76372,7 @@ Maximum Standard Nominal thickness in mm.
 
 17.16
 
-SP  21 : 2005
+
 
 4.
 Sheets –
@@ -76919,7 +76558,7 @@ and general engineering purposes – Dimensions (second revision).
 
 17.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77019,7 +76658,7 @@ and general engineering  purposes-Dimensions  (second revision).
 
 17.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77134,7 +76773,7 @@ For detailed information, refer to IS 1863 : 1979  Specifications for rolled ste
 
 17.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77225,7 +76864,7 @@ For detailed information, refer to IS 2314 : 1986  Steel sheet piling section (f
 
 17.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77346,7 +76985,7 @@ For detailed information, refer to IS 3443 : 1980.  Specifications for crane rai
 
 17.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77405,7 +77044,7 @@ engineering purposes – Dimensions (first revision).
 
 17.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77508,7 +77147,7 @@ For detailed information, refer to IS 3964 : 1980  Specifications for light rail
 
 17.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77638,7 +77277,7 @@ For detailed information, refer to IS 8081 : 1976 Specifications for slotted sec
 
 17.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77719,7 +77358,7 @@ WELDING ELECTRODES AND WIRES
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -77790,7 +77429,7 @@ Base wire electrodes for electroslag welding of steels.
 
 18.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -77916,7 +77555,7 @@ metal arc welding (third revision).
 
 18.3
 
-SP  21 : 2005
+
 
 TABLE 2 COMBINATION  OF  PERCENTAGE
 ELONGATION  AND  IMPACT  STRENGTH
@@ -78129,7 +77768,7 @@ recovery with respect to that of core wire melted, where
 
 18.4
 
-SP  21 : 2005
+
 
 5.
 Tests
@@ -78249,7 +77888,7 @@ Same as EBXXXX
 
 18.5
 
-SP  21 : 2005
+
 
 TABLE 6  MECHANICAL PROPERTIES OF  WELD METAL
 
@@ -78339,7 +77978,7 @@ welding of  carbon manganese  steel (sixth revision).
 
 18.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -78423,7 +78062,7 @@ revision).
 
 18.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -78586,7 +78225,7 @@ the electrode shall be ± 0.05 mm.
 
 18.8
 
-SP  21 : 2005
+
 
 3.1 Length
 
@@ -78666,7 +78305,7 @@ electrodes for manual metal arc welding  (third revision).
 
 18.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -78830,7 +78469,7 @@ For straight loading over 1500 kgf
 
 18.10
 
-SP  21 : 2005
+
 
 3.1.6
  Caps and adapter shanks Types A to F. Nominal
@@ -78885,7 +78524,7 @@ For detailed information, refer to IS 4972 : 1968 Specifications for resistance 
 
 18.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79048,7 +78687,7 @@ be ±3 mm.
 
 18.12
 
-SP  21 : 2005
+
 
 4.
 Quality Requirements
@@ -79093,7 +78732,7 @@ welding of cast iron (first revision).
 
 18.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79224,7 +78863,7 @@ and wires and magnesium alloy welding rods (first revision).
 
 18.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79328,7 +78967,7 @@ rods and electrodes.
 
 18.15
 
-SP  21 : 2005
+
 
 SUMMARY
 
@@ -79488,7 +79127,7 @@ MPa, Min
 
 18.16
 
-SP  21 : 2005
+
 
 A.   Symbol Indicating Tensile Strength and Elongation
 
@@ -79560,7 +79199,7 @@ shielded arc welding of structural steel (first revision).
 
 18.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79717,7 +79356,7 @@ MPa, Min
 
 18.18
 
-SP  21 : 2005
+
 
 TABLE 2 DIAMETER OF CAST HELIX
 
@@ -79830,7 +79469,7 @@ low alloy steel welding rods and bare electrodes for gas shielded arc welding (f
 
 18.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79884,7 +79523,7 @@ welding  of  structural  steels.
 
 18.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -79941,7 +79580,7 @@ of steels.
 
  
 
-SP  21 : 2005
+
 
 SECTION  19
 
@@ -79953,7 +79592,7 @@ RIVETS
 
 19.1
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -80101,7 +79740,7 @@ General requirements for plain washers and lock washers (first revision)
 
 19.2
 
-SP  21 : 2005
+
 
 Title
 Page
@@ -80197,7 +79836,7 @@ Transmission tower bolts
 
 19.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80245,7 +79884,7 @@ For detailed information, refer to IS 207 : 1964  Specification for  gate and sh
 
 19.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80388,7 +80027,7 @@ revision).
 
 19.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80527,7 +80166,7 @@ hooks and  screw eyes ( revised).
 
 19.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80623,7 +80262,7 @@ of the standard.
 
 19.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80725,7 +80364,7 @@ revision).
 
 19.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -80800,7 +80439,7 @@ For detailed information, refer to IS  1120 : 1975  Specification  for  coach sc
 
 19.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS  1363 (Part 1) : 2002 ISO 4016 : 1999
@@ -80883,7 +80522,7 @@ bolts, screws and nuts of product grade C : Part I Heaxagon head bolts (size ran
 
 19.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1363 (PART 2) : 2002   ISO 4018 : 1999
@@ -80965,7 +80604,7 @@ screws and nuts  of product grade C : Part 2 Hexagon head screws (size range M5 
 
 19.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1363 (PART 3) : 2002 ISO 4034 : 1999
@@ -81043,7 +80682,7 @@ bolts, screws and nuts  of product grade C : Part 3  Hexagon nuts (size range M5
 
 19.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1364 (Part 1) : 2002 ISO 4014 : 1999
@@ -81156,7 +80795,7 @@ revision).
 
 19.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1364 (PART 2):2002 ISO 4017 : 1999
@@ -81272,7 +80911,7 @@ revision).
 
 19.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1364 (Part 3) : 2002 ISO 4032 : 1999
@@ -81384,7 +81023,7 @@ revision).
 
 19.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1364 (PART 4) : 2003   ISO 4035 : 1999
@@ -81494,7 +81133,7 @@ of product  grades A and B - Part 4 – Hexagon thin nuts (chamfered) (size rang
 
 19.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1364 (PART 5): 2002 ISO 4036 : 1999
@@ -81582,7 +81221,7 @@ of product grades A and B  Part 5   Hexagon thin nuts (unchamfered) (Size range 
 
 19.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -81715,7 +81354,7 @@ For  detailed information, refer to IS 1365 : 1978 Specification for slotted cou
 
 19.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -81791,7 +81430,7 @@ For detailed information, refer to  IS 1366 : 1982. Specification for  Slotted c
 
 19.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 1929 : 1982 HOT FORGED STEEL RIVETS FOR HOT CLOSING
@@ -81896,7 +81535,7 @@ mm diameter) (first revision).
 
 19.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -82135,7 +81774,7 @@ of Hole)
 
 19.21
 
-SP  21 : 2005
+
 
 4.2  Punched Washers, Type A, for Hexagonal Bolts
 and Screws
@@ -82418,7 +82057,7 @@ For detailed information, refer to IS 2016 : 1967  Specification for Plain washe
 
 19.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -82532,7 +82171,7 @@ For detailed  Information, refer to IS 2155 : 1982   Specification for cold forg
 
 19.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS  2585 : 1968 BLACK SQUARE BOLTS AND NUTS
@@ -82714,7 +82353,7 @@ For detailed information, refer to IS 2585 : 1968  Specification for black squar
 
 19.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -82816,7 +82455,7 @@ For detailed information, refer to IS 2687 : 1991. Specification for  cap nuts (
 
 19.25
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -82891,7 +82530,7 @@ revision).
 
 19.26
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -83028,7 +82667,7 @@ For detailed information, refer to IS 2998 : 1982  Specification for cold  forge
 
 19.27
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -83127,7 +82766,7 @@ spring lock washers  (second revision).
 
 19.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -83325,7 +82964,7 @@ For detailed information, refer to IS 3121 : 1981 Specification for ringging scr
 
 19.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 3468 : 1991 PIPE NUTS
@@ -83472,7 +83111,7 @@ For detailed information, refer to IS 3468 : 1991 Specification for pipe nuts (s
 
 19.30
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -83551,7 +83190,7 @@ revision).
 
 19.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -83653,7 +83292,7 @@ revision).
 
 19.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 5369 : 1975 GENERAL REQUIREMENTS FOR PLAIN WASHERS
@@ -83688,7 +83327,7 @@ lock washers  (first revision)
 
 19.33
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 5372 : 1975 TAPER WASHERS FOR CHANNELS (ISMC)
@@ -83793,7 +83432,7 @@ revision).
 
 19.34
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 5373 : 1969 SQUARE WASHERS FOR WOOD FASTENINGS
@@ -83903,7 +83542,7 @@ For detailed information, refer to IS 5373 : 1969  Specification for  square was
 
 19.35
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 5374 : 1975 TAPER WASHERS FOR I-BEAMS (ISMB)
@@ -83990,7 +83629,7 @@ nominal size 18 mm shall be designated as `Taper Washer
 
 19.36
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84087,7 +83726,7 @@ For detailed information, refer to IS 5624 : 1993 Specification for foundation b
 
 19.37
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84176,7 +83815,7 @@ For  detailed information, refer to IS 6113 : 1970 Specification for aluminium f
 
 19.38
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 6610 : 1972 HEAVY WASHERS FOR STEEL STRUCTURES
@@ -84276,7 +83915,7 @@ washers (first revision).
 
 19.39
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84372,7 +84011,7 @@ For detailed information, refer to IS 6623 : 2004 Specification for high strengt
 
 19.40
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84496,7 +84135,7 @@ For detailed information, refer to IS 6639 : 1972 Specification for hexagon bolt
 
 19.41
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84604,7 +84243,7 @@ strength structural bolts and nuts (first revision).
 
 19.42
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84683,7 +84322,7 @@ For  detailed  information, refer to IS 6733 : 1972 Specification for wall and r
 
 19.43
 
-SP  21 : 2005
+
 
 SUMMARY OF
 IS 6736 : 1972 SLOTTED RAISED COUNTERSUNK HEAD
@@ -84819,7 +84458,7 @@ For detailed information, refer to IS  6736 : 1972 Specification  for  slotted r
 
 19.44
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -84951,7 +84590,7 @@ For detailed information, refer to IS 6739 : 1972 Specification for slotted roun
 
 19.45
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85090,7 +84729,7 @@ For  detailed information, refer to  IS 6760 : 1972 Specification for slotted co
 
 19.46
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85162,7 +84801,7 @@ fastenings.
 
 19.47
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85238,7 +84877,7 @@ structures.
 
 19.48
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85313,7 +84952,7 @@ For detailed information, refer to  IS 8869 : 1978 Specification for washers for
 
 19.49
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85395,7 +85034,7 @@ bolt for steel structures.
 
 19.50
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85509,7 +85148,7 @@ WIRES ROPES AND WIRE PRODUCTS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -85540,7 +85179,7 @@ Galvanized steel chain link fence fabric  (first revision)
 
 20.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85673,7 +85312,7 @@ revision).
 
 20.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -85848,7 +85487,7 @@ For detailed information, refer to  IS 2140 : 1978 Specifications for stranded g
 
 20.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -86115,7 +85754,7 @@ elevators and hoists (first revision)
 
 20.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -86333,7 +85972,7 @@ the manufacturer.
 
 20.6
 
-SP  21 : 2005
+
 
 6.
 Test –
@@ -86377,7 +86016,7 @@ GLASS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -86404,7 +86043,7 @@ Figured rolled and wired glass (first revision)
 
 21.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -86525,7 +86164,7 @@ glass of IS 2835 : 1987.
 
 21.3
 
-SP  21 : 2005
+
 
 3.3.1     Thickness – Laminated safety glass shall be of
 thickness   as specified in Table 1.
@@ -86609,7 +86248,7 @@ Part 1  General  Purposes  (third revision).
 
 21.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -86746,7 +86385,7 @@ xvi)
 
 21.5
 
-SP  21 : 2005
+
 
 3.3.1
 Allowable cluster of  defects – Sheet glass
@@ -86938,7 +86577,7 @@ For detailed information, refer to IS 2835 : 1987  Specifications for flat  tran
 
 21.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87013,7 +86652,7 @@ For detailed information, refer to IS 3438 : 1994  Specifications for silvered g
 
 21.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87131,7 +86770,7 @@ FILLERS, STOPPERS AND PUTTIES
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -87164,7 +86803,7 @@ Mastic cement for bedding of metal windows
 
 22.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87280,7 +86919,7 @@ enamels, for use over primers (second revision).
 
 22.3
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87362,7 +87001,7 @@ For detailed information, refer to IS 419 : 1967  Specifications  for putty, for
 
 22.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87424,7 +87063,7 @@ For detailed information, refer to IS  423 : 1961 Specification  for plastic woo
 
 22.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87494,7 +87133,7 @@ THERMAL INSULATION MATERIALS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -87584,7 +87223,7 @@ Rigid phenolic foams for thermal insulation
 
 23.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87726,7 +87365,7 @@ mW/cm deg C
 
 23.3
 
-SP  21 : 2005
+
 
 3.7 Sulphur  Content –  The material, after removal of
 the confining media, if any, shall not contain more than
@@ -87801,7 +87440,7 @@ insulation (second revision).
 
 23.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -87906,7 +87545,7 @@ Pipe Laggings
 
 23.5
 
-SP  21 : 2005
+
 
 TABLE 1    REQUIREMENTS  FOR  EXPANDED  POLYSTYRENE
 
@@ -87976,7 +87615,7 @@ purposes (first revision).
 
 23.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88092,7 +87731,7 @@ For detailed  information, refer to IS 6598 : 1972  Specifications  for cellular
 
 23.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88206,7 +87845,7 @@ For detailed information, refer to IS 7509 : 1993 Specification  for  thermal in
 
 23.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88343,7 +87982,7 @@ external dia up to 219 mm
 
 23.9
 
-SP  21 : 2005
+
 
 Thickness
 –
@@ -88397,7 +88036,7 @@ temperatures upto 650ºC) (first revision).
 
 23.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88550,7 +88189,7 @@ the blanks.
 
 23.11
 
-SP  21 : 2005
+
 
 2.10.3 Resistance to vibration –  Shall show not more
 than 1 percent height of settlement.
@@ -88581,7 +88220,7 @@ For detailed information, refer to IS 8183 : 1993 Specifications for bonded mine
 
 23.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88717,7 +88356,7 @@ of 345 kN/m2
 
 23.13
 
-SP  21 : 2005
+
 
 b)
 Pipe sections
@@ -88761,7 +88400,7 @@ temperatures upto 950ºC) (first revision).
 
 23.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88868,7 +88507,7 @@ revision).
 
 23.15
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -88978,7 +88617,7 @@ could effectively be used as a finishing cement over
 
 23.16
 
-SP  21 : 2005
+
 
 3.6 Flexural Strength – For Type 1 shall be not less
 than 2000 kN/m2.
@@ -89010,7 +88649,7 @@ For detailed information, refer to IS 9743 : 1990 Specifications for thermal ins
 
 23.17
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89161,7 +88800,7 @@ incombustibility, shall not exceed 5 percent.
 
 23.18
 
-SP  21 : 2005
+
 
 2.10
 Recovery After Compression – The recovery,
@@ -89198,7 +88837,7 @@ For detailed information, refer to IS 9842 : 1994 Specifications for Preformed f
 
 23.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89302,7 +88941,7 @@ thermal insulation.
 
 23.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89408,7 +89047,7 @@ insulation.
 
 23.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89517,7 +89156,7 @@ castables for temperatures up to 1250ºC.
 
 23.22
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89635,7 +89274,7 @@ Horizontal burning, Max, mm
 
 23.23
 
-SP  21 : 2005
+
 
 TABLE 2    DIMENSIONAL TOLERANCES FOR
 PIPE SECTIONS AND LAGS
@@ -89737,7 +89376,7 @@ polyisocyanurate (PIR) foams for thermal insulation.
 
 23.24
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -89918,7 +89557,7 @@ the sizes shall be either 1.0 m ×  0.5 m or 1.22 m ×  0.61 m
 
 23.25
 
-SP  21 : 2005
+
 
 4.
 Workmanship and Finish
@@ -89963,7 +89602,7 @@ PLASTICS
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -90031,7 +89670,7 @@ Polymethyl methacrylate (PMMA) (Acrylic) sheets
 
 24.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -90152,7 +89791,7 @@ Requirements
 
 24.3
 
-SP  21 : 2005
+
 
 4.
 Optional Requirements –  Shall comply with
@@ -90199,7 +89838,7 @@ For detailed information, refer to IS 2036 : 1995 Specifications for phenolic la
 
 24.4
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -90329,7 +89968,7 @@ specimen under test.
 
 24.5
 
-SP  21 : 2005
+
 
 TABLE 1   CLASSIFICATION SYSTEM AND TYPICAL APPLICATIONS
 
@@ -90558,7 +90197,7 @@ to impact
 
 24.6
 
-SP  21 : 2005
+
 
 3.5 Other Properties –  Shall satisfy the requirements
 given below –
@@ -90610,7 +90249,7 @@ sheets (second revision).
 
 24.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -90745,7 +90384,7 @@ holes, tears, or blisters. The edges shall be free from
 
 24.8
 
-SP  21 : 2005
+
 
 3.3 Tensile Strength at Break – Not less than 11.77MN/
 m2 (120 kgf/cm2) in length wise directionand 8.33 Mn/
@@ -90880,7 +90519,7 @@ revision).
 
 24.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91017,7 +90656,7 @@ For detailed information, refer to IS 6307 : 1995 Specifications for rigid PVC s
 
 24.10
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91160,7 +90799,7 @@ Lots over 1 250 kg
 
 24.11
 
-SP  21 : 2005
+
 
 3.4.1 Tensile Strength at Break –  The minimum tensile
 strength at break for all thickness of polyethylene film
@@ -91230,7 +90869,7 @@ For detailed information, refer to IS 10889 : 1984 Specifications for high densi
 
 24.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91284,7 +90923,7 @@ to cement.
 
 24.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91375,7 +91014,7 @@ general purpose.
 
 24.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91482,7 +91121,7 @@ Decrease, percent by mass, Max
 
 24.15
 
-SP  21 : 2005
+
 
 ii)
 Medium-bodied cement shall have a minimum
@@ -91533,7 +91172,7 @@ polyvinyl chloride plastic pipes and fittings.
 
 24.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91683,7 +91322,7 @@ Flammability rating codes listed in Table 3.
 
 24.17
 
-SP  21 : 2005
+
 
 Each requirement is codified by a combination of one
 letter and one digit. The letter indicates the type of
@@ -91872,7 +91511,7 @@ For detailed information, refer to IS 14443 : 1997 Specifications for polycarbon
 
 24.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -91946,7 +91585,7 @@ tape for threads sealing applications.
 
 24.19
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -92068,7 +91707,7 @@ in or on the sheet.
 
 24.20
 
-SP  21 : 2005
+
 
 2.13  Burning Rate – Shall show a burning rate of not
 more than 40 mm per minute.
@@ -92229,7 +91868,7 @@ CONDUCTORS AND CABLES
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -92261,7 +91900,7 @@ Elastometer insulated cables for working voltages upto and including
 
 25.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -92371,7 +92010,7 @@ temperature rise due to load results in a continuous
 
 25.3
 
-SP  21 : 2005
+
 
 between cores may be filed with fillers. A binder
 tape may be applied over laid-up cores.
@@ -92483,7 +92122,7 @@ Note  2 –  For detailed dimensions, refer to Tables 2 to 6 of the standard.
 
 25.4
 
-SP  21 : 2005
+
 
 3.2 Acceptance Tests – Tests specified in (a) to (d), (h)
 and ( j ) of 3.1 and following:
@@ -92513,7 +92152,7 @@ and including 1 100 volts (third revision).
 
 25.5
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -92640,7 +92279,7 @@ copper conductor  only.
 
 25.6
 
-SP  21 : 2005
+
 
 2.2.3 Core Identification – Shall be  identified by
 different colouring of PVC insulation.
@@ -92752,7 +92391,7 @@ cable: Part I For working voltages up to and including 1 100 volts (third revisi
 
 25.7
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -92865,7 +92504,7 @@ as specified below :
 
 25.8
 
-SP  21 : 2005
+
 
 a) Coloured strip applied on the core
             b) Colouring of XLPE insulation as follows :
@@ -92996,7 +92635,7 @@ thermoplastic sheathed cables: Part I   For working voltages upto and including 
 
 25.9
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -93111,7 +92750,7 @@ Operation
 
 25.10
 
-SP  21 : 2005
+
 
 2.6.1 General service insulated cables and flexible
 cords –  Cables for fixed wiring and flexible cords shall
@@ -93255,7 +92894,7 @@ WIRING ACCESSORIES
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -93365,7 +93004,7 @@ and similar fixed electrical installation.
 
 26.2
 
-SP  21 : 2005
+
 
 SU MMARY OF
 
@@ -93605,7 +93244,7 @@ iii)    Portable type socket-outlets.
 26.5
  
 
-SP  21 : 2005
+
 
 6.
 Materials
@@ -93676,7 +93315,7 @@ to and including  of 250 volts and rated current up to and including 16 amperes 
 
 26.6
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -93789,7 +93428,7 @@ projections. The mounting surface may be left unglazed
 
 26.7
 
-SP  21 : 2005
+
 
 3.3.1.1 The glaze, which shall show no signs of crazing,
 shall be leadless and shall cover at least those surface
@@ -93884,7 +93523,7 @@ electric fuses for voltages up to 650 volts (third revision).
 
 26.8
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -94021,7 +93660,7 @@ For detailed  information, Refer to  IS  2412 : 1975 Specification for link clip
 
 26.9
 
-SP  21 : 2005
+
 
 SUMMAY OF
 
@@ -94134,7 +93773,7 @@ size in mm16, 20, 25, 32, 40, 50 and 63.
 
 26.10
 
-SP  21 : 2005
+
 
 3.6 Tees –  Nominal Size in mm 16, 20, 25, 32, 40, 50 and
 63.
@@ -94224,7 +93863,7 @@ wiring (second revision).
 
 26.11
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -94328,7 +93967,7 @@ For detailed information, refer to IS 3419 : 1989 Specification for fittings for
 
 26.12
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -94501,7 +94140,7 @@ For detailed information, refer to  IS 3480 :1966  Specification for flexible st
 
 26.13
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -94659,7 +94298,7 @@ electrical wiring (first revision).
 
 26.14
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -94784,7 +94423,7 @@ their performance is reliable and without danger to the
 
 26.15
 
-SP  21 : 2005
+
 
 6.
 Provision for Earthing – Accessible metal parts,
@@ -94908,7 +94547,7 @@ For detailed information, refer to IS 3854 : 1997 Specification for  switches fo
 
 26.16
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95047,7 +94686,7 @@ Height of head, Min
 
 26.17
 
-SP  21 : 2005
+
 
 o) Resistance to heat
 p) Resistance to rusting – Shall show no sign of
@@ -95075,7 +94714,7 @@ For detailed information, refer to IS 4160 : 1967 Specification for interlocking
 
 26.18
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95220,7 +94859,7 @@ Length of thread in nut, Min
 
 26.19
 
-SP  21 : 2005
+
 
 m) Switch socket – outlets for ac inductive
 circuits125 percent or rated current at 110
@@ -95253,7 +94892,7 @@ For detailed information, refer to  IS 4615 : 1968  Specification for switch soc
 
 26.20
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95350,7 +94989,7 @@ For detailed information, refer to IS 4649 : 1968 Specification for adaptors for
 
 26.21
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95494,7 +95133,7 @@ up to 16 ampheres (second revision)
 
 26.22
 
-SP  21 : 2005
+
 
 p) Test for water absorption
 q) Test 
@@ -95521,7 +95160,7 @@ For detailed information, refer to  IS 6538: 1971 Specification for three-pin pl
 
 26.23
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95622,7 +95261,7 @@ c) their operation and behaviour in  case of short-
 
 26.24
 
-SP  21 : 2005
+
 
 2.4 According to the method of connection :
 
@@ -95719,7 +95358,7 @@ values of rated frequency are 50 Hz and 60 Hz.
 
 26.25
 
-SP  21 : 2005
+
 
 5.
 Tests
@@ -95752,7 +95391,7 @@ for house-hold and similar installations (second revision).
 
 26.26
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -95847,7 +95486,7 @@ ii)Conduits with medium protection against
 
 26.27
 
-SP  21 : 2005
+
 
 e) Collapse Test – Values of minimum internal
 diameter as per relevant conduits specifications)
@@ -95900,7 +95539,7 @@ For detailed information, refer to  IS 9537 (Part I) : 1980  Specification for c
 
 26.28
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96030,7 +95669,7 @@ Rigid steel conduits.
 
 26.29
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96168,7 +95807,7 @@ Part 3  Rigid plain conduits of insulation materials.
 
 26.30
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96291,7 +95930,7 @@ For detailed information, refer to  IS 9537 (Part 4) : 1983  Specification for c
 
 26.31
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96411,7 +96050,7 @@ Part 3  Rigid plain conduits of insulation materials.
 
 26.32
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96522,7 +96161,7 @@ IEC 817:1984 and calibration
 
 26.33
 
-SP  21 : 2005
+
 
 4.1 Category of Test –  Tests are classified as type,
 acceptance and routine test.
@@ -96627,7 +96266,7 @@ GENERAL
 
  
 
-SP  21 : 2005
+
 
 CONTENTS
 
@@ -96645,7 +96284,7 @@ Dead loads — Unit Weights of Building Materials and stored materials
 
 27.2
 
-SP  21 : 2005
+
 
 SUMMARY OF
 
@@ -96743,7 +96382,7 @@ Earth filling
 
 27.3
 
-SP  21 : 2005
+
 
 4.
 Store and Miscellaneous Materials – Unit weights

@@ -6,6 +6,113 @@ def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def is_all_caps_line(line):
+    stripped = line.strip()
+    if not stripped:
+        return False
+    letters = re.findall(r"[A-Za-z]", stripped)
+    return bool(letters) and stripped == stripped.upper()
+
+
+def build_category_map(text):
+    # Walk the raw text once and remember the current section/subsection.
+    lines = text.splitlines()
+    section_heading = re.compile(r"^\s*SECTION\s+\d+\s*$", re.IGNORECASE)
+
+    id_to_category = {}
+    section_name = None
+    subsection_name = None
+    looking_for_section_name = False
+    in_section = False
+
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        if not line:
+            i += 1
+            continue
+
+        if section_heading.match(line):
+            in_section = True
+            looking_for_section_name = True
+            section_name = None
+            subsection_name = None
+            i += 1
+            continue
+
+        if re.search(r"\bSUMMARY OF\b", line, re.IGNORECASE):
+            in_section = False
+            looking_for_section_name = False
+            subsection_name = None
+            i += 1
+            continue
+
+        if in_section and looking_for_section_name:
+            # Section name may continue onto the next ALL-CAPS line(s).
+            if is_all_caps_line(line):
+                parts = [line]
+                # Keep joining nearby ALL-CAPS lines until the name ends.
+                j = i + 1
+                while j < len(lines):
+                    nxt = lines[j].strip()
+                    if not nxt:
+                        break
+                    if nxt.upper() == "CONTENTS":
+                        break
+                    if is_all_caps_line(nxt):
+                        parts.append(nxt)
+                        j += 1
+                        continue
+                    break
+
+                section_name = " ".join(p for p in parts if p)
+                looking_for_section_name = False
+                # advance index to last consumed line
+                i = j
+                continue
+            i += 1
+            continue
+
+        if in_section and section_name and is_all_caps_line(line):
+            if line.upper() != "CONTENTS" and not re.match(r"^IS\b", line, re.IGNORECASE):
+                # Treat uppercase lines as subsection names.
+                subsection_name = line
+                i += 1
+                continue
+
+        if in_section and section_name:
+            id_number = None
+            if re.match(r"^IS\b", line, re.IGNORECASE):
+                same_line = re.search(r"^IS\s*(\d+)", line, re.IGNORECASE)
+                if same_line:
+                    id_number = same_line.group(1)
+                elif line.upper() == "IS":
+                    j = i + 1
+                    while j < len(lines) and not lines[j].strip():
+                        j += 1
+                    if j < len(lines):
+                        next_line = lines[j].strip()
+                        m = re.match(r"^(\d+)", next_line)
+                        if m:
+                            id_number = m.group(1)
+                            i = j
+
+            if id_number:
+                # Map the standard number to the current section/subsection.
+                if subsection_name:
+                    category = f"{section_name} {subsection_name}"
+                else:
+                    category = section_name
+
+                if id_number not in id_to_category:
+                    id_to_category[id_number] = category
+
+        i += 1
+
+    return id_to_category
+
+
 def extract_id(block):
     block = block.replace("\n", " ")
 
@@ -120,6 +227,7 @@ def extract_title_and_scope(block):
     return clean(title), clean(scope)
 
 def build_chunks(text):
+    # Split each SUMMARY OF block into one chunk entry.
     blocks = text.split("SUMMARY OF")[1:]
 
     data = []
@@ -151,10 +259,19 @@ def build_chunks(text):
 
 
 if __name__ == "__main__":
-    with open("data/raw_text.txt", "r", encoding="utf-8") as f:
+    with open("data/raw.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     chunks = build_chunks(text)
+    id_to_category = build_category_map(text)
+
+    for entry in chunks:
+        # Attach the parsed category back onto the matching chunk.
+        match = re.search(r"\bIS\s*(\d+)", entry.get("standard", ""))
+        if match:
+            category = id_to_category.get(match.group(1))
+            if category:
+                entry["category"] = category
 
     with open("data/chunks.json", "w") as f:
         json.dump(chunks, f, indent=2)
