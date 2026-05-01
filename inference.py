@@ -14,6 +14,7 @@ def main(input_path, output_path):
         start = time.time()
 
         query = item["query"]
+        # Control output size: change k=5 to desired number of results
         retrieved = retrieve(query, k=5)
 
         latency = time.time() - start

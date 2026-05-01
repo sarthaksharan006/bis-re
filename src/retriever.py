@@ -43,4 +43,4 @@ def retrieve(query, k=5):
 
     return results[:k] 
     
-print("Retrieval done...")
+print("Retrieving..")
