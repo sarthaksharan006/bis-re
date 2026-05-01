@@ -1,81 +1,22 @@
 [
   {
     "id": "SYN-001",
-    "query": "Need coarse and fine aggregates from natural sources for structural concrete in a housing project.",
+    "query": "We are a small cement plant producing 43 grade ordinary Portland cement for railway sleepers. Which Indian Standard specifies the physical and chemical requirements?",
     "expected_standards": [
-      "IS 383: 1970"
+      "IS 8112: 1989"
     ],
     "retrieved_standards": [
-      "IS 383: 1970",
-      "IS 6579: 1981",
-      "IS 2686: 1977",
-      "IS 9142: 1979",
-      "IS 2116: 1980"
+      "IS 8112: 1989",
+      "IS 269: 1989",
+      "IS 8042: 1989",
+      "IS 1489 (Part 1): 1991",
+      "IS 12269: 1987"
     ],
-    "latency_seconds": 0.0943
+    "latency_seconds": 0.1113
   },
   {
     "id": "SYN-002",
-    "query": "Looking for sand suitable for masonry mortar work on brick walls and plaster.",
-    "expected_standards": [
-      "IS 2116: 1980"
-    ],
-    "retrieved_standards": [
-      "IS 2116: 1980",
-      "IS 1542: 1992",
-      "IS 6579: 1981",
-      "IS 3182: 1986"
-    ],
-    "latency_seconds": 0.0373
-  },
-  {
-    "id": "SYN-003",
-    "query": "We are manufacturing lightweight concrete masonry blocks and need the standard for artificial lightweight aggregates.",
-    "expected_standards": [
-      "IS 9142: 1979"
-    ],
-    "retrieved_standards": [
-      "IS 9142: 1979",
-      "IS 2185 (Part 2): 1983",
-      "IS 2185 (Part 1): 1979",
-      "IS 2185 (Part 3): 1984",
-      "IS 12440: 1988"
-    ],
-    "latency_seconds": 0.0402
-  },
-  {
-    "id": "SYN-004",
-    "query": "Our plant produces 33 grade ordinary Portland cement for general construction.",
-    "expected_standards": [
-      "IS 269: 1989"
-    ],
-    "retrieved_standards": [
-      "IS 269: 1989",
-      "IS 12269: 1987",
-      "IS 8042: 1989",
-      "IS 8112: 1989",
-      "IS 1489 (Part 1): 1991"
-    ],
-    "latency_seconds": 0.0428
-  },
-  {
-    "id": "SYN-005",
-    "query": "We want the specification for Portland slag cement used in aggressive environments.",
-    "expected_standards": [
-      "IS 455: 1989"
-    ],
-    "retrieved_standards": [
-      "IS 455: 1989",
-      "IS 8042: 1989",
-      "IS 7509: 1993",
-      "IS 4098: 1983",
-      "IS 12330: 1988"
-    ],
-    "latency_seconds": 0.0433
-  },
-  {
-    "id": "SYN-006",
-    "query": "We are blending fly ash based pozzolana cement and need the relevant Indian Standard.",
+    "query": "Our unit manufactures Portland pozzolana cement using fly ash. What is the applicable BIS standard?",
     "expected_standards": [
       "IS 1489 (Part 1): 1991"
     ],
@@ -84,148 +25,58 @@
       "IS 1489 (Part 2): 1991",
       "IS 4098: 1983",
       "IS 10772: 1983",
-      "IS 10360: 1982"
+      "IS 8112: 1989"
     ],
-    "latency_seconds": 0.0409
+    "latency_seconds": 0.048
   },
   {
-    "id": "SYN-007",
-    "query": "We are blending calcined clay based pozzolana cement and need the relevant Indian Standard.",
-    "expected_standards": [
-      "IS 1489 (Part 2): 1991"
-    ],
-    "retrieved_standards": [
-      "IS 1489 (Part 2): 1991",
-      "IS 1489 (Part 1): 1991",
-      "IS 4098: 1983",
-      "IS 10360: 1982",
-      "IS 10772: 1983"
-    ],
-    "latency_seconds": 0.05
-  },
-  {
-    "id": "SYN-008",
-    "query": "Which standard applies to masonry cement intended for mortar work but not structural concrete?",
-    "expected_standards": [
-      "IS 3466: 1988"
-    ],
-    "retrieved_standards": [
-      "IS 3466: 1988",
-      "IS 2185 (Part 1): 1979",
-      "IS 2185 (Part 2): 1983",
-      "IS 12440: 1988",
-      "IS 12269: 1987"
-    ],
-    "latency_seconds": 0.0446
-  },
-  {
-    "id": "SYN-009",
-    "query": "We need high alumina cement for structural use in cold regions.",
+    "id": "SYN-003",
+    "query": "We need the standard for high alumina cement used in cold regions where the ambient temperature does not exceed 18\u00b0C. Please provide the number.",
     "expected_standards": [
       "IS 6452: 1989"
     ],
     "retrieved_standards": [
       "IS 6452: 1989",
       "IS 7509: 1993",
-      "IS 6286: 1971",
-      "IS 8183: 1993",
-      "IS 8870: 1978"
+      "IS 11308: 1985",
+      "IS 13204: 1991",
+      "IS 9743: 1990"
     ],
-    "latency_seconds": 0.0464
+    "latency_seconds": 0.0472
   },
   {
-    "id": "SYN-010",
-    "query": "Which standard covers supersulphated cement for marine works and sulphate-bearing soils?",
-    "expected_standards": [
-      "IS 6909: 1990"
-    ],
-    "retrieved_standards": [
-      "IS 6909: 1990",
-      "IS 12330: 1988",
-      "IS 8043: 1991",
-      "IS 1626 (Part 1): 1994",
-      "IS 14862: 2000"
-    ],
-    "latency_seconds": 0.0444
-  },
-  {
-    "id": "SYN-011",
-    "query": "We manufacture rapid hardening Portland cement for precast products.",
+    "id": "SYN-004",
+    "query": "What is the BIS specification for rapid hardening Portland cement? We want to produce cement that gains strength quickly.",
     "expected_standards": [
       "IS 8041: 1990"
     ],
     "retrieved_standards": [
       "IS 8041: 1990",
+      "IS 8112: 1989",
       "IS 12269: 1987",
-      "IS 13990: 1994",
-      "IS 9893: 1981",
-      "IS 6452: 1989"
+      "IS 12330: 1988",
+      "IS 269: 1989"
     ],
-    "latency_seconds": 0.0383
+    "latency_seconds": 0.0453
   },
   {
-    "id": "SYN-012",
-    "query": "We need the standard for white Portland cement used in decorative architectural finishes.",
-    "expected_standards": [
-      "IS 8042: 1989"
-    ],
-    "retrieved_standards": [
-      "IS 8042: 1989",
-      "IS 6452: 1989",
-      "IS 12269: 1987",
-      "IS 269: 1989",
-      "IS 8112: 1989"
-    ],
-    "latency_seconds": 0.0492
-  },
-  {
-    "id": "SYN-013",
-    "query": "We are sourcing hydrophobic Portland cement for storage in humid conditions.",
+    "id": "SYN-005",
+    "query": "Our factory makes hydrophobic Portland cement to prevent moisture during storage. Which standard should we follow?",
     "expected_standards": [
       "IS 8043: 1991"
     ],
     "retrieved_standards": [
       "IS 8043: 1991",
-      "IS 7509: 1993",
-      "IS 6452: 1989",
-      "IS 8154: 1993",
-      "IS 455: 1989"
-    ],
-    "latency_seconds": 0.0456
-  },
-  {
-    "id": "SYN-014",
-    "query": "We manufacture 43 grade ordinary Portland cement for higher-strength concrete applications.",
-    "expected_standards": [
-      "IS 8112: 1989"
-    ],
-    "retrieved_standards": [
       "IS 12269: 1987",
-      "IS 8112: 1989",
-      "IS 8042: 1989",
-      "IS 269: 1989",
-      "IS 6452: 1989"
+      "IS 2645: 2003",
+      "IS 9743: 1990",
+      "IS 7509: 1993"
     ],
-    "latency_seconds": 0.0444
+    "latency_seconds": 0.0487
   },
   {
-    "id": "SYN-015",
-    "query": "We need 53 grade ordinary Portland cement for prestressed and precast work.",
-    "expected_standards": [
-      "IS 12269: 1987"
-    ],
-    "retrieved_standards": [
-      "IS 12269: 1987",
-      "IS 269: 1989",
-      "IS 8042: 1989",
-      "IS 8112: 1989",
-      "IS 458: 2003"
-    ],
-    "latency_seconds": 0.0449
-  },
-  {
-    "id": "SYN-016",
-    "query": "We need sulphate resisting Portland cement for concrete exposed to sulphate attack.",
+    "id": "SYN-006",
+    "query": "We are setting up a unit to produce sulphate resisting Portland cement for structures exposed to sulphate-rich soil. What is the governing standard?",
     "expected_standards": [
       "IS 12330: 1988"
     ],
@@ -233,404 +84,403 @@
       "IS 12330: 1988",
       "IS 4832 (Part 3): 1968",
       "IS 6909: 1990",
-      "IS 6452: 1989",
-      "IS 8043: 1991"
+      "IS 12269: 1987",
+      "IS 8112: 1989"
     ],
-    "latency_seconds": 0.0446
+    "latency_seconds": 0.0488
   },
   {
-    "id": "SYN-017",
-    "query": "We manufacture hollow and solid concrete blocks for wall construction.",
+    "id": "SYN-007",
+    "query": "Which BIS standard covers coarse and fine aggregates from natural sources for structural concrete?",
+    "expected_standards": [
+      "IS 383: 1970"
+    ],
+    "retrieved_standards": [
+      "IS 383: 1970",
+      "IS 5871: 1987",
+      "IS 6579: 1981",
+      "IS 2686: 1977",
+      "IS 4139: 1989"
+    ],
+    "latency_seconds": 0.0434
+  },
+  {
+    "id": "SYN-008",
+    "query": "We want to manufacture sand for masonry mortars. Is there a standard that defines the quality and grading requirements?",
+    "expected_standards": [
+      "IS 2116: 1980"
+    ],
+    "retrieved_standards": [
+      "IS 2116: 1980",
+      "IS 1542: 1992",
+      "IS 4139: 1989",
+      "IS 12894: 2002"
+    ],
+    "latency_seconds": 0.0382
+  },
+  {
+    "id": "SYN-009",
+    "query": "Our company produces artificial lightweight aggregates for concrete masonry units. What is the applicable specification?",
+    "expected_standards": [
+      "IS 9142: 1979"
+    ],
+    "retrieved_standards": [
+      "IS 9142: 1979",
+      "IS 2185 (Part 3): 1984",
+      "IS 2185 (Part 1): 1979",
+      "IS 2185 (Part 2): 1983",
+      "IS 12894: 2002"
+    ],
+    "latency_seconds": 0.0389
+  },
+  {
+    "id": "SYN-010",
+    "query": "I need the standard for precast concrete pipes with and without reinforcement, used for water mains and sewers. Please help.",
+    "expected_standards": [
+      "IS 458: 2003"
+    ],
+    "retrieved_standards": [
+      "IS 12592: 2002",
+      "IS 458: 2003",
+      "IS 7319: 1974",
+      "IS 7322: 1985",
+      "IS 784: 2001"
+    ],
+    "latency_seconds": 0.0583
+  },
+  {
+    "id": "SYN-011",
+    "query": "We manufacture prestressed concrete pipes including fittings. Which IS standard gives the requirements?",
+    "expected_standards": [
+      "IS 784: 2001"
+    ],
+    "retrieved_standards": [
+      "IS 784: 2001",
+      "IS 10124 (Part 1): 1988",
+      "IS 1626 (Part 1): 1994",
+      "IS 458: 2003",
+      "IS 8360 (Part 1): 1977"
+    ],
+    "latency_seconds": 0.0461
+  },
+  {
+    "id": "SYN-012",
+    "query": "What is the Indian Standard for steel cylinder pipes with concrete lining and coating?",
+    "expected_standards": [
+      "IS 1916: 1989"
+    ],
+    "retrieved_standards": [
+      "IS 7322: 1985",
+      "IS 784: 2001",
+      "IS 3589: 2001",
+      "IS 5531: 1988",
+      "IS 1537: 1976"
+    ],
+    "latency_seconds": 0.0441
+  },
+  {
+    "id": "SYN-013",
+    "query": "Our plant makes hollow and solid concrete blocks for load-bearing walls. Which standard should we comply with?",
     "expected_standards": [
       "IS 2185 (Part 1): 1979"
     ],
     "retrieved_standards": [
       "IS 2185 (Part 1): 1979",
       "IS 2185 (Part 2): 1983",
-      "IS 9893: 1981",
+      "IS 3115: 1992",
       "IS 12440: 1988",
-      "IS 3115: 1992"
+      "IS 5751: 1984"
     ],
-    "latency_seconds": 0.0459
+    "latency_seconds": 0.0475
   },
   {
-    "id": "SYN-018",
-    "query": "We manufacture hollow and solid lightweight concrete blocks and need the applicable specification.",
-    "expected_standards": [
-      "IS 2185 (Part 2): 1983"
-    ],
-    "retrieved_standards": [
-      "IS 2185 (Part 2): 1983",
-      "IS 2185 (Part 1): 1979",
-      "IS 5751: 1984",
-      "IS 9142: 1979",
-      "IS 12440: 1988"
-    ],
-    "latency_seconds": 0.0428
-  },
-  {
-    "id": "SYN-019",
-    "query": "We manufacture autoclaved cellular aerated concrete blocks for lightweight masonry.",
+    "id": "SYN-014",
+    "query": "We are introducing autoclaved cellular (aerated) concrete blocks. What BIS standard covers these?",
     "expected_standards": [
       "IS 2185 (Part 3): 1984"
     ],
     "retrieved_standards": [
       "IS 2185 (Part 3): 1984",
-      "IS 2185 (Part 2): 1983",
-      "IS 6072: 1971",
       "IS 6073: 1971",
+      "IS 6072: 1971",
+      "IS 6598: 1972",
       "IS 9893: 1981"
     ],
-    "latency_seconds": 0.0479
+    "latency_seconds": 0.0492
   },
   {
-    "id": "SYN-020",
-    "query": "We need the standard for reinforced concrete fence posts.",
-    "expected_standards": [
-      "IS 4996: 1984"
-    ],
-    "retrieved_standards": [
-      "IS 4996: 1984",
-      "IS 2721: 1979",
-      "IS 1786: 1985",
-      "IS 9893: 1981",
-      "IS 6072: 1971"
-    ],
-    "latency_seconds": 0.0394
-  },
-  {
-    "id": "SYN-021",
-    "query": "We produce precast concrete coping blocks for boundary walls and parapets.",
+    "id": "SYN-015",
+    "query": "Which standard specifies the requirements for precast concrete coping blocks used on top of hollow block walls?",
     "expected_standards": [
       "IS 5751: 1984"
     ],
     "retrieved_standards": [
-      "IS 9893: 1981",
       "IS 5751: 1984",
       "IS 12440: 1988",
-      "IS 13990: 1994",
-      "IS 14143: 1994"
+      "IS 9893: 1981",
+      "IS 2185 (Part 1): 1979",
+      "IS 2185 (Part 2): 1983"
     ],
-    "latency_seconds": 0.042
+    "latency_seconds": 0.0431
   },
   {
-    "id": "SYN-022",
-    "query": "We are making precast concrete kerbs for roads and pavements.",
+    "id": "SYN-016",
+    "query": "We produce precast concrete kerbs for roadways. Please give the relevant IS number.",
     "expected_standards": [
       "IS 5758: 1984"
     ],
     "retrieved_standards": [
       "IS 5758: 1984",
+      "IS 12592: 2002",
+      "IS 458: 2003",
       "IS 13990: 1994",
-      "IS 14143: 1994",
-      "IS 9893: 1981",
-      "IS 1838 (Part 1): 1983"
-    ],
-    "latency_seconds": 0.0436
-  },
-  {
-    "id": "SYN-023",
-    "query": "We need the standard for precast concrete cable covers.",
-    "expected_standards": [
-      "IS 5820: 1970"
-    ],
-    "retrieved_standards": [
-      "IS 5820: 1970",
-      "IS 6006: 1983",
-      "IS 13990: 1994",
-      "IS 9893: 1981",
-      "IS 8870: 1978"
-    ],
-    "latency_seconds": 0.047
-  },
-  {
-    "id": "SYN-024",
-    "query": "We produce autoclaved reinforced cellular concrete wall slabs for prefabricated construction.",
-    "expected_standards": [
-      "IS 6072: 1971"
-    ],
-    "retrieved_standards": [
-      "IS 6072: 1971",
-      "IS 6073: 1971",
-      "IS 2185 (Part 3): 1984",
-      "IS 13990: 1994",
-      "IS 9893: 1981"
-    ],
-    "latency_seconds": 0.0479
-  },
-  {
-    "id": "SYN-025",
-    "query": "We produce autoclaved reinforced cellular concrete floor and roof slabs.",
-    "expected_standards": [
-      "IS 6073: 1971"
-    ],
-    "retrieved_standards": [
-      "IS 6073: 1971",
-      "IS 6072: 1971",
-      "IS 13990: 1994",
-      "IS 2185 (Part 3): 1984",
       "IS 14143: 1994"
     ],
-    "latency_seconds": 0.0422
+    "latency_seconds": 0.0524
   },
   {
-    "id": "SYN-026",
-    "query": "We manufacture precast reinforced concrete door and window frames.",
+    "id": "SYN-017",
+    "query": "Which standard applies to precast reinforced concrete door and window frames?",
     "expected_standards": [
       "IS 6523: 1983"
     ],
     "retrieved_standards": [
       "IS 6523: 1983",
-      "IS 13990: 1994",
-      "IS 14143: 1994",
-      "IS 9893: 1981",
-      "IS 12592: 2002"
+      "IS 14241: 1995",
+      "IS 4021: 1995",
+      "IS 12592: 2002",
+      "IS 4351: 2003"
     ],
-    "latency_seconds": 0.0404
+    "latency_seconds": 0.0469
   },
   {
-    "id": "SYN-027",
-    "query": "We need precast concrete blocks for lintels and sills in masonry openings.",
-    "expected_standards": [
-      "IS 9893: 1981"
-    ],
-    "retrieved_standards": [
-      "IS 9893: 1981",
-      "IS 12440: 1988",
-      "IS 2185 (Part 1): 1979",
-      "IS 5751: 1984",
-      "IS 3466: 1988"
-    ],
-    "latency_seconds": 0.0624
-  },
-  {
-    "id": "SYN-028",
-    "query": "We need the standard for corrugated coir wood wool cement roofing sheets.",
+    "id": "SYN-018",
+    "query": "Our small unit manufactures corrugated coir, woodwool, and cement roofing sheets. What standard governs these?",
     "expected_standards": [
       "IS 10388: 1982"
     ],
     "retrieved_standards": [
       "IS 10388: 1982",
       "IS 14871: 2000",
-      "IS 1626: 1984",
+      "IS 1254: 1991",
       "IS 459: 1992",
-      "IS 1254: 1991"
+      "IS 8869: 1978"
     ],
-    "latency_seconds": 0.0692
+    "latency_seconds": 0.0505
   },
   {
-    "id": "SYN-029",
-    "query": "We make precast concrete stone masonry blocks for faced wall construction.",
+    "id": "SYN-019",
+    "query": "We make precast concrete stone masonry blocks. Is there a BIS standard for these?",
     "expected_standards": [
       "IS 12440: 1988"
     ],
     "retrieved_standards": [
       "IS 12440: 1988",
-      "IS 9893: 1981",
       "IS 2185 (Part 1): 1979",
+      "IS 9893: 1981",
       "IS 5751: 1984",
-      "IS 2185 (Part 2): 1983"
+      "IS 3466: 1988"
     ],
-    "latency_seconds": 0.0796
+    "latency_seconds": 0.0434
   },
   {
-    "id": "SYN-030",
-    "query": "We are supplying precast concrete manhole covers and frames for drainage infrastructure.",
+    "id": "SYN-020",
+    "query": "What is the specification for precast concrete manhole covers and frames for sewerage and drainage?",
     "expected_standards": [
-      "IS 12592: 2002"
+      "IS 12592: 1988"
     ],
     "retrieved_standards": [
       "IS 12592: 2002",
       "IS 1726: 1991",
-      "IS 9893: 1981",
-      "IS 1838 (Part 1): 1983",
-      "IS 5758: 1984"
+      "IS 5758: 1984",
+      "IS 4350: 1967",
+      "IS 5751: 1984"
     ],
-    "latency_seconds": 0.0746
+    "latency_seconds": 0.0481
   },
   {
-    "id": "SYN-031",
-    "query": "We manufacture precast ferrocement water tanks with a capacity of a few thousand litres.",
+    "id": "SYN-021",
+    "query": "We fabricate precast ferrocement water tanks of capacities from 250 to 10,000 litres. Which standard should we refer to?",
     "expected_standards": [
       "IS 13356: 1992"
     ],
     "retrieved_standards": [
-      "IS 7181: 1986",
-      "IS 1537: 1976",
-      "IS 14143: 1994",
-      "IS 9893: 1981",
-      "IS 458: 2003"
+      "IS 8008 (Part 7): 2003",
+      "IS 2104: 1981",
+      "IS 458: 2003",
+      "IS 9338: 1984",
+      "IS 7181: 1986"
     ],
-    "latency_seconds": 0.06
+    "latency_seconds": 0.0573
   },
   {
-    "id": "SYN-032",
-    "query": "We manufacture precast reinforced concrete planks and joists for flooring and roofing.",
+    "id": "SYN-022",
+    "query": "Our company makes precast reinforced concrete planks and joists for roofing and flooring. What is the applicable Indian Standard?",
     "expected_standards": [
       "IS 13990: 1994"
     ],
     "retrieved_standards": [
       "IS 13990: 1994",
       "IS 14143: 1994",
-      "IS 14201: 1994",
       "IS 14241: 1995",
-      "IS 9893: 1981"
+      "IS 6073: 1971",
+      "IS 14201: 1994"
     ],
-    "latency_seconds": 0.0603
+    "latency_seconds": 0.0507
   },
   {
-    "id": "SYN-033",
-    "query": "We make prefabricated bricks panels with partially precast joists for floor and roof systems.",
+    "id": "SYN-023",
+    "query": "We produce prefabricated brick panels and partially precast joists for floors and roofs. Which standard covers this?",
     "expected_standards": [
       "IS 14143: 1994"
     ],
     "retrieved_standards": [
       "IS 14143: 1994",
       "IS 13990: 1994",
-      "IS 9893: 1981",
       "IS 14241: 1995",
+      "IS 9893: 1981",
       "IS 14201: 1994"
     ],
-    "latency_seconds": 0.063
+    "latency_seconds": 0.0515
   },
   {
-    "id": "SYN-034",
-    "query": "We are developing precast reinforced concrete channel units for roof and floor construction.",
+    "id": "SYN-024",
+    "query": "We manufacture precast reinforced concrete channel units for floor and roof construction. Please provide the IS number.",
     "expected_standards": [
       "IS 14201: 1994"
     ],
     "retrieved_standards": [
       "IS 14201: 1994",
       "IS 13990: 1994",
-      "IS 14143: 1994",
       "IS 14241: 1995",
+      "IS 14143: 1994",
       "IS 5758: 1984"
     ],
-    "latency_seconds": 0.0591
+    "latency_seconds": 0.0512
   },
   {
-    "id": "SYN-035",
-    "query": "We need the specification for precast L-panel units used in roofing.",
+    "id": "SYN-025",
+    "query": "We are planning to fabricate precast L-panel units for roofing. What BIS standard exists for this?",
     "expected_standards": [
       "IS 14241: 1995"
     ],
     "retrieved_standards": [
       "IS 14241: 1995",
       "IS 14143: 1994",
-      "IS 14201: 1994",
       "IS 13990: 1994",
+      "IS 14201: 1994",
       "IS 9893: 1981"
     ],
-    "latency_seconds": 0.0562
+    "latency_seconds": 0.0584
   },
   {
-    "id": "SYN-036",
-    "query": "Looking for corrugated and semi-corrugated asbestos cement sheets used on industrial sheds.",
+    "id": "SYN-026",
+    "query": "Our factory produces corrugated and semi-corrugated asbestos cement sheets for industrial roofing. Which standard applies?",
     "expected_standards": [
       "IS 459: 1992"
     ],
     "retrieved_standards": [
       "IS 459: 1992",
-      "IS 10388: 1982",
       "IS 1626: 1984",
-      "IS 8870: 1978",
-      "IS 13008: 1990"
+      "IS 14871: 2000",
+      "IS 1254: 1991",
+      "IS 2098: 1997"
     ],
-    "latency_seconds": 0.0506
+    "latency_seconds": 0.0545
   },
   {
-    "id": "SYN-037",
-    "query": "We manufacture asbestos cement pressure pipes and joints for water conveyance.",
+    "id": "SYN-027",
+    "query": "We need the standard for asbestos cement pressure pipes intended for water supply. What is it?",
     "expected_standards": [
       "IS 1592: 2003"
     ],
     "retrieved_standards": [
-      "IS 1592: 2003",
-      "IS 8870: 1978",
       "IS 1626 (Part 1): 1994",
+      "IS 1592: 2003",
+      "IS 6908: 1991",
       "IS 9627: 1980",
-      "IS 12987: 1991"
+      "IS 5531: 1988"
     ],
-    "latency_seconds": 0.0462
+    "latency_seconds": 0.0495
   },
   {
-    "id": "SYN-038",
-    "query": "We need asbestos cement building pipes and pipe fittings for construction services.",
+    "id": "SYN-028",
+    "query": "We manufacture asbestos cement building pipes and pipe fittings for rainwater and soil systems. Which IS standard governs this?",
     "expected_standards": [
       "IS 1626 (Part 1): 1994"
     ],
     "retrieved_standards": [
       "IS 1626 (Part 1): 1994",
-      "IS 1626: 1984",
       "IS 1626 (Part 2): 1994",
-      "IS 8870: 1978",
-      "IS 1592: 2003"
+      "IS 1592: 2003",
+      "IS 1626: 1984",
+      "IS 6908: 1991"
     ],
-    "latency_seconds": 0.0422
+    "latency_seconds": 0.0562
   },
   {
-    "id": "SYN-039",
-    "query": "We need asbestos cement gutters and gutter fittings for roof drainage.",
+    "id": "SYN-029",
+    "query": "What is the BIS specification for asbestos cement gutters and gutter fittings used in buildings?",
     "expected_standards": [
       "IS 1626 (Part 2): 1994"
     ],
     "retrieved_standards": [
-      "IS 1626: 1984",
-      "IS 1626 (Part 1): 1994",
       "IS 1626 (Part 2): 1994",
-      "IS 8870: 1978",
+      "IS 1626 (Part 1): 1994",
+      "IS 1626: 1984",
+      "IS 1592: 2003",
       "IS 6908: 1991"
     ],
-    "latency_seconds": 0.0412
+    "latency_seconds": 0.0392
   },
   {
-    "id": "SYN-040",
-    "query": "We need asbestos cement roofing accessories such as ridge pieces and fittings.",
+    "id": "SYN-030",
+    "query": "We produce asbestos cement roofing fittings like ridges and aprons. Which standard should we use?",
     "expected_standards": [
       "IS 1626 (Part 3): 1994"
     ],
     "retrieved_standards": [
       "IS 1626: 1984",
-      "IS 1626 (Part 1): 1994",
       "IS 1626 (Part 2): 1994",
-      "IS 8870: 1978",
-      "IS 10299: 1982"
+      "IS 1626 (Part 1): 1994",
+      "IS 6908: 1991",
+      "IS 14871: 2000"
     ],
-    "latency_seconds": 0.0434
+    "latency_seconds": 0.0393
   },
   {
-    "id": "SYN-041",
-    "query": "We are making asbestos cement flat sheets for cladding and partition use.",
+    "id": "SYN-031",
+    "query": "Our company makes asbestos cement flat sheets. Please provide the applicable Indian Standard.",
     "expected_standards": [
       "IS 2096: 1992"
     ],
     "retrieved_standards": [
-      "IS 8870: 1978",
-      "IS 459: 1992",
+      "IS 13000: 1990",
       "IS 2098: 1997",
-      "IS 1626: 1984",
-      "IS 2096: 1992"
+      "IS 2096: 1992",
+      "IS 459: 1992",
+      "IS 9627: 1980"
     ],
-    "latency_seconds": 0.0565
+    "latency_seconds": 0.043
   },
   {
-    "id": "SYN-042",
-    "query": "We are manufacturing asbestos cement building boards for interior and exterior panels.",
+    "id": "SYN-032",
+    "query": "We want to manufacture asbestos cement building boards for internal partitions. Which standard covers this product?",
     "expected_standards": [
       "IS 2098: 1997"
     ],
     "retrieved_standards": [
       "IS 2098: 1997",
       "IS 459: 1992",
-      "IS 8870: 1978",
+      "IS 2096: 1992",
       "IS 1626: 1984",
-      "IS 10388: 1982"
+      "IS 14276: 1995"
     ],
-    "latency_seconds": 0.0601
+    "latency_seconds": 0.0394
   },
   {
-    "id": "SYN-043",
-    "query": "We need the standard for asbestos cement pipes and fittings used in sewerage and drainage.",
+    "id": "SYN-033",
+    "query": "Which standard specifies requirements for asbestos cement pipes and fittings for sewerage and drainage?",
     "expected_standards": [
       "IS 6908: 1991"
     ],
@@ -638,179 +488,89 @@
       "IS 6908: 1991",
       "IS 1626 (Part 1): 1994",
       "IS 1626: 1984",
-      "IS 1626 (Part 2): 1994",
-      "IS 1592: 2003"
+      "IS 1592: 2003",
+      "IS 1626 (Part 2): 1994"
     ],
-    "latency_seconds": 0.0666
+    "latency_seconds": 0.0418
   },
   {
-    "id": "SYN-044",
-    "query": "We make asbestos cement cable conduits and troughs for electrical installations.",
+    "id": "SYN-034",
+    "query": "We make asbestos cement cable conduits and troughs. What is the relevant IS number?",
     "expected_standards": [
       "IS 8870: 1978"
     ],
     "retrieved_standards": [
       "IS 8870: 1978",
-      "IS 1626: 1984",
       "IS 1626 (Part 1): 1994",
-      "IS 3837: 1976",
-      "IS 3480: 1966"
+      "IS 1626: 1984",
+      "IS 1626 (Part 2): 1994",
+      "IS 6908: 1991"
     ],
-    "latency_seconds": 0.0559
+    "latency_seconds": 0.0464
   },
   {
-    "id": "SYN-045",
-    "query": "We are producing light-duty asbestos cement pressure pipes.",
+    "id": "SYN-035",
+    "query": "We need the standard for asbestos cement pressure pipes (light duty). Please help.",
     "expected_standards": [
       "IS 9627: 1980"
     ],
     "retrieved_standards": [
       "IS 9627: 1980",
       "IS 1592: 2003",
-      "IS 12987: 1991",
       "IS 1626 (Part 1): 1994",
-      "IS 8870: 1978"
+      "IS 6908: 1991",
+      "IS 5531: 1988"
     ],
-    "latency_seconds": 0.0522
+    "latency_seconds": 0.0425
   },
   {
-    "id": "SYN-046",
-    "query": "We need silica asbestos cement flat sheets for industrial roofing applications.",
+    "id": "SYN-036",
+    "query": "Our unit produces silica asbestos cement flat sheets. Which BIS standard applies?",
     "expected_standards": [
       "IS 13000: 1990"
     ],
     "retrieved_standards": [
-      "IS 1626: 1984",
-      "IS 13000: 1990",
       "IS 2098: 1997",
-      "IS 459: 1992",
-      "IS 8870: 1978"
+      "IS 13000: 1990",
+      "IS 2096: 1992",
+      "IS 9627: 1980",
+      "IS 14862: 2000"
     ],
-    "latency_seconds": 0.0478
+    "latency_seconds": 0.0414
   },
   {
-    "id": "SYN-047",
-    "query": "We manufacture shallow corrugated asbestos cement sheets for roofing.",
+    "id": "SYN-037",
+    "query": "We manufacture shallow corrugated asbestos cement sheets for roofing. What is the governing standard?",
     "expected_standards": [
       "IS 13008: 1990"
     ],
     "retrieved_standards": [
-      "IS 10388: 1982",
       "IS 459: 1992",
+      "IS 14871: 2000",
       "IS 13008: 1990",
       "IS 1626: 1984",
-      "IS 14871: 2000"
-    ],
-    "latency_seconds": 0.0422
-  },
-  {
-    "id": "SYN-048",
-    "query": "We need precast concrete pipes with or without reinforcement for water and drainage work.",
-    "expected_standards": [
-      "IS 458: 2003"
-    ],
-    "retrieved_standards": [
-      "IS 4350: 1967",
-      "IS 458: 2003",
-      "IS 7319: 1974",
-      "IS 7181: 1986",
-      "IS 784: 2001"
+      "IS 2098: 1997"
     ],
     "latency_seconds": 0.0439
   },
   {
-    "id": "SYN-049",
-    "query": "We need prestressed concrete pipes including fittings for infrastructure projects.",
-    "expected_standards": [
-      "IS 784: 2001"
-    ],
-    "retrieved_standards": [
-      "IS 784: 2001",
-      "IS 458: 2003",
-      "IS 7319: 1974",
-      "IS 4350: 1967",
-      "IS 1626 (Part 1): 1994"
-    ],
-    "latency_seconds": 0.0471
-  },
-  {
-    "id": "SYN-050",
-    "query": "We manufacture steel cylinder pipes with concrete lining and coating.",
-    "expected_standards": [
-      "IS 1916: 1989"
-    ],
-    "retrieved_standards": [
-      "IS 784: 2001",
-      "IS 7322: 1985",
-      "IS 7181: 1986",
-      "IS 6286: 1971",
-      "IS 1537: 1976"
-    ],
-    "latency_seconds": 0.0545
-  },
-  {
-    "id": "SYN-051",
-    "query": "We need concrete porous pipes for under-drainage in agricultural fields.",
-    "expected_standards": [
-      "IS 4350: 1967"
-    ],
-    "retrieved_standards": [
-      "IS 4350: 1967",
-      "IS 7319: 1974",
-      "IS 7181: 1986",
-      "IS 1537: 1976",
-      "IS 14402: 1996"
-    ],
-    "latency_seconds": 0.0601
-  },
-  {
-    "id": "SYN-052",
-    "query": "We need perforated concrete pipes for special drainage applications.",
-    "expected_standards": [
-      "IS 7319: 1974"
-    ],
-    "retrieved_standards": [
-      "IS 7319: 1974",
-      "IS 4350: 1967",
-      "IS 11925: 1986",
-      "IS 14333: 1996",
-      "IS 7181: 1986"
-    ],
-    "latency_seconds": 0.0524
-  },
-  {
-    "id": "SYN-053",
-    "query": "We need specials for steel cylinder reinforced concrete pipes.",
-    "expected_standards": [
-      "IS 7322: 1985"
-    ],
-    "retrieved_standards": [
-      "IS 7322: 1985",
-      "IS 784: 2001",
-      "IS 5531: 1988",
-      "IS 7319: 1974",
-      "IS 458: 2003"
-    ],
-    "latency_seconds": 0.0533
-  },
-  {
-    "id": "SYN-054",
-    "query": "We are sealing expansion joints in concrete pavements and structures with hot applied compounds.",
+    "id": "SYN-038",
+    "query": "We are a small producer of hot applied sealing compounds for joints in concrete roads and structures. Which standard should we follow?",
     "expected_standards": [
       "IS 1834: 1984"
     ],
     "retrieved_standards": [
       "IS 1834: 1984",
-      "IS 1838 (Part 1): 1983",
-      "IS 1838 (Part 2): 1984",
-      "IS 6452: 1989",
-      "IS 1580: 1991"
+      "IS 11433 (Part 1): 1985",
+      "IS 1580: 1991",
+      "IS 9743: 1990",
+      "IS 12118 (Part 1): 1987"
     ],
-    "latency_seconds": 0.0586
+    "latency_seconds": 0.0444
   },
   {
-    "id": "SYN-055",
-    "query": "We need preformed fillers for expansion joints in concrete pavements using bitumen impregnated fibre.",
+    "id": "SYN-039",
+    "query": "What is the specification for bitumen impregnated fibre fillers for expansion joints in concrete?",
     "expected_standards": [
       "IS 1838 (Part 1): 1983"
     ],
@@ -818,54 +578,1223 @@
       "IS 1838 (Part 1): 1983",
       "IS 1838 (Part 2): 1984",
       "IS 1834: 1984",
-      "IS 13990: 1994",
-      "IS 14143: 1994"
+      "IS 10292: 1988",
+      "IS 12988: 1991"
     ],
-    "latency_seconds": 0.0465
+    "latency_seconds": 0.0471
   },
   {
-    "id": "SYN-056",
-    "query": "We need preformed fillers for expansion joints in concrete pavements using CNSL aldehyde resin and coconut pith.",
+    "id": "SYN-040",
+    "query": "We need the standard for CNSL aldehyde resin and coconut pith based expansion joint fillers. Please advise.",
     "expected_standards": [
       "IS 1838 (Part 2): 1984"
     ],
     "retrieved_standards": [
       "IS 1838 (Part 2): 1984",
       "IS 1838 (Part 1): 1983",
-      "IS 1834: 1984",
-      "IS 13990: 1994",
-      "IS 6452: 1989"
+      "IS 12988: 1991",
+      "IS 423: 1961",
+      "IS 2556 (Part 6): 1994"
     ],
-    "latency_seconds": 0.0487
+    "latency_seconds": 0.042
   },
   {
-    "id": "SYN-057",
-    "query": "We need a one part gun-grade polysulphide-based joint sealant.",
+    "id": "SYN-041",
+    "query": "Our company makes one-part gun-grade polysulphide-based joint sealants for glazing. Which IS standard covers the general requirements?",
     "expected_standards": [
       "IS 11433 (Part 1): 1985"
     ],
     "retrieved_standards": [
       "IS 11433 (Part 1): 1985",
       "IS 12118 (Part 1): 1987",
+      "IS 2556 (Part 1): 1994",
       "IS 5382: 1985",
-      "IS 1341: 1992",
-      "IS 12988: 1991"
+      "IS 1341: 1992"
     ],
-    "latency_seconds": 0.0574
+    "latency_seconds": 0.0547
   },
   {
-    "id": "SYN-058",
-    "query": "We need a two part polysulphide-based sealant for joints in concrete structures.",
+    "id": "SYN-042",
+    "query": "We produce two-part polysulphide-based sealants for horizontal and vertical joints. What standard should we refer to?",
     "expected_standards": [
       "IS 12118 (Part 1): 1987"
     ],
     "retrieved_standards": [
       "IS 12118 (Part 1): 1987",
       "IS 11433 (Part 1): 1985",
-      "IS 1838 (Part 1): 1983",
-      "IS 1834: 1984",
-      "IS 5382: 1985"
+      "IS 5382: 1985",
+      "IS 8008 (Part 7): 2003",
+      "IS 730: 1978"
     ],
-    "latency_seconds": 0.058
+    "latency_seconds": 0.0516
+  },
+  {
+    "id": "SYN-043",
+    "query": "What is the BIS standard for building limes used in construction? We supply hydrated and quick lime.",
+    "expected_standards": [
+      "IS 712: 1984"
+    ],
+    "retrieved_standards": [
+      "IS 712: 1984",
+      "IS 4098: 1983",
+      "IS 3115: 1992",
+      "IS 12894: 2002",
+      "IS 2686: 1977"
+    ],
+    "latency_seconds": 0.0478
+  },
+  {
+    "id": "SYN-044",
+    "query": "We want to use cinder as fine aggregate in lime concrete. Which standard defines its quality?",
+    "expected_standards": [
+      "IS 2686: 1977"
+    ],
+    "retrieved_standards": [
+      "IS 2686: 1977",
+      "IS 12894: 2002",
+      "IS 3068: 1986",
+      "IS 9142: 1979",
+      "IS 10360: 1982"
+    ],
+    "latency_seconds": 0.0413
+  },
+  {
+    "id": "SYN-045",
+    "query": "Is there a standard for broken brick (burnt clay) coarse aggregate for use in lime concrete?",
+    "expected_standards": [
+      "IS 3068: 1986"
+    ],
+    "retrieved_standards": [
+      "IS 3068: 1986",
+      "IS 3182: 1986",
+      "IS 6579: 1981",
+      "IS 12894: 2002",
+      "IS 2686: 1977"
+    ],
+    "latency_seconds": 0.0348
+  },
+  {
+    "id": "SYN-046",
+    "query": "Our plant produces lime based blocks for walls and partitions. What is the applicable BIS specification?",
+    "expected_standards": [
+      "IS 3115: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 3115: 1992",
+      "IS 12894: 2002",
+      "IS 3620: 1979",
+      "IS 2849: 1983",
+      "IS 2185 (Part 1): 1979"
+    ],
+    "latency_seconds": 0.0372
+  },
+  {
+    "id": "SYN-047",
+    "query": "We need the standard for broken brick fine aggregate for lime mortar. Please provide the number.",
+    "expected_standards": [
+      "IS 3182: 1986"
+    ],
+    "retrieved_standards": [
+      "IS 3182: 1986",
+      "IS 3068: 1986",
+      "IS 6579: 1981",
+      "IS 12894: 2002",
+      "IS 2686: 1977"
+    ],
+    "latency_seconds": 0.0446
+  },
+  {
+    "id": "SYN-048",
+    "query": "We manufacture lime pozzolana mixture for masonry mortars and foundation concrete. Which standard should we comply with?",
+    "expected_standards": [
+      "IS 4098: 1983"
+    ],
+    "retrieved_standards": [
+      "IS 4098: 1983",
+      "IS 10360: 1982",
+      "IS 10772: 1983",
+      "IS 1489 (Part 2): 1991",
+      "IS 1489 (Part 1): 1991"
+    ],
+    "latency_seconds": 0.0419
+  },
+  {
+    "id": "SYN-049",
+    "query": "Our factory makes calcium silicate bricks. What is the IS standard that covers these?",
+    "expected_standards": [
+      "IS 4139: 1989"
+    ],
+    "retrieved_standards": [
+      "IS 4139: 1989",
+      "IS 12894: 2002",
+      "IS 9428: 1993",
+      "IS 13757: 1993",
+      "IS 6165: 1992"
+    ],
+    "latency_seconds": 0.0408
+  },
+  {
+    "id": "SYN-050",
+    "query": "We produce lime-pozzolana concrete blocks for paving. Is there a specific standard?",
+    "expected_standards": [
+      "IS 10360: 1982"
+    ],
+    "retrieved_standards": [
+      "IS 10360: 1982",
+      "IS 4098: 1983",
+      "IS 1489 (Part 1): 1991",
+      "IS 3115: 1992",
+      "IS 1489 (Part 2): 1991"
+    ],
+    "latency_seconds": 0.0433
+  },
+  {
+    "id": "SYN-051",
+    "query": "What is the standard for quick setting lime pozzolana mixture used in construction except reinforced concrete?",
+    "expected_standards": [
+      "IS 10772: 1983"
+    ],
+    "retrieved_standards": [
+      "IS 10772: 1983",
+      "IS 4098: 1983",
+      "IS 10360: 1982",
+      "IS 1489 (Part 1): 1991",
+      "IS 1489 (Part 2): 1991"
+    ],
+    "latency_seconds": 0.0466
+  },
+  {
+    "id": "SYN-052",
+    "query": "We make pulverized fuel ash-lime bricks. Which BIS standard covers their classification and physical requirements?",
+    "expected_standards": [
+      "IS 12894: 2002"
+    ],
+    "retrieved_standards": [
+      "IS 12894: 2002",
+      "IS 13757: 1993",
+      "IS 4139: 1989",
+      "IS 2180: 1988",
+      "IS 3068: 1986"
+    ],
+    "latency_seconds": 0.048
+  },
+  {
+    "id": "SYN-053",
+    "query": "Our workshop dresses natural building stones for ashlar masonry. Is there a standard for dimensions and workmanship?",
+    "expected_standards": [
+      "IS 1127: 1970"
+    ],
+    "retrieved_standards": [
+      "IS 1127: 1970",
+      "IS 9394: 1979",
+      "IS 3620: 1979",
+      "IS 1077: 1992",
+      "IS 12440: 1988"
+    ],
+    "latency_seconds": 0.0506
+  },
+  {
+    "id": "SYN-054",
+    "query": "We quarry limestone for flooring slabs and tiles. What BIS standard gives the physical property requirements?",
+    "expected_standards": [
+      "IS 1128: 1974"
+    ],
+    "retrieved_standards": [
+      "IS 1128: 1974",
+      "IS 1130: 1969",
+      "IS 3622: 1977",
+      "IS 13026: 1991",
+      "IS 1478: 1992"
+    ],
+    "latency_seconds": 0.05
+  },
+  {
+    "id": "SYN-055",
+    "query": "We supply marble blocks, slabs, and tiles. Which Indian Standard should we refer to for quality and sizes?",
+    "expected_standards": [
+      "IS 1130: 1969"
+    ],
+    "retrieved_standards": [
+      "IS 1130: 1969",
+      "IS 1478: 1992",
+      "IS 4139: 1989",
+      "IS 3622: 1977",
+      "IS 1237: 1980"
+    ],
+    "latency_seconds": 0.0531
+  },
+  {
+    "id": "SYN-056",
+    "query": "We mine granite for structural and ornamental use. What standard covers the strength and grading requirements?",
+    "expected_standards": [
+      "IS 1131: 1972"
+    ],
+    "retrieved_standards": [
+      "IS 3316: 1974",
+      "IS 14223 (Part 1): 1995",
+      "IS 1130: 1969",
+      "IS 8081: 1976",
+      "IS 3622: 1977"
+    ],
+    "latency_seconds": 0.052
+  },
+  {
+    "id": "SYN-057",
+    "query": "We produce laterite stone blocks for wall construction. Is there a BIS specification?",
+    "expected_standards": [
+      "IS 3620: 1977"
+    ],
+    "retrieved_standards": [
+      "IS 3620: 1979",
+      "IS 12440: 1988",
+      "IS 3115: 1992",
+      "IS 2185 (Part 1): 1979",
+      "IS 9893: 1981"
+    ],
+    "latency_seconds": 0.0409
+  },
+  {
+    "id": "SYN-058",
+    "query": "Our company supplies sandstone slabs and tiles for flooring and roofing. What is the relevant standard?",
+    "expected_standards": [
+      "IS 3622: 1977"
+    ],
+    "retrieved_standards": [
+      "IS 3622: 1977",
+      "IS 809: 1992",
+      "IS 1478: 1992",
+      "IS 1128: 1974",
+      "IS 1195: 2002"
+    ],
+    "latency_seconds": 0.0474
+  },
+  {
+    "id": "SYN-059",
+    "query": "We manufacture roofing slate tiles. Please provide the IS number that covers dimensions and physical properties.",
+    "expected_standards": [
+      "IS 6250: 1981"
+    ],
+    "retrieved_standards": [
+      "IS 6250: 1981",
+      "IS 3622: 1977",
+      "IS 1128: 1974",
+      "IS 3951 (Part 2): 1975",
+      "IS 1130: 1969"
+    ],
+    "latency_seconds": 0.0431
+  },
+  {
+    "id": "SYN-060",
+    "query": "We supply coarse aggregate for water bound macadam (WBM) roads. What standard defines the quality and grading?",
+    "expected_standards": [
+      "IS 6579: 1981"
+    ],
+    "retrieved_standards": [
+      "IS 6579: 1981",
+      "IS 5871: 1987",
+      "IS 383: 1970",
+      "IS 13026: 1991",
+      "IS 3117: 2004"
+    ],
+    "latency_seconds": 0.0492
+  },
+  {
+    "id": "SYN-061",
+    "query": "We produce natural stone lintels for doors and windows. Which standard gives the requirements for dimensions and transverse strength?",
+    "expected_standards": [
+      "IS 1129: 1972"
+    ],
+    "retrieved_standards": [
+      "IS 9394: 1979",
+      "IS 9893: 1981",
+      "IS 4351: 2003",
+      "IS 1038: 1983",
+      "IS 1127: 1970"
+    ],
+    "latency_seconds": 0.0502
+  },
+  {
+    "id": "SYN-062",
+    "query": "We need the standard for polished granite used as a building stone. What is it?",
+    "expected_standards": [
+      "IS 14223 (Part 1): 1995"
+    ],
+    "retrieved_standards": [
+      "IS 14223 (Part 1): 1995",
+      "IS 1127: 1970",
+      "IS 1130: 1969",
+      "IS 2116: 1980"
+    ],
+    "latency_seconds": 0.0466
+  },
+  {
+    "id": "SYN-063",
+    "query": "Our brick kiln produces common burnt clay building bricks. Which BIS standard covers their classification and physical properties?",
+    "expected_standards": [
+      "IS 1077: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 13757: 1993",
+      "IS 1077: 1992",
+      "IS 2180: 1988",
+      "IS 2222: 1991",
+      "IS 5779: 1986"
+    ],
+    "latency_seconds": 0.0489
+  },
+  {
+    "id": "SYN-064",
+    "query": "We manufacture heavy duty burnt clay building bricks with compressive strength above 40 N/mm\u00b2. What standard applies?",
+    "expected_standards": [
+      "IS 2180: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 2180: 1988",
+      "IS 1077: 1992",
+      "IS 2691: 1988",
+      "IS 12894: 2002",
+      "IS 5779: 1986"
+    ],
+    "latency_seconds": 0.0495
+  },
+  {
+    "id": "SYN-065",
+    "query": "We make perforated burnt clay bricks for walls and partitions. Is there a specific Indian Standard?",
+    "expected_standards": [
+      "IS 3985: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 2222: 1991",
+      "IS 3952: 1988",
+      "IS 13757: 1993",
+      "IS 1077: 1992",
+      "IS 2180: 1988"
+    ],
+    "latency_seconds": 0.0413
+  },
+  {
+    "id": "SYN-066",
+    "query": "Our unit produces burnt clay facing bricks for aesthetic exterior walls. Please provide the IS number.",
+    "expected_standards": [
+      "IS 2691: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 2691: 1988",
+      "IS 2180: 1988",
+      "IS 2222: 1991",
+      "IS 5779: 1986",
+      "IS 1077: 1992"
+    ],
+    "latency_seconds": 0.0431
+  },
+  {
+    "id": "SYN-067",
+    "query": "We are a small enterprise making burnt clay paving bricks. What standard governs their dimensions and quality?",
+    "expected_standards": [
+      "IS 3583: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 3583: 1988",
+      "IS 2180: 1988",
+      "IS 5779: 1986",
+      "IS 1077: 1992",
+      "IS 3952: 1988"
+    ],
+    "latency_seconds": 0.0439
+  },
+  {
+    "id": "SYN-068",
+    "query": "We manufacture burnt clay hollow bricks for walls and partitions. Which BIS standard should we follow?",
+    "expected_standards": [
+      "IS 3952: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 3952: 1988",
+      "IS 2222: 1991",
+      "IS 1077: 1992",
+      "IS 13757: 1993",
+      "IS 2180: 1988"
+    ],
+    "latency_seconds": 0.0366
+  },
+  {
+    "id": "SYN-069",
+    "query": "We supply burnt clay sewer bricks. What is the standard that tells the compressive strength and water absorption requirements?",
+    "expected_standards": [
+      "IS 4885: 1986"
+    ],
+    "retrieved_standards": [
+      "IS 4885: 1988",
+      "IS 5779: 1986",
+      "IS 12894: 2002",
+      "IS 2691: 1988",
+      "IS 1077: 1992"
+    ],
+    "latency_seconds": 0.0462
+  },
+  {
+    "id": "SYN-070",
+    "query": "We make burnt clay soling bricks for road foundations. Which standard applies?",
+    "expected_standards": [
+      "IS 5779: 1986"
+    ],
+    "retrieved_standards": [
+      "IS 5779: 1986",
+      "IS 3583: 1988",
+      "IS 13757: 1993",
+      "IS 1077: 1992",
+      "IS 2691: 1988"
+    ],
+    "latency_seconds": 0.0371
+  },
+  {
+    "id": "SYN-071",
+    "query": "Our workshop creates special shapes of clay bricks like plinth bricks and bullnose bricks. Is there a standard for dimensions?",
+    "expected_standards": [
+      "IS 6165: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 6165: 1992",
+      "IS 1077: 1992",
+      "IS 2180: 1988",
+      "IS 3952: 1988",
+      "IS 12894: 2002"
+    ],
+    "latency_seconds": 0.0478
+  },
+  {
+    "id": "SYN-072",
+    "query": "We manufacture burnt clay jallies for ventilators and parapet walls. What standard covers their strength and quality?",
+    "expected_standards": [
+      "IS 7550: 1989"
+    ],
+    "retrieved_standards": [
+      "IS 7556: 1988",
+      "IS 13757: 1993",
+      "IS 2180: 1988",
+      "IS 2222: 1991",
+      "IS 1077: 1992"
+    ],
+    "latency_seconds": 0.0539
+  },
+  {
+    "id": "SYN-073",
+    "query": "Our factory makes clay roofing tiles of the Mangalore pattern. Which Indian Standard gives the specification?",
+    "expected_standards": [
+      "IS 654: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 654: 1992",
+      "IS 1478: 1992",
+      "IS 3951 (Part 2): 1975",
+      "IS 809: 1992",
+      "IS 2690 (Part 1): 1993"
+    ],
+    "latency_seconds": 0.0454
+  },
+  {
+    "id": "SYN-074",
+    "query": "We produce clay ridge and ceiling tiles. What BIS standard covers these supplementary roofing products?",
+    "expected_standards": [
+      "IS 1464: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 1464: 1992",
+      "IS 1478: 1992",
+      "IS 3951 (Part 2): 1975",
+      "IS 3951 (Part 1): 1975",
+      "IS 13756: 1993"
+    ],
+    "latency_seconds": 0.0406
+  },
+  {
+    "id": "SYN-075",
+    "query": "We supply clay flooring tiles. Which standard specifies their flexural strength and water absorption?",
+    "expected_standards": [
+      "IS 1478: 1969"
+    ],
+    "retrieved_standards": [
+      "IS 1478: 1992",
+      "IS 3951 (Part 2): 1975",
+      "IS 13756: 1993",
+      "IS 3951 (Part 1): 1975",
+      "IS 13754: 1993"
+    ],
+    "latency_seconds": 0.0393
+  },
+  {
+    "id": "SYN-076",
+    "query": "Our unit makes machine-made burnt clay flat terracing tiles. What is the relevant IS standard?",
+    "expected_standards": [
+      "IS 2690 (Part 1): 1993"
+    ],
+    "retrieved_standards": [
+      "IS 2690 (Part 1): 1993",
+      "IS 2690 (Part 2): 1992",
+      "IS 1478: 1992",
+      "IS 3367: 1993",
+      "IS 1464: 1992"
+    ],
+    "latency_seconds": 0.0401
+  },
+  {
+    "id": "SYN-077",
+    "query": "We produce hand-made burnt clay flat terracing tiles. Which standard should we comply with?",
+    "expected_standards": [
+      "IS 2690 (Part 2): 1992"
+    ],
+    "retrieved_standards": [
+      "IS 2690 (Part 2): 1992",
+      "IS 2690 (Part 1): 1993",
+      "IS 1478: 1992",
+      "IS 3367: 1993",
+      "IS 13756: 1993"
+    ],
+    "latency_seconds": 0.0386
+  },
+  {
+    "id": "SYN-078",
+    "query": "We manufacture burnt clay tiles for lining irrigation canals and drainage channels. What standard applies?",
+    "expected_standards": [
+      "IS 3367: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 3367: 1993",
+      "IS 2690 (Part 1): 1993",
+      "IS 2690 (Part 2): 1992",
+      "IS 1478: 1992",
+      "IS 5779: 1986"
+    ],
+    "latency_seconds": 0.0347
+  },
+  {
+    "id": "SYN-079",
+    "query": "Our company makes hollow clay filler tiles for floors and roofs. Is there a BIS specification for these?",
+    "expected_standards": [
+      "IS 3951 (Part 1): 1975"
+    ],
+    "retrieved_standards": [
+      "IS 3951 (Part 1): 1975",
+      "IS 3951 (Part 2): 1975",
+      "IS 1478: 1992",
+      "IS 13756: 1993",
+      "IS 13754: 1993"
+    ],
+    "latency_seconds": 0.0473
+  },
+  {
+    "id": "SYN-080",
+    "query": "We require the standard for structural hollow clay tiles suitable for floor/roof construction.",
+    "expected_standards": [
+      "IS 3951 (Part 2): 1975"
+    ],
+    "retrieved_standards": [
+      "IS 3951 (Part 2): 1975",
+      "IS 3951 (Part 1): 1975",
+      "IS 1478: 1992",
+      "IS 1128: 1974",
+      "IS 6250: 1981"
+    ],
+    "latency_seconds": 0.0461
+  },
+  {
+    "id": "SYN-081",
+    "query": "We are a hand-made tile unit producing clay country roofing tiles (half round and flat). What is the governing Indian Standard?",
+    "expected_standards": [
+      "IS 13317: 1992"
+    ],
+    "retrieved_standards": [
+      "IS 2690 (Part 2): 1992",
+      "IS 1478: 1992",
+      "IS 654: 1992",
+      "IS 2690 (Part 1): 1993",
+      "IS 3951 (Part 2): 1975"
+    ],
+    "latency_seconds": 0.0592
+  },
+  {
+    "id": "SYN-082",
+    "query": "Our factory produces gypsum plaster boards for wall and ceiling lining. Which standard covers plain gypsum plaster boards?",
+    "expected_standards": [
+      "IS 2095 (Part 1): 1996"
+    ],
+    "retrieved_standards": [
+      "IS 2095 (Part 1): 1996",
+      "IS 2095 (Part 3): 1996",
+      "IS 8272: 1984",
+      "IS 2547 (Part 1): 1976",
+      "IS 2547 (Part 2): 1976"
+    ],
+    "latency_seconds": 0.0539
+  },
+  {
+    "id": "SYN-083",
+    "query": "We manufacture fibrous gypsum plaster boards and glass fibre reinforced gypsum boards. Please give the standard.",
+    "expected_standards": [
+      "IS 2095 (Part 3): 1996"
+    ],
+    "retrieved_standards": [
+      "IS 2095 (Part 3): 1996",
+      "IS 8272: 1984",
+      "IS 2095 (Part 1): 1996",
+      "IS 1658: 1977",
+      "IS 12406: 2003"
+    ],
+    "latency_seconds": 0.0522
+  },
+  {
+    "id": "SYN-084",
+    "query": "We supply gypsum building plasters for general building work. What is the BIS specification?",
+    "expected_standards": [
+      "IS 2547 (Part 1): 1976"
+    ],
+    "retrieved_standards": [
+      "IS 2547 (Part 1): 1976",
+      "IS 2095 (Part 1): 1996",
+      "IS 2095 (Part 3): 1996",
+      "IS 8272: 1984",
+      "IS 2547 (Part 2): 1976"
+    ],
+    "latency_seconds": 0.0444
+  },
+  {
+    "id": "SYN-085",
+    "query": "We produce non-load bearing gypsum partition blocks. Which standard applies?",
+    "expected_standards": [
+      "IS 2849: 1983"
+    ],
+    "retrieved_standards": [
+      "IS 2849: 1983",
+      "IS 2185 (Part 1): 1979",
+      "IS 3316: 1974",
+      "IS 12440: 1988",
+      "IS 3115: 1992"
+    ],
+    "latency_seconds": 0.0406
+  },
+  {
+    "id": "SYN-086",
+    "query": "We need the standard for gypsum plaster used in manufacturing fibrous plaster boards.",
+    "expected_standards": [
+      "IS 8272: 1984"
+    ],
+    "retrieved_standards": [
+      "IS 8272: 1984",
+      "IS 2095 (Part 1): 1996",
+      "IS 2095 (Part 3): 1996",
+      "IS 1658: 1977",
+      "IS 2547 (Part 1): 1976"
+    ],
+    "latency_seconds": 0.0389
+  },
+  {
+    "id": "SYN-087",
+    "query": "We are a sawmill that supplies coniferous sawn timber for structural use. Which BIS standard covers baulks and scantlings?",
+    "expected_standards": [
+      "IS 1141: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 190: 1991",
+      "IS 1326: 1992",
+      "IS 14616: 1999",
+      "IS 2372: 2004",
+      "IS 3629: 1986"
+    ],
+    "latency_seconds": 0.0563
+  },
+  {
+    "id": "SYN-088",
+    "query": "We want to classify Indian timber species for door and window shutters and frames. What standard provides this classification?",
+    "expected_standards": [
+      "IS 12896: 1990"
+    ],
+    "retrieved_standards": [
+      "IS 12896: 1990",
+      "IS 399: 1963",
+      "IS 4021: 1995",
+      "IS 2202 (Part 2): 1983",
+      "IS 1003 (Part 2): 1994"
+    ],
+    "latency_seconds": 0.0425
+  },
+  {
+    "id": "SYN-089",
+    "query": "We treat and supply wood poles for overhead power lines. Which Indian Standard covers the requirements?",
+    "expected_standards": [
+      "IS 2371: 1984"
+    ],
+    "retrieved_standards": [
+      "IS 6056: 1970",
+      "IS 876: 1992",
+      "IS 14772: 2000",
+      "IS 12896: 1990",
+      "IS 9537 (Part 5): 2000"
+    ],
+    "latency_seconds": 0.0375
+  },
+  {
+    "id": "SYN-090",
+    "query": "Our depot stores converted timber for structural and non-structural use. What standard specifies the cut sizes and tolerances?",
+    "expected_standards": [
+      "IS 4891: 1988"
+    ],
+    "retrieved_standards": [
+      "IS 3629: 1986",
+      "IS 2372: 2004",
+      "IS 1326: 1992",
+      "IS 7308: 1999",
+      "IS 190: 1991"
+    ],
+    "latency_seconds": 0.0442
+  },
+  {
+    "id": "SYN-091",
+    "query": "We produce teak squares for conversion. Is there a standard for grading based on defects?",
+    "expected_standards": [
+      "IS 3731: 1985"
+    ],
+    "retrieved_standards": [
+      "IS 3731: 1985",
+      "IS 4895: 1985",
+      "IS 12896: 1990",
+      "IS 1328: 1996",
+      "IS 2835: 1987"
+    ],
+    "latency_seconds": 0.0386
+  },
+  {
+    "id": "SYN-092",
+    "query": "We supply wood sleepers for broad gauge and metre gauge railway tracks. Which BIS standard applies?",
+    "expected_standards": [
+      "IS 3535: 1966"
+    ],
+    "retrieved_standards": [
+      "IS 10394: 1982",
+      "IS 809: 1992",
+      "IS 848: 1974",
+      "IS 12896: 1990",
+      "IS 4962: 1968"
+    ],
+    "latency_seconds": 0.0504
+  },
+  {
+    "id": "SYN-093",
+    "query": "We manufacture animal glue for wood-working. What is the standard for quality and bonding strength?",
+    "expected_standards": [
+      "IS 852: 1994"
+    ],
+    "retrieved_standards": [
+      "IS 852: 1994",
+      "IS 849: 1994",
+      "IS 851: 1978",
+      "IS 12896: 1990",
+      "IS 14276: 1995"
+    ],
+    "latency_seconds": 0.0443
+  },
+  {
+    "id": "SYN-094",
+    "query": "Our company produces cold setting casein glue for wood panel industry. Which standard should we follow?",
+    "expected_standards": [
+      "IS 849: 1994"
+    ],
+    "retrieved_standards": [
+      "IS 849: 1994",
+      "IS 852: 1994",
+      "IS 848: 1974",
+      "IS 15380: 2003",
+      "IS 12896: 1990"
+    ],
+    "latency_seconds": 0.0367
+  },
+  {
+    "id": "SYN-095",
+    "query": "We make synthetic resin adhesives for non-structural wood joinery. What BIS standard covers the classification and performance?",
+    "expected_standards": [
+      "IS 851: 1978"
+    ],
+    "retrieved_standards": [
+      "IS 851: 1978",
+      "IS 848: 1974",
+      "IS 14276: 1995",
+      "IS 2046: 1995",
+      "IS 12896: 1990"
+    ],
+    "latency_seconds": 0.0435
+  },
+  {
+    "id": "SYN-096",
+    "query": "We manufacture flat transparent sheet glass for glazing and mirrors. Which Indian Standard specifies the quality and defects?",
+    "expected_standards": [
+      "IS 2835: 1987"
+    ],
+    "retrieved_standards": [
+      "IS 2835: 1987",
+      "IS 2553 (Part 1): 1990",
+      "IS 2556 (Part 1): 1994",
+      "IS 2556 (Part 14): 1994",
+      "IS 2556 (Part 15): 1995"
+    ],
+    "latency_seconds": 0.0436
+  },
+  {
+    "id": "SYN-097",
+    "query": "We produce safety glass (toughened and laminated) for building doors and windows. What standard applies?",
+    "expected_standards": [
+      "IS 2553 (Part 1): 1990"
+    ],
+    "retrieved_standards": [
+      "IS 1038: 1983",
+      "IS 2553 (Part 1): 1990",
+      "IS 1948: 1961",
+      "IS 4021: 1995",
+      "IS 2835: 1987"
+    ],
+    "latency_seconds": 0.0364
+  },
+  {
+    "id": "SYN-098",
+    "query": "We make silvered glass mirrors for household and industrial use. Which standard covers the silvering and reflectance?",
+    "expected_standards": [
+      "IS 3438: 1994"
+    ],
+    "retrieved_standards": [
+      "IS 3438: 1994",
+      "IS 2556 (Part 1): 1994",
+      "IS 2553 (Part 1): 1990",
+      "IS 2835: 1987",
+      "IS 5437: 1994"
+    ],
+    "latency_seconds": 0.047
+  },
+  {
+    "id": "SYN-099",
+    "query": "Our plant manufactures figured, rolled, and wired glass for decorative and fire-resistant applications. What is the relevant IS specification?",
+    "expected_standards": [
+      "IS 5437: 1994"
+    ],
+    "retrieved_standards": [
+      "IS 5437: 1994",
+      "IS 1863: 1979",
+      "IS 3006: 1979",
+      "IS 7452: 1990",
+      "IS 2835: 1987"
+    ],
+    "latency_seconds": 0.0376
+  },
+  {
+    "id": "SYN-100",
+    "query": "We putty for fixing glass panes on window frames. Is there a standard for the composition and keeping properties of such putty?",
+    "expected_standards": [
+      "IS 419: 1967"
+    ],
+    "retrieved_standards": [
+      "IS 419: 1967",
+      "IS 4021: 1995",
+      "IS 1038: 1983",
+      "IS 2553 (Part 1): 1990",
+      "IS 12896: 1990"
+    ],
+    "latency_seconds": 0.0408
+  },
+  {
+    "id": "SYN-101",
+    "query": "We make ready mixed paint, brushing, grey filler for use under enamels. Which BIS standard should we comply with?",
+    "expected_standards": [
+      "IS 110: 1983"
+    ],
+    "retrieved_standards": [
+      "IS 110: 1983",
+      "IS 772: 1973",
+      "IS 2556 (Part 1): 1994",
+      "IS 13026: 1991",
+      "IS 12118 (Part 1): 1987"
+    ],
+    "latency_seconds": 0.0541
+  },
+  {
+    "id": "SYN-102",
+    "query": "We produce plastic wood (joiners filler) for filling cracks in timber. What is the standard number?",
+    "expected_standards": [
+      "IS 423: 1961"
+    ],
+    "retrieved_standards": [
+      "IS 423: 1961",
+      "IS 1003 (Part 1): 2003",
+      "IS 6198: 1992",
+      "IS 12896: 1990",
+      "IS 190: 1991"
+    ],
+    "latency_seconds": 0.0392
+  },
+  {
+    "id": "SYN-103",
+    "query": "Our company supplies mastic cement for bedding of metal windows. What specification governs this product?",
+    "expected_standards": [
+      "IS 3709: 1966"
+    ],
+    "retrieved_standards": [
+      "IS 3709: 1966",
+      "IS 5871: 1987",
+      "IS 14871: 2000",
+      "IS 1195: 2002",
+      "IS 1948: 1961"
+    ],
+    "latency_seconds": 0.055
+  },
+  {
+    "id": "SYN-104",
+    "query": "We fabricate unbacked flexible PVC flooring. Which IS standard covers the material and performance requirements?",
+    "expected_standards": [
+      "IS 3462: 1986"
+    ],
+    "retrieved_standards": [
+      "IS 3462: 1986",
+      "IS 13592: 1992",
+      "IS 14735: 1999",
+      "IS 809: 1992",
+      "IS 12818: 1992"
+    ],
+    "latency_seconds": 0.048
+  },
+  {
+    "id": "SYN-105",
+    "query": "We manufacture PVC asbestos floor tiles. What is the Indian Standard for these tiles?",
+    "expected_standards": [
+      "IS 3461: 1980"
+    ],
+    "retrieved_standards": [
+      "IS 3461: 1980",
+      "IS 1478: 1992",
+      "IS 809: 1992",
+      "IS 2098: 1997",
+      "IS 9627: 1980"
+    ],
+    "latency_seconds": 0.0383
+  },
+  {
+    "id": "SYN-106",
+    "query": "We supply cement concrete flooring tiles (plain, coloured, and terrazzo). What standard applies?",
+    "expected_standards": [
+      "IS 1237: 1980"
+    ],
+    "retrieved_standards": [
+      "IS 1237: 1980",
+      "IS 809: 1992",
+      "IS 2098: 1997",
+      "IS 14871: 2000",
+      "IS 1478: 1992"
+    ],
+    "latency_seconds": 0.0463
+  },
+  {
+    "id": "SYN-107",
+    "query": "Our company makes ceramic unglazed vitreous acid resisting tiles. Which BIS standard should we refer to?",
+    "expected_standards": [
+      "IS 4457: 1982"
+    ],
+    "retrieved_standards": [
+      "IS 4457: 1982",
+      "IS 2556 (Part 1): 1994",
+      "IS 13756: 1993",
+      "IS 2556 (Part 6): 1994",
+      "IS 2556 (Part 9): 1994"
+    ],
+    "latency_seconds": 0.0519
+  },
+  {
+    "id": "SYN-108",
+    "query": "We provide chemical resistant mortars of the silicate type for bonding acid-resistant masonry. What is the applicable standard?",
+    "expected_standards": [
+      "IS 4832 (Part 1): 1969"
+    ],
+    "retrieved_standards": [
+      "IS 4832 (Part 2): 1969",
+      "IS 4832 (Part 1): 1969",
+      "IS 4832 (Part 3): 1968",
+      "IS 4860: 1968",
+      "IS 4139: 1989"
+    ],
+    "latency_seconds": 0.0552
+  },
+  {
+    "id": "SYN-109",
+    "query": "We manufacture resin type chemical resistant mortars. Please give the relevant IS specification.",
+    "expected_standards": [
+      "IS 4832 (Part 2): 1969"
+    ],
+    "retrieved_standards": [
+      "IS 4832 (Part 2): 1969",
+      "IS 4832 (Part 3): 1968",
+      "IS 4832 (Part 1): 1969",
+      "IS 3006: 1979",
+      "IS 8043: 1991"
+    ],
+    "latency_seconds": 0.0427
+  },
+  {
+    "id": "SYN-110",
+    "query": "We produce sulphur type chemical resistant mortars. Which standard covers these?",
+    "expected_standards": [
+      "IS 4832 (Part 3): 1968"
+    ],
+    "retrieved_standards": [
+      "IS 4832 (Part 3): 1968",
+      "IS 12330: 1988",
+      "IS 4832 (Part 2): 1969",
+      "IS 4832 (Part 1): 1969",
+      "IS 11433 (Part 1): 1985"
+    ],
+    "latency_seconds": 0.0444
+  },
+  {
+    "id": "SYN-111",
+    "query": "Our brick plant makes acid-resistant bricks for chemical plants. What is the Indian Standard?",
+    "expected_standards": [
+      "IS 4860: 1968"
+    ],
+    "retrieved_standards": [
+      "IS 4860: 1968",
+      "IS 4832 (Part 2): 1969",
+      "IS 4832 (Part 3): 1968",
+      "IS 12894: 2002",
+      "IS 4832 (Part 1): 1969"
+    ],
+    "latency_seconds": 0.0502
+  },
+  {
+    "id": "SYN-112",
+    "query": "We are a ceramic tile manufacturer producing dust-pressed ceramic tiles with water absorption greater than 10%. What standard should we use?",
+    "expected_standards": [
+      "IS 13753: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 13756: 1993",
+      "IS 13754: 1993",
+      "IS 13755: 1993",
+      "IS 13753: 1993",
+      "IS 1478: 1992"
+    ],
+    "latency_seconds": 0.0461
+  },
+  {
+    "id": "SYN-113",
+    "query": "We produce dust-pressed ceramic tiles with water absorption between 6% and 10%. Which standard applies?",
+    "expected_standards": [
+      "IS 13754: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 13756: 1993",
+      "IS 13754: 1993",
+      "IS 13755: 1993",
+      "IS 13753: 1993",
+      "IS 1478: 1992"
+    ],
+    "latency_seconds": 0.0469
+  },
+  {
+    "id": "SYN-114",
+    "query": "Our company makes dust-pressed ceramic tiles with water absorption between 3% and 6%. What is the relevant IS?",
+    "expected_standards": [
+      "IS 13755: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 13756: 1993",
+      "IS 13754: 1993",
+      "IS 13755: 1993",
+      "IS 13753: 1993",
+      "IS 3951 (Part 2): 1975"
+    ],
+    "latency_seconds": 0.0374
+  },
+  {
+    "id": "SYN-115",
+    "query": "We manufacture dust-pressed ceramic tiles with low water absorption (E\u22643%). Please provide the standard number.",
+    "expected_standards": [
+      "IS 13756: 1993"
+    ],
+    "retrieved_standards": [
+      "IS 13756: 1993",
+      "IS 13754: 1993",
+      "IS 13755: 1993",
+      "IS 13753: 1993",
+      "IS 1478: 1992"
+    ],
+    "latency_seconds": 0.0469
+  },
+  {
+    "id": "SYN-116",
+    "query": "We produce fibre cement flat sheets for cladding and internal partitions. What BIS standard covers these?",
+    "expected_standards": [
+      "IS 14862: 2000"
+    ],
+    "retrieved_standards": [
+      "IS 14871: 2000",
+      "IS 14862: 2000",
+      "IS 2098: 1997",
+      "IS 13000: 1990",
+      "IS 2096: 1992"
+    ],
+    "latency_seconds": 0.0438
+  },
+  {
+    "id": "SYN-117",
+    "query": "We make long corrugated or asymmetrical section sheets of fibre reinforced cement for roofing. Which standard should we follow?",
+    "expected_standards": [
+      "IS 14871: 2000"
+    ],
+    "retrieved_standards": [
+      "IS 14871: 2000",
+      "IS 10388: 1982",
+      "IS 459: 1992",
+      "IS 14862: 2000",
+      "IS 12866: 1989"
+    ],
+    "latency_seconds": 0.0438
+  },
+  {
+    "id": "SYN-118",
+    "query": "Our unit produces bitumen mastic for flooring. What is the Indian Standard that gives the grades and composition?",
+    "expected_standards": [
+      "IS 1195: 2002"
+    ],
+    "retrieved_standards": [
+      "IS 1195: 2002",
+      "IS 13026: 1991",
+      "IS 8374: 1977",
+      "IS 5871: 1987",
+      "IS 3037: 1986"
+    ],
+    "latency_seconds": 0.0516
+  },
+  {
+    "id": "SYN-119",
+    "query": "We supply bitumen mastic for bridge decking and roads. Which BIS specification applies?",
+    "expected_standards": [
+      "IS 5317: 2002"
+    ],
+    "retrieved_standards": [
+      "IS 5317: 2002",
+      "IS 1195: 2002",
+      "IS 5871: 1987",
+      "IS 3037: 1986",
+      "IS 13026: 1991"
+    ],
+    "latency_seconds": 0.0464
+  },
+  {
+    "id": "SYN-120",
+    "query": "We manufacture bitumen mastic, anti-static and electrically conducting grade. What is the standard number?",
+    "expected_standards": [
+      "IS 8374: 1977"
+    ],
+    "retrieved_standards": [
+      "IS 8374: 1977",
+      "IS 1195: 2002",
+      "IS 5871: 1987",
+      "IS 13026: 1991",
+      "IS 5317: 2002"
+    ],
+    "latency_seconds": 0.0509
   }
 ]
