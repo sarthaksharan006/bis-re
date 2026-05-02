@@ -1,82 +1,73 @@
 {
   "contents": [
     {
+      "standard": "IS 6452: 1989",
+      "content": "HIGH ALUMINA CEMENT FOR STRUCTURAL USE",
+      "category": "CEMENT AND CONCRETE CEMENT"
+    },
+    {
       "standard": "IS 9893: 1981",
-      "content": "PRECAST CONCRETE BLOCKS FOR LINTELS AND SILLS. Requirements of precast concrete lintels and sills.",
+      "content": "PRECAST CONCRETE BLOCKS FOR LINTELS AND SILLS",
       "category": "CEMENT AND CONCRETE CEMENT MATRIX  PRODUCTS"
     },
     {
-      "standard": "IS 13990: 1994",
-      "content": "PRECAST REINFORCED CONCRETE PLANKS AND JOISTS FOR ROOFING AND FLOORING",
+      "standard": "IS 10388: 1982",
+      "content": "CORRUGATED COIR, WOODWOOL, CEMENT ROOFING SHEETS",
       "category": "CEMENT AND CONCRETE CEMENT MATRIX  PRODUCTS"
     },
     {
-      "standard": "IS 14143: 1994",
-      "content": "PREFABRICATED BRICK PANEL AND PARTIALLY PRECAST CONCRETE JOIST FOR FLOORING AND ROOFING",
+      "standard": "IS 12592: 2002",
+      "content": "PRECAST CONCRETE MANHOLE COVER AND FRAME Scope",
       "category": "CEMENT AND CONCRETE CEMENT MATRIX  PRODUCTS"
     },
     {
-      "standard": "IS 1838 (Part 1): 1983",
-      "content": "PREFORMED FILLERS FOR EXPANSION JOINT IN CONCRETE PAVEMENT AND STRUCTURES",
-      "category": "CEMENT AND CONCRETE TREATMENT OF CONCRETE  JOINTS"
+      "standard": "IS 8870: 1978",
+      "content": "ASBESTOS CEMENT CABLE CONDUITS AND TROUGHS",
+      "category": "CEMENT AND CONCRETE ASBESTOS CEMENT  PRODUCTS"
     },
     {
-      "standard": "IS 10772: 1983",
-      "content": "QUICK SETTING LIME POZZOLANA MIXTURE 50 kg with a tolerance of ±",
-      "category": "BUILDING LIMES"
-    },
-    {
-      "standard": "IS 3316: 1974",
-      "content": "STRUCTURAL GRANITE 3.2 Specific Gravity — Shall not be less than",
+      "standard": "IS 1128: 1974",
+      "content": "LIMESTONE",
       "category": "STONES"
     },
     {
-      "standard": "IS 1536: 2001",
-      "content": "CENTRIFUGALLY CAST Scope cast in sand linedmoulds. c) Brinell Hardness— shall not exceed 230",
+      "standard": "IS 2501: 1995",
+      "content": "SOLID DRAWN COPPER TUBES FOR GENERAL ENGINEERING PURPOSES Scope",
       "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
     },
     {
-      "standard": "IS 1537: 1976",
-      "content": "VERTICALLY CAST IRON PRESSURE PIPES FOR WATER, GAS AND SEWAGE Scope",
-      "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
+      "standard": "IS 1230: 1979",
+      "content": "CAST IRON RAINWATER PIPES AND FITTINGS Scope"
     },
     {
-      "standard": "IS 2002: 1979",
-      "content": "SAND CAST IRON SPIGOT AND SOCKET SOIL, WASTE AND VENTILATING PIPES, FITTINGS AND ACCESSORIES"
+      "standard": "IS 8008 (Part 6): 2003",
+      "content": "INJECTION MOULDED HIGH DENSITY POLYETHYLENE Scope",
+      "category": "SANITARY APPLIANCES AND WATER FITTINGS PLASTIC PIPES"
     },
     {
-      "standard": "IS 6418: 1971",
-      "content": "CAST IRON AND MALLEABLE CAST IRON FLANGES FOR GENERAL ENGINEERING PURPOSES Scope 1.",
-      "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
+      "standard": "IS 14333: 1996",
+      "content": "HIGH DENSITY POLYETHYELENE PIPES FOR SEWERAGE",
+      "category": "SANITARY APPLIANCES AND WATER FITTINGS PLASTIC PIPES"
     },
     {
-      "standard": "IS 7181: 1986",
-      "content": "HORIZONTALLY CAST IRON DOUBLE FLANGED PIPES FOR WATER, GAS AND SEWAGE",
-      "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
+      "standard": "IS 6286: 1971",
+      "content": "SEAMLESS AND WELDED STEEL PIPE FOR SUB-ZERO TEMPERATURE SERVICE",
+      "category": "SANITARY APPLIANCES AND WATER FITTINGS STEEL TUBES, PIPES AND FITTINGS"
     },
     {
-      "standard": "IS 5455: 1969",
-      "content": "CAST IRON STEPS FOR MANHOLES Scope – Requirements for cast iron steps for manholes.",
+      "standard": "IS 2556 (Part 4): 1994",
+      "content": "VITREOUS SANITARY APLLIANCES",
       "category": "SANITARY APPLIANCES AND WATER FITTINGS SANITARY APPLIANCES"
     },
     {
-      "standard": "IS 2209: 1976",
-      "content": "MORTICE LOCKS Scope – Requirements for mortice locks (vertical type)",
-      "category": "BUILDERS HARDWARE"
-    },
-    {
       "standard": "IS 3818: 1992",
-      "content": "CONTINUOUS (PIANO) HINGES – Requirements for continuous (piano) hinges.",
+      "content": "CONTINUOUS Scope – Requirements for continuous (piano) hinges.",
       "category": "BUILDERS HARDWARE"
     },
     {
-      "standard": "IS 14856: 2000",
-      "content": "GLASS FIBRE REINFORCED PLASTIC (GRP) PANEL TYPE DOOR SHUTTERS FOR INTERNAL USE"
-    },
-    {
-      "standard": "IS 2676: 1981",
-      "content": "DIMENSIONS FOR WROUGHT ALUMINIUM AND ALUMINIUM ALLOYS, SHEET AND STRIP",
-      "category": "LIGHT METALS AND THEIR ALLOYS"
+      "standard": "IS 2191 (Part 1): 1983",
+      "content": "WOODEN FLUSH DOOR SHUTTERS 3.",
+      "category": "DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS"
     },
     {
       "standard": "IS 3964: 1980",
@@ -84,25 +75,39 @@
       "category": "STRUCTURAL SHAPES STEEL SECTIONS"
     },
     {
-      "standard": "IS 5897: 1985",
-      "content": "ALUMINIUM AND ALUMINIUM ALLOY WELDING RODS AND WIRES AND MAGNESIUM ALLOY WELDING RODS Scope",
-      "category": "WELDING ELECTRODES AND WIRES"
+      "standard": "IS 8081: 1976",
+      "content": "SLOTTED SECTIONS Scope",
+      "category": "STRUCTURAL SHAPES STEEL SECTIONS"
     },
     {
-      "standard": "IS 1120: 1975",
-      "content": "COACH SCREW Scope – Requirements of hexagon head coach screws (hexagon head wood screws).",
-      "category": "THREADED FASTENERS AND RIVETS"
+      "standard": "IS 8154: 1993",
+      "content": "PREORMED CALCIUM SILICATE INSULATION",
+      "category": "THERMAL INSULATION MATERIALS"
     },
     {
-      "standard": "IS 6733: 1972",
-      "content": "WALL AND ROOFING NAILS Scope – Requirements of wall and roofing nails.",
-      "category": "THREADED FASTENERS AND RIVETS"
+      "standard": "IS 14643: 1999",
+      "content": "UNSINTERED POLYTETRAFLUOROETHYLENE (PTFE) TAPE FOR THREADS SEALING APPLICATIONS",
+      "category": "PLASTICS"
+    },
+    {
+      "standard": "IS 14753: 1999",
+      "content": "POLYMETHYL METHACRYLATE (PMMA) (ACRYLIC) SHEETS",
+      "category": "PLASTICS"
+    },
+    {
+      "standard": "IS 3837: 1976",
+      "content": "ACCESSORIES FOR RIGID STEEL CONDUITS FOR ELECTRICAL WIRING",
+      "category": "WIRING ACCESSORIES"
     }
   ],
   "no_category": [
     {
+      "standard": "IS 12896: 1990",
+      "content": "INDIAN TIMBERS FOR DOOR AND WINDOW SHUTTERS AND FRAMES – CLASSIFICATION Scope – Covers the general classification of Indian timber species suitable for door and window shutters and frames. It also lays down the general requirements of quality, seasoning, moisture content and preservative treatmesnt for timber. This standard does not, however, cover the species suitable for flush doors. 3.1.2 Group I — Strength coefficient : More than or equal to 80 Weight – Between 75-115 Durability – I or II In addition,these shall be good to very good in figure appearace and finishing. Species of this group are given in Annex B of the standard"
+    },
+    {
       "standard": "IS 1230: 1979",
-      "content": "CAST IRON RAINWATER PIPES AND FITTINGS. Requirements  for  cast  iron  rainwater  pipes,  half-round gutters, their fittings and accessories."
+      "content": "CAST IRON RAINWATER PIPES AND FITTINGS Scope"
     },
     {
       "standard": "IS 2002: 1979",
@@ -114,7 +119,7 @@
     },
     {
       "standard": "IS 848: 1974",
-      "content": "IS 3513 Scope – Requirements of resin treated compressed wood laminates (compregs) for general purposes. This standard does not cover the requirements for solid compressed wood. directions. This type shall have each successive lamination angularly disposed in relation to the adjacent one. This type is suited for fabrication of gears, chuck and wheels."
+      "content": "IS 3513 Scope – Requirements of resin treated compressed wood laminates (compregs) for elecrical purposes.This standard does not cover the requiremens for solid compressed wood. arrangement is suitable for parts under high voltage stress with limited clearances. e)Type V— In this type, the grain orientation of the constituent veneers shall be in the direction of the axis of load.This type is suitable for parts subject to tensile stress and is thus suited for fabrication of sticks, flats, rods, turned parts and threading. f)Type VI — In this type, the grain orientation of the constituent veneers shall be more or less equal in each axis, at right angles to each other.This type is of high compressive strength in the direction of its thickness and is also rigid. It is suited for sheet and block forms."
     },
     {
       "standard": "IS 848: 1974",
@@ -178,7 +183,7 @@
     },
     {
       "standard": "IS 1608: 1995",
-      "content": "IS 1785 Scope – Requirements for the manufacture, supply and testing of plain, cold drawn, stress-relieved steel wire for use in prestressed concrete. 5.1 Tensile Strength Nominal Diameter Tensile Strength mm Min. N/mm2"
+      "content": "IS 432 Scope – Requirements of hard-drawn steel wire of medium strength used as reinforcement in concrete. 5.1 Tensile Properties"
     },
     {
       "standard": "IS 1608: 1995",

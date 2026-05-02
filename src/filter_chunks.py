@@ -12,10 +12,10 @@ def filter_no_category(chunks):
 
 
 if __name__ == "__main__":
-    with open("data/chunks.json", "r", encoding="utf-8") as f:
+    with open("data/generated_chunks.json", "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
-    word_threshold = 15
+    word_threshold = 10
     short = filter_short_chunks(chunks, word_threshold)
     no_category = filter_no_category(chunks)
 
@@ -30,4 +30,4 @@ if __name__ == "__main__":
 
     print(f"Filtered chunks (< {word_threshold} words): {len(short)}")
     print(f"Chunks without category: {len(no_category)}")
-    print("Saved to data/filtered_chunks.json.\nManual editing needed.")
+    print("Saved to data/filtered_chunks.json.\nManual editing needed. Rename edited file to chunks.json")
