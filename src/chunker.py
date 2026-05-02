@@ -273,7 +273,7 @@ if __name__ == "__main__":
             if category:
                 entry["category"] = category
 
-    with open("data/chunks.json", "w") as f:
+    with open("data/generated_chunks.json", "w") as f:
         json.dump(chunks, f, indent=2)
 
     print("Chunks created:", len(chunks))
