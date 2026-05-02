@@ -2,4 +2,6 @@ PyMuPDF>=1.27.2.3
 sentence-transformers>=5.4.1
 faiss-cpu>=1.13.2
 numpy>=2.3.2
-torch>=2.11.0
+huggingface_hub
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
