@@ -1,4 +1,8 @@
 import json
+from .logger import get_logger
+
+
+LOGGER = get_logger(__name__)
 
 
 def filter_short_chunks(chunks, word_threshold):
@@ -12,6 +16,7 @@ def filter_no_category(chunks):
 
 
 if __name__ == "__main__":
+    LOGGER.info("Filtering bad chunks...")
     with open("data/generated_chunks.json", "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
@@ -28,6 +33,6 @@ if __name__ == "__main__":
     with open("data/filtered_chunks.json", "w", encoding="utf-8") as f:
         json.dump(out, f, indent=2, ensure_ascii=False)
 
-    print(f"Filtered chunks (< {word_threshold} words): {len(short)}")
-    print(f"Chunks without category: {len(no_category)}")
-    print("Saved to data/filtered_chunks.json.\nManual editing needed. Rename edited file to chunks.json")
+    LOGGER.info("Filtered chunks (< %d words): %d", word_threshold, len(short))
+    LOGGER.info("Chunks without \"category\": %d", len(no_category))
+    LOGGER.info("Saved to data/filtered_chunks.json. Manual editing needed. Rename edited file to chunks.json")

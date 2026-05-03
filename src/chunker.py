@@ -1,5 +1,9 @@
 import re
 import json
+from .logger import get_logger
+
+
+LOGGER = get_logger(__name__)
 
 
 def clean(text):
@@ -228,6 +232,7 @@ def extract_title_and_scope(block):
 
 def build_chunks(text):
     # Split each SUMMARY OF block into one chunk entry.
+    LOGGER.info("Building chunks...")
     blocks = text.split("SUMMARY OF")[1:]
 
     data = []
@@ -255,6 +260,7 @@ def build_chunks(text):
             "content": content
         })
 
+    LOGGER.info("Built %d chunks.", len(data))
     return data
 
 

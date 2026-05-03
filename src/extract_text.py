@@ -1,5 +1,9 @@
 import re
 import fitz
+from .logger import get_logger
+
+
+LOGGER = get_logger(__name__)
 
 
 def extract_pdf_text_blocks(pdf_path):
@@ -34,10 +38,11 @@ def cleanup_text(text):
 
 
 if __name__ == "__main__":
+    LOGGER.info("Extracting text from dataset.pdf...")
     text = extract_pdf_text_blocks("data/dataset.pdf")
     text = cleanup_text(text)
 
     with open("data/raw.txt", "w", encoding="utf-8") as f:
         f.write(text)
 
-    print("Saved text to raw.txt")
+    LOGGER.info("Saved text to data/raw.txt")

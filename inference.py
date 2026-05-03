@@ -2,6 +2,12 @@ import json
 import time
 import argparse
 from src.retriever import retrieve
+from src.logger import get_logger
+
+
+LOGGER = get_logger(__name__)
+
+LOGGER.info("Running inference...")
 
 
 def main(input_path, output_path):
@@ -29,6 +35,8 @@ def main(input_path, output_path):
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
+
+    LOGGER.info("Inference completed. Processed %d queries.", len(queries))
 
 
 if __name__ == "__main__":

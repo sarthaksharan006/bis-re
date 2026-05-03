@@ -2,20 +2,30 @@ import json
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
+from .constants import EMBEDDING_MODEL_NAME
+from .logger import get_logger
 
-print("Running embedder...")
-def load_model(model_name="BAAI/bge-base-en-v1.5"):
+LOGGER = get_logger(__name__)
+
+LOGGER.info("Running embedder...")
+
+
+def load_model(model_name=EMBEDDING_MODEL_NAME):
     try:
-        print("Trying to find model locally...")
+        LOGGER.info("Trying to find model locally...")
         model = SentenceTransformer(model_name, local_files_only=True)
-        print("Loaded model from local cache.")
+        LOGGER.info("Loaded model from local cache.")
         return model
 
-    except Exception as e:
-        print("Model not found locally. Downloading...")
-        model = SentenceTransformer(model_name)
-        print("Model downloaded and cached.")
-        return model
+    except Exception:
+        LOGGER.info("Model not found locally. Downloading...")
+        try:
+            model = SentenceTransformer(model_name)
+            LOGGER.info("Model downloaded and cached.")
+            return model
+        except Exception as download_error:
+            LOGGER.error("Error occurred while downloading model: %s", str(download_error))
+            raise
     
 model = load_model()
 
@@ -32,7 +42,7 @@ for item in data:
     combined = f"{category} {content}".strip() if category else content
     texts.append(combined)
 
-print("Encoding embeddings...")
+LOGGER.info("Encoding embeddings...")
 embeddings = model.encode(texts, show_progress_bar=True)
 
 embeddings = np.array(embeddings).astype("float32")
@@ -45,4 +55,4 @@ index.add(embeddings)
 # save index + metadata
 faiss.write_index(index, "data/index.faiss")
 
-print("Embeddings and index saved")
+LOGGER.info("Embeddings and index saved to data/index.faiss")

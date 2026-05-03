@@ -1,31 +1,49 @@
 from llama_cpp import Llama
 from huggingface_hub import hf_hub_download
-from pathlib import Path
+
+from src.constants import SYSTEM_PROMPT, MODEL_NAME, FILENAME
+from .logger import get_logger
+
+LOGGER = get_logger(__name__)
 
 
-class Generator:
-    def __init__(self, model_name="LiquidAI/LFM2-350M-GGUF", filename="LFM2-350M-Q4_K_M.gguf"):
-        self.model_name = model_name
-        self.filename = filename
-        self.model_path = self.download_model()
-        self.llm = Llama.from_pretrained(
-            repo_id=self.model_name,
-            filename=self.filename,
-            n_ctx=8000,
-            n_threads=4,
-            verbose=False
+def load_model(model_name=MODEL_NAME, filename=FILENAME):
+    try:
+        LOGGER.info("Trying to find model locally...")
+        hf_hub_download(repo_id=model_name, filename=filename, local_files_only=True)
+        LOGGER.info("Loaded model from local cache.")
+    except Exception as e:
+        LOGGER.info("Model not found locally. Downloading...")
+        try:
+            hf_hub_download(repo_id=model_name, filename=filename)
+            LOGGER.info("Model downloaded and cached.")
+        except Exception as download_error:
+            LOGGER.error("Error occurred while downloading model: %s", str(download_error))
+            raise
+
+    return Llama.from_pretrained(
+        repo_id=model_name,
+        filename=filename,
+        n_ctx=8000,
+        n_threads=4,
+        verbose=False,
+    )
+
+
+LLM = load_model()
+
+
+def generate(prompt, system_prompt=SYSTEM_PROMPT, max_tokens=256):
+    # Manually format the string into LFM's exact ChatML structure
+    try:
+        LOGGER.info("Generating response for prompt: %s", prompt)
+        formatted_prompt = (
+            f"<|startoftext|><|im_start|>system\n{system_prompt}<|im_end|>\n"
+            f"<|im_start|>user\n{prompt}<|im_end|>\n"
+            f"<|im_start|>assistant\n"
         )
-
-    def download_model(self):
-        model_path = hf_hub_download(repo_id=self.model_name, filename=self.filename)
-        return model_path
-
-    def generate(self, prompt, max_tokens=256):
-        output = self.llm(prompt, max_tokens=max_tokens)
+        output = LLM(formatted_prompt, max_tokens=max_tokens)
         return output["choices"][0]["text"]
-
-if __name__ == "__main__":
-    query = "What are the regulations for cement production in India?"
-    generator = Generator()
-    output = generator.generate(query, max_tokens=256)
-    print(output)
+    except Exception as e:
+        LOGGER.error("Error occurred during generation: %s", str(e))
+        raise RuntimeError("Generation failed") from e
