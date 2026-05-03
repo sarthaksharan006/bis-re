@@ -40,11 +40,11 @@ python setup.py
 ## Quick Start
 
 ### Bulk Inference Evaluation
-
-Evaluate retrieval quality across a test set:
+1. Upload `private_testset.json` to `data` folder.
+2. Evaluate retrieval quality across a test set:
 
 ```bash
-python inference.py --input data/testsets/public_test_set.json --output results.json
+python inference.py --input data/private_testset.json --output results.json
 python eval_script.py --results results.json
 ```
 
