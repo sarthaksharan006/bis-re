@@ -35,7 +35,7 @@ cd bis-re
 ```bash
 python setup.py
 ```
-    The script downloads the embedding model first, then prompts whether to download the optional GGUF LLM model.
+   The script downloads the embedding model first, then prompts whether to download the optional GGUF LLM model.
 
 ## Quick Start
 
