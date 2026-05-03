@@ -1,6 +1,7 @@
 import json
 import time
 import argparse
+from tqdm import tqdm
 from src.retriever import retrieve
 from src.logger import get_logger
 
@@ -16,7 +17,13 @@ def main(input_path, output_path):
 
     results = []
 
-    for item in queries:
+    for item in tqdm(
+        queries,
+        total=len(queries),
+        desc="Retrieving",
+        unit=" query",
+        dynamic_ncols=True,
+    ):
         start = time.time()
 
         query = item["query"]

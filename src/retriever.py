@@ -96,4 +96,3 @@ def retrieve_for_llm(query, k=5):
     return results
 
     
-LOGGER.info("Retrieving. Please wait...")

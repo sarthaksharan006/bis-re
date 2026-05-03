@@ -1,13 +1,22 @@
 print("Loading packages...")
 from sentence_transformers import SentenceTransformer
+from huggingface_hub import hf_hub_download
 
-MODEL_NAME = "BAAI/bge-base-en-v1.5"
+from src.constants import EMBEDDING_MODEL_NAME, MODEL_NAME, FILENAME
 
-def download_model():
-    print(f"Downloading model: {MODEL_NAME}")
-    SentenceTransformer(MODEL_NAME)
-    print("Model download complete.")
+
+def download_embedder():
+    print(f"Downloading embedding model: {EMBEDDING_MODEL_NAME}")
+    SentenceTransformer(EMBEDDING_MODEL_NAME)
+    print("Embedding model download complete.")
+
+
+def download_gguf():
+    print(f"Downloading GGUF model: {MODEL_NAME} / {FILENAME}")
+    hf_hub_download(repo_id=MODEL_NAME, filename=FILENAME)
+    print("GGUF model download complete.")
 
 
 if __name__ == "__main__":
-    download_model()
+    download_embedder()
+    download_gguf()
