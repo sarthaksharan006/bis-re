@@ -856,7 +856,8 @@
   },
   {
     "standard": "IS 1230: 1979",
-    "content": "CAST IRON RAINWATER PIPES AND FITTINGS. Requirements  for  cast  iron  rainwater  pipes,  half-round gutters, their fittings and accessories."
+    "content": "CAST IRON RAINWATER PIPES AND FITTINGS. Requirements  for  cast  iron  rainwater  pipes,  half-round gutters, their fittings and accessories.",
+    "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
   },
   {
     "standard": "IS 1536: 2001",
@@ -874,8 +875,9 @@
     "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES"
   },
   {
-    "standard": "IS 2002: 1979",
-    "content": "SAND CAST IRON SPIGOT AND SOCKET SOIL, WASTE AND VENTILATING PIPES, FITTINGS AND ACCESSORIES"
+    "standard": "IS 1729: 2002",
+    "content": "SAND CAST IRON SPIGOT AND SOCKET SOIL, WASTE AND VENTILATING PIPES, FITTINGS AND ACCESSORIES. Requirements for sand cast iron spigot and socketsoil, waste and ventilating pipes together with detailsof fittings and accessories.  These pipes and fittings areaccessories.  These pipes and fittings are sutiable foruse above ground only",
+    "category": "SANITARY APPLIANCES AND WATER FITTINGS PIPES  AND  FITTINGS  EXCLUDING  VALVES"
   },
   {
     "standard": "IS 1879: 1987",
@@ -1514,7 +1516,8 @@
   },
   {
     "standard": "IS 2681: 1993",
-    "content": "NON-FERROUS METAL SLIDING DOOR BOLTS Scope – Requirement for non-ferrous metal sliding door bolts (aldrops) commonly used in general building construction for locking doors, gates etc. with padlocks."
+    "content": "NON-FERROUS METAL SLIDING DOOR BOLTS Scope – Requirement for non-ferrous metal sliding door bolts (aldrops) commonly used in general building construction for locking doors, gates etc. with padlocks.",
+    "category": "BUILDERS HARDWARE"
   },
   {
     "standard": "IS 3818: 1992",
@@ -1747,16 +1750,24 @@
     "category": "WOOD PRODUCTS PARTICLE  BOARDS AND FIBRE BOARDS"
   },
   {
-    "standard": "IS 848: 1974",
-    "content": "IS 3513 Scope – Requirements of resin treated compressed wood laminates (compregs) for general purposes. This standard does not cover the requirements for solid compressed wood. directions. This type shall have each successive lamination angularly disposed in relation to the adjacent one. This type is suited for fabrication of gears, chuck and wheels."
+    "standard": "IS 3513 (Part 1): 1989",
+    "content": "RESIN  TREATED  COMPRESSED  WOOD LAMINATES  (COMPREGS)  PART  1  –  FOR  ELECTRICAL  PURPOSE  Requirements of resin treated compressedwood laminates (compregs) for elecrical purposes",
+    "category": "WOOD PRODUCTS WOOD BASED LAMINATES"
   },
   {
-    "standard": "IS 848: 1974",
-    "content": "IS 3513 Scope – Requirements of resin treated compressed wood laminates (compregs) for general purposes. This standard does not cover the requirements for solid compressed wood. directions. This type shall have each successive lamination angularly disposed in relation to the adjacent one. This type is suited for fabrication of gears, chuck and wheels."
+    "standard": "IS 3513 (Part 2): 1989",
+    "content": ":RESIN  TREATED  COMPRESSED  WOOD LAMINATES  (COMPREGS)  PART  2  FOR  CHEMICAL  PURPOSES Requirements of resin treated compressedwood laminates (compregs) for use in chemical industry",
+    "category": "WOOD PRODUCTS WOOD BASED LAMINATES"
+  },
+  {
+    "standard": "IS 3513 (Part 3): 1989",
+    "content": "RESIN  TREATED  COMPRESSED  WOODLAMINATES  (COMPREGS)  PART  3    FOR  GENERAL  PURPOSES Requirements of resin treated compressedwood laminates (compregs) for general purposes. ",
+    "category": "WOOD PRODUCTS WOOD BASED LAMINATES"
   },
   {
     "standard": "IS 14616: 1999",
-    "content": "LAMINATED VENEER LUMBER Scope—Covers laminated veneer lumber (LVL) of density range 0.6 to 0.75 in which most natural structural wood fall. Its applications include all the end uses to which structural wood has been traditionally used, such as, beams, rafters, stringers, joists, posts and framework construction, stiles, rails and frames of doors and windows, vehicle bodies, railways coaches, containers, framework of furniture, cabinets, shelving etc. 3.3.2 Only fixed type of water soluble preservatives, CCA or CCB, or non-leachable, solvent soluble preservatives as per ++ shall be used for treating the veneers. 3.3.3 Retentions of preservative shall be as per ++ depending upon the proposed end use."
+    "content": "LAMINATED VENEER LUMBER Covers   laminated  veneer lumber  (LVL)of  density  range  0.6  to  0.75  in  which  most  naturalstructural wood fall. Its applications include all the enduses to which structural wood has been traditionallyused,  such  as,  beams,  rafters,  stringers,  joists,  postsand framework construction, stiles, rails and frames ofdoors and windows, vehicle bodies, railways coaches,containers, framework of furniture, cabinets, shelving",
+    "category": "WOOD PRODUCTS WOOD BASED LAMINATES"
   },
   {
     "standard": "IS 13958: 1994",
@@ -1795,60 +1806,73 @@
   },
   {
     "standard": "IS 4021: 1995",
-    "content": "TIMBER DOOR, WINDOW AND VENTILATOR FRAMES second grade on the basis of permissible defects as given in Table 1 of the standard. Scope – Requirements regarding material, construction, workmanship and sizes of timber door, window and ventilator frames generally used in residential and institutional buildings."
+    "content": "TIMBER DOOR, WINDOW AND VENTILATOR FRAMES  Scope – Requirements regarding material, construction, workmanship and sizes of timber door, window and ventilator frames generally used in residential and institutional buildings.",
+    "category": "DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 4962: 1968",
-    "content": "WOODEN SIDE SLIDING DOORS 3.2 Tracks – Made of 2 mm thick structural steel sheet, galvanized. Scope — Requirements regarding material, type, shape fabrication, assembly and finish of wooden side sliding doors (of the straight sliding type), its gear components and fittings. 3.3 Roller – Shall conform to the prescribed standard. 3.4 Guides – Gun metal."
+    "content": "WOODEN SIDE SLIDING DOORS Scope — Requirements regarding material, type, shape fabrication, assembly and finish of wooden side sliding doors (of the straight sliding type), its gear components and fittings. 3.3 Roller – Shall conform to the prescribed standard. 3.4 Guides – Gun metal.",
+    "category": "DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS"  
   },
   {
     "standard": "IS 6198: 1992",
-    "content": "LEDGED, BRACED AND BATTENED TIMBER DOOR SHUTTERS Scope – Requirements regarding material, sizes, construction, workmanship and finish of ledged, braced and battened timber door shutters. Note – In arriving at the standard widths and heights,and allowance has been made of 60 mm for door frames, 40 mm forfloor finish and 5 mm clearance all round and 15 mm for rebate all round for the shutter into the frame. Example – 8 DS 21 would mean a shutter suitable for a single shutter door of 8 module width and 21 module height."
+    "content": "LEDGED, BRACED AND BATTENED TIMBER DOOR SHUTTERS Scope – Requirements regarding material, sizes, construction, workmanship and finish of ledged, braced and battened timber door shutters. Note – In arriving at the standard widths and heights,and allowance has been made of 60 mm for door frames, 40 mm forfloor finish and 5 mm clearance all round and 15 mm for rebate all round for the shutter into the frame. Example – 8 DS 21 would mean a shutter suitable for a single shutter door of 8 module width and 21 module height.",
+    "category": "DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 15380: 2003",
     "content": "MOULDED RAISED HIGH DENSITY FIBRE (HDF) PANEL DOORS Scope – This standard lays down requirements regarding types, sizes, material, construction, workmanship and finish and tests for high density fibre (HDF) panel doors. 4.2 Raised Fibreboard Skin Raised fibre board skin used in door shutters shall be of minimum thickness 3 mm of phenolic bonded high density fibre board conforming to the requirement given in Table",
-    "category": "DOORS, WINDOWS AND SHUTTERS IS6198 : 1992"
+    "category": "DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 1038: 1983",
-    "content": "STEEL DOOR, WINDOWS AND VENTILATORS Scope – Requirements regarding material, fabrication and finish of steel doors, windows, ventilators and fixed-lights manufactured from rolled steel sections to specified sizes and designs. Note 1– Doors, windows and ventilators without horizontal glazing bars shall be designated by ‘N’ in place of ‘H’ in the range shown. Note 2 – These sizes are derived after allowing 10 mm clearance on all the four sides for the purpose of fitting. This standard does not cover steel doors, windows,ventilators and fixed-lights for use in industrial buildings Note 3 – Doors, windows, ventilators and fixed light, shall be designated by symbols denoting their width (number of modules in the width of opening), type (C=centre hung shutter, F=fixed glass panes, H=with horizontal glazing bars, N=without horizontal glazing bars, S=side hung shutters, T= top hung shutters ) and height (number of modules in the height of opening)."
+    "content": "STEEL DOOR, WINDOWS AND VENTILATORS Scope – Requirements regarding material, fabrication and finish of steel doors, windows, ventilators and fixed-lights manufactured from rolled steel sections to specified sizes and designs. Note 1– Doors, windows and ventilators without horizontal glazing bars shall be designated by ‘N’ in place of ‘H’ in the range shown. Note 2 – These sizes are derived after allowing 10 mm clearance on all the four sides for the purpose of fitting. This standard does not cover steel doors, windows,ventilators and fixed-lights for use in industrial buildings Note 3 – Doors, windows, ventilators and fixed light, shall be designated by symbols denoting their width (number of modules in the width of opening), type (C=centre hung shutter, F=fixed glass panes, H=with horizontal glazing bars, N=without horizontal glazing bars, S=side hung shutters, T= top hung shutters ) and height (number of modules in the height of opening).",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 1361: 1978",
-    "content": "STEEL WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with steel windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. b) Ventilator (Opening part of a Sash) – Shall be of one size and designed to fit into outer frame of IN 10 C 10 and with 1.2 mm clearance. c) Tolerances – Manufacturing tolerances for overall dimensions ±3 mm"
+    "content": "STEEL WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with steel windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. b) Ventilator (Opening part of a Sash) – Shall be of one size and designed to fit into outer frame of IN 10 C 10 and with 1.2 mm clearance. c) Tolerances – Manufacturing tolerances for overall dimensions ±3 mm",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 1948: 1961",
-    "content": "ALUMINIUM DOORS, WINDOWS AND VENTILATORS horizontally glazed side-hung window coupled side by side with two fixed glass pane ventilators at top, each 10 module wide and 6 module high, is designated by: Scope – Requirements regarding material, fabrication and dimensions of aluminium doors, windows and ventilators, manufactured from extruded aluminium alloy sections of standard sizes and designs, complete with fittings, ready for being fixed into the buildings. This standard does not cover the requirements for industrial doors, windows and ventilators. 10 HF 6 / 10 HF 6 10 HS 12 / 10 HS 12"
+    "content": "ALUMINIUM DOORS, WINDOWS AND VENTILATORS Scope – Requirements regarding material, fabrication and dimensions of aluminium doors, windows and ventilators, manufactured from extruded aluminium alloy sections of standard sizes and designs, complete with fittings, ready for being fixed into the buildings.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 1949: 1961",
-    "content": "ALUMINIUM WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with aluminium windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. Note—The overall width and height of window is smaller than dimension of modular opening by"
+    "content": "ALUMINIUM WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with aluminium windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. Note—The overall width and height of window is smaller than dimension of modular opening by",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 4351: 2003",
-    "content": "STEEL DOOR FRAMES Scope – Requirements regarding material, dimensions and construction of steel door frames for internal and external use. four for jamb with fan light. For details refer 10.1 of the standard. 5.2 Hinges - Frames shall be provided with any one type of the hinges, conforming to the relevant Indian standards as given in Table 3 of the standard."
+    "content": "STEEL DOOR FRAMES Scope – Requirements regarding material, dimensions and construction of steel door frames for internal and external use. four for jamb with fan light. For details refer 10.1 of the standard. 5.2 Hinges - Frames shall be provided with any one type of the hinges, conforming to the relevant Indian standards as given in Table 3 of the standard.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 6248: 1979",
-    "content": "METAL ROLLING SHUTTERS AND ROLLING GRILLS Scope – Requirements regarding mateials, fabrication and finish of metal rolling shutters and rolling grills for normal use. 4.2 Lock Plate – Made of mid steel sheet not less than 3.15 mm thick, reinforced with mild steel angle section not less than 35×35×5 mm. Alternatively, it may be fabricated out of mild steel angles or ‘Tee’ sections not less than 5 mm thick. Note – Since the term ‘rolling shutters’ is more commonly used, the reference in this standard is mainly to rolling shutters. However, since rolling shutters and rolling grills are similar in design, construction and operation, all reference to rolling shutters in this standard shall apply of rolling grills also. Special features of rolling grills, as different from rolling shutters have also been given. 4.3 Guide Channels and Brackets Plates — Fabricated out of mild steel sheets of minimum, 3.15 mm thickness. 4.4 Hood Covers – Made of mild steel sheets not less than 0.9 mm thick."
+    "content": "METAL ROLLING SHUTTERS AND ROLLING GRILLS Scope – Requirements regarding mateials, fabrication and finish of metal rolling shutters and rolling grills for normal use. 4.2 Lock Plate – Made of mid steel sheet not less than 3.15 mm thick, reinforced with mild steel angle section not less than 35×35×5 mm. Alternatively, it may be fabricated out of mild steel angles or ‘Tee’ sections not less than 5 mm thick. Note – Since the term ‘rolling shutters’ is more commonly used, the reference in this standard is mainly to rolling shutters. However, since rolling shutters and rolling grills are similar in design, construction and operation, all reference to rolling shutters in this standard shall apply of rolling grills also. Special features of rolling grills, as different from rolling shutters have also been given. 4.3 Guide Channels and Brackets Plates — Fabricated out of mild steel sheets of minimum, 3.15 mm thickness. 4.4 Hood Covers – Made of mild steel sheets not less than 0.9 mm thick.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 7452: 1990",
-    "content": "HOT ROLLED STEEL SECTIONS FOR DOORS, WINDOWS AND VENTILATORS Scope – Requirements regarding materials, nominal dimension and mass, dimensional and mass tolerances, surface finish and packing for hot rolled steel sections used for doors, windows, ventilators and sashes. 4.2 Tolerances 4."
+    "content": "HOT ROLLED STEEL SECTIONS FOR DOORS, WINDOWS AND VENTILATORS Scope – Requirements regarding materials, nominal dimension and mass, dimensional and mass tolerances, surface finish and packing for hot rolled steel sections used for doors, windows, ventilators and sashes. 4.2 Tolerances 4.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 10451: 1983",
-    "content": "STEEL SLIDING SHUTTERS (TOP HUNG TYPE) Scope – Requirements regarding materials, type, shape, fabrication, assembly and finish of the top hung steel sliding shutters."
+    "content": "STEEL SLIDING SHUTTERS (TOP HUNG TYPE) Scope – Requirements regarding materials, type, shape, fabrication, assembly and finish of the top hung steel sliding shutters.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 10521: 1983",
-    "content": "COLLAPSIBLE GATES Scope – Requirements regarding materials, fabrication and finish of different types of collapsible gates."
+    "content": "COLLAPSIBLE GATES Scope – Requirements regarding materials, fabrication and finish of different types of collapsible gates.",
+    "category": "DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS"
   },
   {
     "standard": "IS 14856: 2000",
-    "content": "GLASS FIBRE REINFORCED PLASTIC (GRP) PANEL TYPE DOOR SHUTTERS FOR INTERNAL USE"
+    "content": "GLASS FIBRE REINFORCED PLASTIC (GRP) PANEL TYPE DOOR SHUTTERS FOR INTERNAL USE",
+    "category": "DOORS, WINDOWS AND SHUTTERS GRP PANEL DOOR SHUTTERS"
   },
   {
     "standard": "IS 432 (Part 1): 1982",
@@ -1856,17 +1880,19 @@
     "category": "CONCRETE REINFORCEMENT"
   },
   {
-    "standard": "IS 1608: 1995",
-    "content": "IS 1785 Scope – Requirements for the manufacture, supply and testing of plain, cold drawn, stress-relieved steel wire for use in prestressed concrete. 5.1 Tensile Strength Nominal Diameter Tensile Strength mm Min. N/mm2"
-  },
-  {
-    "standard": "IS 1566: 1982",
-    "content": "HARD - DRAWN STEEL WIRE FABRIC FOR CON- CRETE REINFORCEMENT Scope – Requirements for hard-drawn steel wire fabric consisting of hard-drawn steel with cross wires electrically welded to them for use as concrete reinforcement 7.1 Shall meet the minimum requirements for physical properties as prescribed in *.",
+    "standard": "IS 432 (Part 2): 1982",
+    "content": " MILD  STEEL  AND  MEDIUM  TENSILE  STEELBARS  AND  HARD-DRAWN  STEEL  WIRE  FOR  CONCRETEREINFORCEMENTPART  2  HARD-DRAWN  STEEL  WIRE – Requirements of hard-drawn steel wire ofmedium strength used as reinforcement in concrete",
     "category": "CONCRETE REINFORCEMENT"
   },
   {
-    "standard": "IS 1608: 1995",
-    "content": "IS 1785 Scope – Requirements for the manufacture, supply and testing of plain, cold drawn, stress-relieved steel wire for use in prestressed concrete. 5.1 Tensile Strength Nominal Diameter Tensile Strength mm Min. N/mm2"
+    "standard": "IS 1566: 1982",
+    "content": "HARD - DRAWN STEEL WIRE FABRIC FOR CON- CRETE REINFORCEMENT Scope – Requirements for hard-drawn steel wire fabric consisting of hard-drawn steel with cross wires electrically welded to them for use as concrete reinforcement",
+    "category": "CONCRETE REINFORCEMENT"
+  },
+  {
+    "standard": "IS 1785 (Part 1): 1983",
+    "content": "PLAIN  HARD-DRAWN  STEEL  WIRE  FORPRESTRESSED  CONCRETEPART  I  COLD  DRAWN  STRESS-RELIEVED  WIRE – Requirements for the manufacture, supply and testing of plain, cold drawn, stress-relieved steel wire for use in prestressed concrete. ",
+    "category": "CONCRETE REINFORCEMENT"
   },
   {
     "standard": "IS 1785 (Part 2): 1983",
