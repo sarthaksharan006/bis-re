@@ -7,7 +7,7 @@ This project is a retrieval-based BIS recommendation system built for a hackatho
 
 The repository also includes a Gradio-based RAG chatbot that retrieves supporting chunks and feeds them into a local GGUF LLM for answer generation.
 
-## Features
+## Features 
 
 - **Bulk Inference Evaluation**: Run large-scale retrieval tests with latency measurement and standardized metrics (Hit Rate @3, MRR @5).
 - **Interactive RAG Chatbot**: User-friendly Gradio interface for real-time queries, with retrieved standards displayed alongside LLM-generated answers.
