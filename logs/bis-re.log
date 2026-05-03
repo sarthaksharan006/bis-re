@@ -37,3 +37,266 @@
 2026-05-03 14:34:58 INFO: Loaded model from local cache.
 2026-05-03 14:34:58 INFO: Running inference...
 2026-05-03 14:35:04 INFO: Inference completed. Processed 120 queries.
+2026-05-03 16:15:29 INFO: Running retriever...
+2026-05-03 16:15:29 INFO: Trying to find model locally...
+2026-05-03 16:15:29 INFO: Loaded model from local cache.
+2026-05-03 16:15:29 INFO: Trying to find model locally...
+2026-05-03 16:15:29 INFO: Loaded model from local cache.
+2026-05-03 16:15:31 INFO: Loading generator model...
+2026-05-03 16:15:31 INFO: Model loaded!
+2026-05-03 16:16:04 INFO: Generating response for prompt: Context:
+Standard: IS 6198: 1992
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: LEDGED, BRACED AND BATTENED TIMBER DOOR SHUTTERS Scope – Requirements regarding material, sizes, construction, workmanship and finish of ledged, braced and battened timber door shutters. Note – In arriving at the standard widths and heights,and allowance has been made of 60 mm for door frames, 40 mm forfloor finish and 5 mm clearance all round and 15 mm for rebate all round for the shutter into the frame. Example – 8 DS 21 would mean a shutter suitable for a single shutter door of 8 module width and 21 module height.
+
+Standard: IS 4021: 1995
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: TIMBER DOOR, WINDOW AND VENTILATOR FRAMES  Scope – Requirements regarding material, construction, workmanship and sizes of timber door, window and ventilator frames generally used in residential and institutional buildings.
+
+Standard: IS 2202 (Part 2): 1983
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: WOODEN FLUSH DOOR SHUTTERS Scope – Requirements regarding material, grade, types, sizes, construction, finishes and tests of wooden flush door shutters of solid core type with particle board face panels (both veneered and unveneered) and hard- board face panels. Note 4 — In arriving at the standard widths and heights, an allowance has been made of 60 mm for door frames, 40 mm for floor finish and 5 mm clearance all round and 15 mm for rebate for the shutter into the frame. † Combined width of two shutters in closed position. 3.1 Thickness —
+
+Standard: IS 4962: 1968
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: WOODEN SIDE SLIDING DOORS Scope — Requirements regarding material, type, shape fabrication, assembly and finish of wooden side sliding doors (of the straight sliding type), its gear components and fittings. 3.3 Roller – Shall conform to the prescribed standard. 3.4 Guides – Gun metal.
+
+Standard: IS 1003 (Part 1): 2003
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: TIMBER PANELLED AND GLAZED SHUTTERS PART 1 DOOR SHUTTERS thickness 12 mm or more. 3.4 Veneered Particle Board Panelling — Shall be made of one piece of veneered particle board. Thickness shall not be less than 12 mm. Scope — Requirements regarding material, sizes, construction, workmanship, finish, inspection and testing of timber door shutters with timber, plywood, blockboard, veneered particle board, asbestos cement sheet, wire guage and glass panels used in domestic buildings, offices, schools, hospitals, etc. The shutters could be single panelled or multipanelled with or without glazing. 3.5 Asbestos Cement Board Panelling — Shall consist of two or more panels with thickness of each panel not less than 6 mm. 3.6 Medium Density Fibre Board Panelling— Thickness of boards shall not be less than 12 mm. This standard does not cover timber door shutters for industrial and other special buildings, such as, workshops and garages. 3.7 Prelaminated Particles Board Panelling— Thickness of boards shall not be less than 12 mm. 3.8 Wire Gauze Panelleing – Shall be so designated that no single panel exceeds 0.5 m2 in are
+
+Question: What are the regulations for wooden door production?
+
+Answer:
+2026-05-03 16:16:32 INFO: Generating response for prompt: Context:
+Standard: IS 1003 (Part 2): 1994
+Category: DOORS, WINDOWS AND SHUTTERS WOODEN DOORS AND WINDOWS - FRAMES AND SHUTTERS
+Content: TIMBER PANELLED AND GLAZED SHUTTERS PART 2 – WINDOW AND VENTILATOR SHUTTERS Scope – Requirements regarding material, sizes, construction, workmanship, finish, inspection and testing of timber window and ventilator shutters with timber, plywood, blockboard, wireguaze and glass panels used in domestic buildings, offices, schools, hospitals, etc. The shutters of windows are usually double leaved depending upon the design of window, which could be single panelled or multipanelled and generally with glazing.
+
+Standard: IS 14856: 2000
+Category: DOORS, WINDOWS AND SHUTTERS GRP PANEL DOOR SHUTTERS
+Content: GLASS FIBRE REINFORCED PLASTIC (GRP) PANEL TYPE DOOR SHUTTERS FOR INTERNAL USE
+
+Standard: IS 6318: 1971
+Category: BUILDERS HARDWARE
+Content: PLASTIC WINDOW STAYS AND FASTENERS Scope – Lays down performance and functional requirements of window stays made of polypropylene and fasteners (handles) made of nylon.
+
+Standard: IS 1361: 1978
+Category: DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS
+Content: STEEL WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with steel windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. b) Ventilator (Opening part of a Sash) – Shall be of one size and designed to fit into outer frame of IN 10 C 10 and with 1.2 mm clearance. c) Tolerances – Manufacturing tolerances for overall dimensions ±3 mm
+
+Standard: IS 1949: 1961
+Category: DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS
+Content: ALUMINIUM WINDOWS FOR INDUSTRIAL BUILDINGS Scope – Deals with aluminium windows suitable for use in industrial buildings and designed to suit openings based on a module of 10 cm. Note—The overall width and height of window is smaller than dimension of modular opening by
+
+Question: i make glass pane windows
+
+Answer:
+2026-05-03 16:17:05 INFO: Generating response for prompt: Context:
+Standard: IS 1285: 2002
+Category: LIGHT METALS AND THEIR ALLOYS
+Content: WROUGHT ALUMINIUM AND ALUMINIUM ALLOY EXTRUDED ROUND TUBE AND HOLLOW SECTIONS FOR GENERAL ENGINEERING PURPOSES Scope – Requirements of extruded round tube and hollow sections made from wrought aluminium and aluminium alloys for general engineering purposes. Designation Typical use conditioning, utensils, detonator caps, pressure vessles, fan blades and vehicle panelling. 52000 Panelling and structures, hydraulic tube appliances, refrigeration tubing condenser and heat exchanger tubes, gas and oil transmissino pipelines. 53000 Ship building; rivets; pressure vessels and other processing tanks; cryogenics, and welded structures. 54300 Welded structures, cryogenic applications, structural marine applications, rail and road tank cars, rivets and missile components. 62400 Further where appearance and bending characteristics are important, such as furniture applications. 63400 Architectural uses and other similar applications where surface finish is important and medium strength would suffice. Electrical conduits, tubes for wave guides, gas and oil transmission pipelines. 64423 Applications requiring good strength and machinability such as textile machinery components. 64430 Structural applications of all kinds, such as road and rail transport vehicles, bridges, cranes, roof trusses, rivets, etc. Cargo containers, milk containers, deep drawn containers and flooring. 65032 Similar to 64430 74530 Stressed structural applications requiring welding, such as bridges, chequered plates, dump-truck bodies, pressure vessels and rail coaches.
+
+Standard: IS 2676: 1981
+Category: LIGHT METALS AND THEIR ALLOYS
+Content: DIMENSIONS FOR WROUGHT ALUMINIUM AND ALUMINIUM ALLOYS, SHEET AND STRIP
+
+Standard: IS 733: 1983
+Category: LIGHT METALS AND THEIR ALLOYS
+Content: WROUGHT ALUMINIUM AND ALUMINIUM ALLOY BARS, RODS AND SECTIONS FOR GENERAL ENGINEERING PURPOSES Scope – Requirements for wrought aluminium and aluminium alloy bars, rods and sections for general engineering purposes. Designation Typical uses 45000 Filler wire for brazing. 52000 Panelling and structures, shear metal work and domestic appliances, marine applications like sheathing lining of boat bottom, etc. 53000 Shipbuilding; rivets; pressure vessels and other processing tanks, cryogenics, and welded structures. 54300 Welded structures, cryogenic applications, structural marine applications, rail and road tank cars, rivets and missile components. 63400 Architectural uses, such as, windows, door frames, wall facings, partitions, hand rails etc. and other similar applications where surface finish is important and medium strength would suffice. 63401 Bus bar application 64401 Conductor application 64423 Applications requiring good strength and machinability, such as, missile machinery components. 64430 Structural applications of all kinds, such as, road and rail transport vehicles, bridges,cranes, roof trusses, rivets, etc. Cargo containers, milk containers, deep-drawn containers, and flooring. 65032 Similar to 64430 74530 Stressed structural applications requiring welding, such as bridges, chequered plates, dump-truck bodies, pressure vessels and rail coaches, etc. 76528 Stressed structural applications capable of being used at low temperature.
+
+Standard: IS 1948: 1961
+Category: DOORS, WINDOWS AND SHUTTERS METAL DOORS AND WINDOWS-FRAMES AND SHUTTERS
+Content: ALUMINIUM DOORS, WINDOWS AND VENTILATORS Scope – Requirements regarding material, fabrication and dimensions of aluminium doors, windows and ventilators, manufactured from extruded aluminium alloy sections of standard sizes and designs, complete with fittings, ready for being fixed into the buildings.
+
+Standard: IS 739: 1992
+Category: LIGHT METALS AND THEIR ALLOYS
+Content: WROUGHT ALUMINIUM AND ALUMINIUM ALLOYS-WIRE FOR GENERAL ENGINEERING PURPOSES Scope – Requirements of wrought aluminium and aluminium alloy wire for general engineering purposes. Designation Typical Uses 43000 Filler wires for brazing and soldering, welding rods, sprays gun wires. 46000 Filler wires for brazing, welding rods, spray gun wires. 52000 Panelling and structures, rivet wires, zippers, grills, fasteners, filler rods for inert gas arc welding. 53000 Shipbuilding, rivets, pressure vessels, welding rods, zippers, screen wires, grills fasteners. 55000 Shipbuilding and other applications demanding moderately high strength with good corrosion resistance; rivets, zippers, welding wire, screen wires, grills, fasteners. 55380 Filler wires for welding rivets, screen wires. 63400 Architectural uses and other similar applications where surface finish is important and medium strength would suffice, builders hardware. 64430 Structural applications of all kinds, such as, road and rail transport vehicles, bridges, cranes, roof trusses, rivets, etc. Cargo containers, milk containers, deep drawn containers and flooring. 65032 Structural applications of all kinds rivets, builders hardwares and fastener rods
+
+Question: what standards do i need to keep in mind for aluminium extrusions
+
+Answer:
+2026-05-03 16:17:33 INFO: Generating response for prompt: Context:
+Standard: IS 1536: 2001
+Category: SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES
+Content: CENTRIFUGALLY CAST Scope cast in sand linedmoulds. c) Brinell Hardness— shall not exceed 230
+
+Standard: IS 1729: 2002
+Category: SANITARY APPLIANCES AND WATER FITTINGS PIPES  AND  FITTINGS  EXCLUDING  VALVES
+Content: SAND CAST IRON SPIGOT AND SOCKET SOIL, WASTE AND VENTILATING PIPES, FITTINGS AND ACCESSORIES. Requirements for sand cast iron spigot and socketsoil, waste and ventilating pipes together with detailsof fittings and accessories.  These pipes and fittings areaccessories.  These pipes and fittings are sutiable foruse above ground only
+
+Standard: IS 13382: 2004
+Category: SANITARY APPLIANCES AND WATER FITTINGS PIPES AND FITTINGS EXCLUDING VALVES
+Content: CAST IRON SPECIALS FOR MECHANICAL AND PUSH ON FLEXIBLE JOINTS FOR PRESSURE PIPE LINES FOR WATER, GAS AND SEWAGE (First revision) 3.3 The bolt hole circles shall be concentric with the bore and shall be located off the centre line, unless otherwise specified by the purchaser. Where there are two or more flanges, the bolt holes shall be correctly aligned. Scope — Requirements for cast iron special castings to be used with pressure pipes for carrying water, gas and sewage for sizes from DN 80 mm up to 1 500 mm cast iron and ductile iron. 1.
+
+Standard: IS 12894: 2002
+Category: BUILDING LIMES
+Content: PULVERIZED FUEL ASH-LIME BRICKS Scope — Requirements for classification, general quality, dimensions and physical requirements of fly ash-lime bricks used in buildings. 4.1.1 The standard modular sizes of pulverized fuel ash-lime bricks shall be as follows (see Fig. 1A and 1B): Note— Pulverized fuel ash lime bricks having wet compressive strength less than 30 N/mm2 approximately 300 kg/cm2 are covered in this standard and for higher strength see IS 2180 and IS
+
+Standard: IS 772: 1973
+Category: SANITARY APPLIANCES AND WATER FITTINGS SANITARY APPLIANCES
+Content: GENERAL REQUIREMENT FOR ENAMELLED CAST IRON SANITARY APPLIANCES e) Specks — less than 1mm and not exceeding 5 in number. Specks less than 0.25 mm in size shall not be treated as defects unless in sufficient number to form discolouration; and Scope — General requirement of material, thickness, warpage, enamelling, acid and alkali resistance, inspection rules and marking, for enamelled cast iron sanitary appliance like water-closets and commodes. f) Flaw — The number shall not exceed Small : 2, Max Medium : 2, Max Large : None.
+
+Question: what standards do i need to keep in mind for casting sand
+
+Answer:
+2026-05-03 16:22:45 INFO: Running retriever...
+2026-05-03 16:22:45 INFO: Trying to find model locally...
+2026-05-03 16:22:45 INFO: Loaded model from local cache.
+2026-05-03 16:22:45 INFO: Loaded grammar from c:\Code folder\bis-re\src\format.gbnf
+2026-05-03 16:22:45 INFO: Trying to find model locally...
+2026-05-03 16:22:45 INFO: Loaded model from local cache.
+2026-05-03 16:22:48 INFO: Loading generator model...
+2026-05-03 16:22:48 INFO: Model loaded!
+2026-05-03 16:23:00 INFO: Generating response for prompt: Context:
+Standard: IS 6165: 1992
+Category: CLAY PRODUCTS FOR BUILDINGS BRICKS
+Content: DIMENSIONS FOR SPECIAL SHAPES OF CLAY BRICKS Scope — Dimensions for special shapes of clay brick used in building and other civil engineering construction. It does not lay down the specification of the special shapes for clay bricks and same shall conform to * and IS: 2180:1988†.
+
+Standard: IS 2222: 1991
+Category: CLAY PRODUCTS FOR BUILDINGS BRICKS
+Content: BURNT CLAY PERFORATED BUILDING BRICKS Scope — Covers the dimensions, quality and physical requirements of perforated burnt clay bricks for use in walls and partitions.
+
+Standard: IS 3952: 1988
+Category: CLAY PRODUCTS FOR BUILDINGS BRICKS
+Content: BURNT CLAY HOLLOW BRICKS FOR WALLS AND PARTITIONS Thickness of any shell and web shall not be less than 11 mm and 8 mm respectively. Scope — Covers the dimensions, quality and strength requirements of hollow bricks made from burnt clay and having perforations through and at right angle to the bearing surface.
+
+Standard: IS 3583: 1988
+Category: CLAY PRODUCTS FOR BUILDINGS BRICKS
+Content: BURNT CLAY PAVING BRICKS Scope — Covers dimensions, quality and strength, and methods of sampling and test for burnt clay paving bricks for use in construction of pavements.
+
+Standard: IS 2180: 1988
+Category: CLAY PRODUCTS FOR BUILDINGS BRICKS
+Content: HEAVY DUTY BURNT CLAY BUILDING BRICKS Scope — Requirements for classification, general quality, dimensions and physical proterties of heavy duty burnt clay building bricks. 190 mm × 90 mm × 90 mm, and 190 mm × 90 mm × 40 mm
+
+Question: i make bricks
+
+Answer:
+2026-05-03 16:23:30 INFO: Generating response for prompt: Context:
+Standard: IS 8042: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: WHITE PORTLAND CEMENT 1 Scope prepared from white portland cement shall not be less than 90 percent of those specified for 33 grade ordinary Portland cement. 1.1 Manufacture and chemical and physical requirements of white Portland cement.
+
+Standard: IS 1592: 2003
+Category: CEMENT AND CONCRETE ASBESTOS CEMENT  PRODUCTS
+Content: ASBESTOS CEMENT PRESSURE PIPES Scope—Requirements relating to plain ended asbestos cement pipes and joints intended for use under pressure; it defines certain conditions of manufacture, classification, characteristics and acceptance tests applicable to these roducts. Note – Asbestos cement building pipes and pipe fittings, gutters and gutter fittings and roofing fittings are covered by IS
+
+Standard: IS 8112: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: 43 GRADE ORDINARY PORTLAND CEMENT 3.3 Setting Time — Scope — Manufacture, chemical and physical requirements of 43 grade ordinary Portland cement. a) Initial setting time in minutes —not less than
+
+Standard: IS 1489 (Part 1): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 1 FLY ASH BASED Scope — Covers the manufacture, physical and chemical requirements of Portland pozzolana cement using only fly ash pozzolana. 4.1Fineness — Specific surface shall be not less than 300 m2/kg.
+
+Standard: IS 1489 (Part 2): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 2 CALCINED CLAY BASED Scope — Manufacture, Physical and Chemical requriements of Portland- pozzolana cement manufactured by using calcined clay pozzolana or a mixture of calcined clay and fly ash pozzolana. 4 Physical requirements 4.1Fineness
+
+Question: What are the regulations for cement production?
+
+Answer:
+2026-05-03 16:24:04 INFO: Generating response for prompt: Context:
+Standard: IS 8042: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: WHITE PORTLAND CEMENT 1 Scope prepared from white portland cement shall not be less than 90 percent of those specified for 33 grade ordinary Portland cement. 1.1 Manufacture and chemical and physical requirements of white Portland cement.
+
+Standard: IS 1592: 2003
+Category: CEMENT AND CONCRETE ASBESTOS CEMENT  PRODUCTS
+Content: ASBESTOS CEMENT PRESSURE PIPES Scope—Requirements relating to plain ended asbestos cement pipes and joints intended for use under pressure; it defines certain conditions of manufacture, classification, characteristics and acceptance tests applicable to these roducts. Note – Asbestos cement building pipes and pipe fittings, gutters and gutter fittings and roofing fittings are covered by IS
+
+Standard: IS 8112: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: 43 GRADE ORDINARY PORTLAND CEMENT 3.3 Setting Time — Scope — Manufacture, chemical and physical requirements of 43 grade ordinary Portland cement. a) Initial setting time in minutes —not less than
+
+Standard: IS 1489 (Part 1): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 1 FLY ASH BASED Scope — Covers the manufacture, physical and chemical requirements of Portland pozzolana cement using only fly ash pozzolana. 4.1Fineness — Specific surface shall be not less than 300 m2/kg.
+
+Standard: IS 1489 (Part 2): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 2 CALCINED CLAY BASED Scope — Manufacture, Physical and Chemical requriements of Portland- pozzolana cement manufactured by using calcined clay pozzolana or a mixture of calcined clay and fly ash pozzolana. 4 Physical requirements 4.1Fineness
+
+Question: What are the regulations for cement production?
+
+Answer:
+2026-05-03 16:24:54 INFO: Running retriever...
+2026-05-03 16:24:54 INFO: Trying to find model locally...
+2026-05-03 16:24:54 INFO: Loaded model from local cache.
+2026-05-03 16:24:54 INFO: Trying to find model locally...
+2026-05-03 16:24:54 INFO: Loaded model from local cache.
+2026-05-03 16:24:56 INFO: Loading generator model...
+2026-05-03 16:24:56 INFO: Model loaded!
+2026-05-03 16:25:57 INFO: Running retriever...
+2026-05-03 16:25:57 INFO: Trying to find model locally...
+2026-05-03 16:25:57 INFO: Loaded model from local cache.
+2026-05-03 16:25:58 INFO: Trying to find model locally...
+2026-05-03 16:25:58 INFO: Loaded model from local cache.
+2026-05-03 16:25:59 INFO: Loading generator model...
+2026-05-03 16:25:59 INFO: Model loaded!
+2026-05-03 16:27:53 INFO: Running retriever...
+2026-05-03 16:27:53 INFO: Trying to find model locally...
+2026-05-03 16:27:53 INFO: Loaded model from local cache.
+2026-05-03 16:27:53 INFO: Trying to find model locally...
+2026-05-03 16:27:53 INFO: Loaded model from local cache.
+2026-05-03 16:27:56 INFO: Loading generator model...
+2026-05-03 16:27:56 INFO: Model loaded!
+2026-05-03 16:28:41 INFO: Running retriever...
+2026-05-03 16:28:41 INFO: Trying to find model locally...
+2026-05-03 16:28:42 INFO: Loaded model from local cache.
+2026-05-03 16:28:42 INFO: Trying to find model locally...
+2026-05-03 16:28:42 INFO: Loaded model from local cache.
+2026-05-03 16:28:44 INFO: Loading generator model...
+2026-05-03 16:28:44 INFO: Model loaded!
+2026-05-03 16:29:39 INFO: Running retriever...
+2026-05-03 16:29:39 INFO: Trying to find model locally...
+2026-05-03 16:29:40 INFO: Loaded model from local cache.
+2026-05-03 16:29:40 INFO: Trying to find model locally...
+2026-05-03 16:29:40 INFO: Loaded model from local cache.
+2026-05-03 16:29:42 INFO: Loading generator model...
+2026-05-03 16:29:42 INFO: Model loaded!
+2026-05-03 16:36:38 INFO: Running retriever...
+2026-05-03 16:36:38 INFO: Trying to find model locally...
+2026-05-03 16:36:38 INFO: Loaded model from local cache.
+2026-05-03 16:36:38 INFO: Trying to find model locally...
+2026-05-03 16:36:38 INFO: Loaded model from local cache.
+2026-05-03 16:36:40 INFO: Loading generator model...
+2026-05-03 16:36:40 INFO: Model loaded!
+2026-05-03 16:45:09 INFO: Running retriever...
+2026-05-03 16:45:09 INFO: Trying to find model locally...
+2026-05-03 16:45:09 INFO: Loaded model from local cache.
+2026-05-03 16:45:09 INFO: Trying to find model locally...
+2026-05-03 16:45:09 INFO: Loaded model from local cache.
+2026-05-03 16:45:11 INFO: Loading generator model...
+2026-05-03 16:45:11 INFO: Model loaded!
+2026-05-03 16:47:36 INFO: Running retriever...
+2026-05-03 16:47:36 INFO: Trying to find model locally...
+2026-05-03 16:47:36 INFO: Loaded model from local cache.
+2026-05-03 16:47:36 INFO: Trying to find model locally...
+2026-05-03 16:47:36 INFO: Loaded model from local cache.
+2026-05-03 16:47:39 INFO: Loading generator model...
+2026-05-03 16:47:39 INFO: Model loaded!
+2026-05-03 16:47:52 INFO: Generating response for prompt: Context:
+Standard: IS 8042: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: WHITE PORTLAND CEMENT 1 Scope prepared from white portland cement shall not be less than 90 percent of those specified for 33 grade ordinary Portland cement. 1.1 Manufacture and chemical and physical requirements of white Portland cement.
+
+Standard: IS 1592: 2003
+Category: CEMENT AND CONCRETE ASBESTOS CEMENT  PRODUCTS
+Content: ASBESTOS CEMENT PRESSURE PIPES Scope—Requirements relating to plain ended asbestos cement pipes and joints intended for use under pressure; it defines certain conditions of manufacture, classification, characteristics and acceptance tests applicable to these roducts. Note – Asbestos cement building pipes and pipe fittings, gutters and gutter fittings and roofing fittings are covered by IS
+
+Standard: IS 8112: 1989
+Category: CEMENT AND CONCRETE CEMENT
+Content: 43 GRADE ORDINARY PORTLAND CEMENT 3.3 Setting Time — Scope — Manufacture, chemical and physical requirements of 43 grade ordinary Portland cement. a) Initial setting time in minutes —not less than
+
+Standard: IS 1489 (Part 1): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 1 FLY ASH BASED Scope — Covers the manufacture, physical and chemical requirements of Portland pozzolana cement using only fly ash pozzolana. 4.1Fineness — Specific surface shall be not less than 300 m2/kg.
+
+Standard: IS 1489 (Part 2): 1991
+Category: CEMENT AND CONCRETE CEMENT
+Content: PORTLAND POZZOLANA CEMENT PART 2 CALCINED CLAY BASED Scope — Manufacture, Physical and Chemical requriements of Portland- pozzolana cement manufactured by using calcined clay pozzolana or a mixture of calcined clay and fly ash pozzolana. 4 Physical requirements 4.1Fineness
+
+Question: What are the regulations for cement production?
+
+Answer:
