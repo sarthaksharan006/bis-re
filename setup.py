@@ -19,4 +19,8 @@ def download_gguf():
 
 if __name__ == "__main__":
     download_embedder()
-    download_gguf()
+    answer = input("Download optional LLM model now? [y/N]: ").strip().lower()
+    if answer in {"y", "yes"}:
+        download_gguf()
+    else:
+        print("Skipping GGUF model download.")

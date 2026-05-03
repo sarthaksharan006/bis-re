@@ -8,15 +8,21 @@ from src.logger import get_logger
 
 LOGGER = get_logger(__name__)
 
+# This script evaluates retrieval quality in bulk.
+# It reads a JSON list of queries, runs retrieve() for each, and writes results
+# (including latency and expected vs. retrieved standards) to an output file.
+
 LOGGER.info("Running inference...")
 
 
 def main(input_path, output_path):
+    # Load input queries .json file.
     with open(input_path, "r", encoding="utf-8") as f:
         queries = json.load(f)
 
     results = []
 
+    # tqdm provides a progress bar with elapsed time and ETA.
     for item in tqdm(
         queries,
         total=len(queries),
@@ -24,14 +30,16 @@ def main(input_path, output_path):
         unit=" query",
         dynamic_ncols=True,
     ):
+        # Measure per-query latency for evaluation/reporting.
         start = time.time()
 
         query = item["query"]
-        # Control output size: change k=5 to desired number of results
+        # Control output size: change k=5 to desired number of results.
         retrieved = retrieve(query, k=5)
 
         latency = time.time() - start
 
+        # Persist the full record so offline evaluation can compare expected vs actual.
         results.append({
             "id": item["id"],
             "query": item["query"],
@@ -40,6 +48,7 @@ def main(input_path, output_path):
             "latency_seconds": round(latency, 4)
         })
 
+    # Write a JSON array of results for later scoring/analysis.
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
 

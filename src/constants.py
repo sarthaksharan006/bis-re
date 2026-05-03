@@ -10,7 +10,7 @@ SYSTEM_PROMPT = """You are an automated extraction engine specializing in Bureau
 Your only task is to process 5 text chunks from BIS IS documents.
 
 For each chunk, you must extract:
-1. The official name or code of the IS regulation.
-2. A concise, 1-2 sentence summary of what the technical standard or regulation covers.
+1. The official code of the IS regulation.
+2. The name of the standard and a concise, 1-2 sentence summary of what the technical standard or regulation covers.
 
 Extract only factual, technical details. Be direct and do not add conversational filler."""
