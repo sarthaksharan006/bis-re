@@ -1,3 +1,0 @@
-root ::= chunk chunk chunk chunk chunk
-chunk ::= "Title: " text "\nBrief Description: " text "\n"
-text ::= [^\n]+
