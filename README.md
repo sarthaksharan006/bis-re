@@ -6,6 +6,7 @@
 This project is a retrieval-based BIS recommendation system built for a hackathon. It turns BIS source material into searchable chunks, embeds them with a sentence-transformer model, and uses FAISS to retrieve the most relevant standards for a query.
 
 The repository also includes a Gradio-based RAG chatbot that retrieves supporting chunks and feeds them into a local GGUF LLM for answer generation.
+Demo video: https://drive.google.com/file/d/1sh8r5cC5q1kg7tzzQA6e6fvYu_pInhe2/view?usp=sharing
 
 ## Features 
 
