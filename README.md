@@ -22,17 +22,21 @@ git clone https://github.com/sarthaksharan006/bis-re.git
 cd bis-re
 ```
 
-2. Use Python 3.13 (`requires-python = ">=3.13,<3.14"`).
-
-3. Install dependencies:
+2. Setup Python 3.13 in virtual environment(`requires-python = ">=3.13,<3.14"`).
+   
+   Install uv with `pip install uv`.
+   ```bash
+   uv python install 3.13
+   uv python pin 3.13
+   ```
+4. Install dependencies:
    - **uv method (preferred)**:
-     - Install uv with `pip install uv`.
      - Run `uv sync` to install all dependencies and set up a virtual environment.
    - **pip method**:
      - Runtime dependencies are listed in `requirements.txt`.
      - Run `pip install -r requirements.txt`.
 
-4. Download models:
+5. Download models:
 ```bash
 python setup.py
 ```
